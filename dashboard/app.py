@@ -279,16 +279,20 @@ def chart_style(fig, height=420):
             color=NAVY,
             size=12
         ),
-        margin=dict(
+                margin=dict(
             l=25,
             r=25,
             t=55,
-            b=35
+            b=100
         ),
         legend=dict(
             orientation="h",
-            y=1.04,
-            x=0
+            yanchor="top",
+            y=-0.20,
+            xanchor="center",
+            x=0.5,
+            title_text="",
+            font=dict(size=11)
         ),
         hoverlabel=dict(
             bgcolor=WHITE,
