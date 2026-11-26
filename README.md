@@ -77,17 +77,21 @@ application of data engineering and business analytics.
 | Project indicator | Value |
 |---|---:|
 | Official INE datasets | 5 |
-| Statistical records | 26,103 |
+| Source statistical records | 26,103 |
 | PostgreSQL schemas | 3 functional schemas |
 | Staging tables | 5 |
 | Dimension tables | 9 |
 | Fact tables | 5 |
 | Analytical SQL views | 11 |
+| Exported analytical rows | 31,028 |
 | Database constraints | 94 |
 | Interactive analytical modules | 8 |
 | Data completeness | 99.01% |
 | Detected duplicate records | 0 |
+| Annual salary coverage | 2008–2024 |
 | Combined historical coverage | 2008–2026 |
+| Data access modes | PostgreSQL / CSV |
+| Cloud deployment | Streamlit Community Cloud |
 
 ---
 
