@@ -190,6 +190,38 @@ storage, analytical logic and presentation.
 The architecture provides a structured foundation for
 maintainability, reproducibility and future expansion.
 
+### Data Access & Deployment
+
+The application supports two data access modes:
+
+| Mode | Data source | Environment |
+|---|---|---|
+| PostgreSQL | Direct SQL queries to analytical views | Local development |
+| CSV | Exported PostgreSQL analytical views | Public cloud deployment |
+
+#### Local Architecture
+
+INE → Python ETL → PostgreSQL Staging → Data Warehouse
+→ SQL Analytical Views → Streamlit Dashboard
+
+#### Cloud Architecture
+
+PostgreSQL Analytical Views → CSV Snapshots
+→ GitHub Repository → Streamlit Community Cloud
+
+The public application uses 11 analytical data snapshots
+containing 31,028 exported rows.
+
+This deployment approach enables public access without
+exposing database credentials or requiring an externally
+hosted PostgreSQL server.
+
+The analytical calculations originate from the PostgreSQL
+warehouse, preserving the SQL-based business logic
+across both deployment modes.
+
+Cloud data snapshots must be regenerated when the
+underlying database is updated.
 ---
 
 ## 06 / Data Engineering
