@@ -1,0 +1,919 @@
+year,occupation,gender,annual_salary,quality_flag,is_reliable
+2024,Todas las ocupaciones,All,29540.26,STANDARD,True
+2023,Todas las ocupaciones,All,28049.94,STANDARD,True
+2022,Todas las ocupaciones,All,26948.87,STANDARD,True
+2021,Todas las ocupaciones,All,25896.82,STANDARD,True
+2020,Todas las ocupaciones,All,25165.51,STANDARD,True
+2019,Todas las ocupaciones,All,24395.98,STANDARD,True
+2018,Todas las ocupaciones,All,24009.12,STANDARD,True
+2017,Todas las ocupaciones,All,23646.5,STANDARD,True
+2016,Todas las ocupaciones,All,23156.34,STANDARD,True
+2015,Todas las ocupaciones,All,23106.3,STANDARD,True
+2014,Todas las ocupaciones,All,22858.17,STANDARD,True
+2013,Todas las ocupaciones,All,22697.86,STANDARD,True
+2012,Todas las ocupaciones,All,22726.44,STANDARD,True
+2011,Todas las ocupaciones,All,22899.35,STANDARD,True
+2010,Todas las ocupaciones,All,22790.2,STANDARD,True
+2009,Todas las ocupaciones,All,22511.47,STANDARD,True
+2008,Todas las ocupaciones,All,21883.42,STANDARD,True
+2024,Todas las ocupaciones,Female,26904.9,STANDARD,True
+2023,Todas las ocupaciones,Female,25591.31,STANDARD,True
+2022,Todas las ocupaciones,Female,24359.82,STANDARD,True
+2021,Todas las ocupaciones,Female,23175.95,STANDARD,True
+2020,Todas las ocupaciones,Female,22467.48,STANDARD,True
+2019,Todas las ocupaciones,Female,21682.02,STANDARD,True
+2018,Todas las ocupaciones,Female,21011.89,STANDARD,True
+2017,Todas las ocupaciones,Female,20607.85,STANDARD,True
+2016,Todas las ocupaciones,Female,20131.41,STANDARD,True
+2015,Todas las ocupaciones,Female,20051.58,STANDARD,True
+2014,Todas las ocupaciones,Female,19744.82,STANDARD,True
+2013,Todas las ocupaciones,Female,19514.58,STANDARD,True
+2012,Todas las ocupaciones,Female,19537.33,STANDARD,True
+2011,Todas las ocupaciones,Female,19767.59,STANDARD,True
+2010,Todas las ocupaciones,Female,19735.22,STANDARD,True
+2009,Todas las ocupaciones,Female,19502.02,STANDARD,True
+2008,Todas las ocupaciones,Female,18910.62,STANDARD,True
+2024,Todas las ocupaciones,Male,32057.55,STANDARD,True
+2023,Todas las ocupaciones,Male,30372.49,STANDARD,True
+2022,Todas las ocupaciones,Male,29381.84,STANDARD,True
+2021,Todas las ocupaciones,Male,28388.69,STANDARD,True
+2020,Todas las ocupaciones,Male,27642.52,STANDARD,True
+2019,Todas las ocupaciones,Male,26934.38,STANDARD,True
+2018,Todas las ocupaciones,Male,26738.19,STANDARD,True
+2017,Todas las ocupaciones,Male,26391.84,STANDARD,True
+2016,Todas las ocupaciones,Male,25924.43,STANDARD,True
+2015,Todas las ocupaciones,Male,25992.76,STANDARD,True
+2014,Todas las ocupaciones,Male,25727.24,STANDARD,True
+2013,Todas las ocupaciones,Male,25675.17,STANDARD,True
+2012,Todas las ocupaciones,Male,25682.05,STANDARD,True
+2011,Todas las ocupaciones,Male,25667.89,STANDARD,True
+2010,Todas las ocupaciones,Male,25479.74,STANDARD,True
+2009,Todas las ocupaciones,Male,25001.05,STANDARD,True
+2008,Todas las ocupaciones,Male,24203.33,STANDARD,True
+2024,A Directores y gerentes,All,63865.45,STANDARD,True
+2023,A Directores y gerentes,All,60985.96,STANDARD,True
+2022,A Directores y gerentes,All,59478.63,STANDARD,True
+2021,A Directores y gerentes,All,59219.83,STANDARD,True
+2020,A Directores y gerentes,All,58023.75,STANDARD,True
+2019,A Directores y gerentes,All,56634.74,STANDARD,True
+2018,A Directores y gerentes,All,54341.32,STANDARD,True
+2017,A Directores y gerentes,All,51010.54,STANDARD,True
+2016,A Directores y gerentes,All,50530.8,STANDARD,True
+2015,A Directores y gerentes,All,51645.86,STANDARD,True
+2014,A Directores y gerentes,All,52512.99,STANDARD,True
+2013,A Directores y gerentes,All,51594.26,STANDARD,True
+2012,A Directores y gerentes,All,53165.69,STANDARD,True
+2011,A Directores y gerentes,All,54396.44,STANDARD,True
+2010,A Directores y gerentes,All,56602.81,STANDARD,True
+2009,A Directores y gerentes,All,58895.19,STANDARD,True
+2008,A Directores y gerentes,All,57259.16,STANDARD,True
+2024,A Directores y gerentes,Female,57365.21,STANDARD,True
+2023,A Directores y gerentes,Female,54003.51,STANDARD,True
+2022,A Directores y gerentes,Female,53368.32,STANDARD,True
+2021,A Directores y gerentes,Female,51456.82,STANDARD,True
+2020,A Directores y gerentes,Female,50788.17,STANDARD,True
+2019,A Directores y gerentes,Female,48667.65,STANDARD,True
+2018,A Directores y gerentes,Female,46657.12,STANDARD,True
+2017,A Directores y gerentes,Female,42901.26,STANDARD,True
+2016,A Directores y gerentes,Female,43718.01,STANDARD,True
+2015,A Directores y gerentes,Female,44921.93,STANDARD,True
+2014,A Directores y gerentes,Female,45540.99,STANDARD,True
+2013,A Directores y gerentes,Female,45033.41,STANDARD,True
+2012,A Directores y gerentes,Female,47131.4,STANDARD,True
+2011,A Directores y gerentes,Female,47807.16,STANDARD,True
+2010,A Directores y gerentes,Female,48552.77,STANDARD,True
+2009,A Directores y gerentes,Female,47714.85,STANDARD,True
+2008,A Directores y gerentes,Female,46842.64,STANDARD,True
+2024,A Directores y gerentes,Male,68222.22,STANDARD,True
+2023,A Directores y gerentes,Male,65870.11,STANDARD,True
+2022,A Directores y gerentes,Male,62991.86,STANDARD,True
+2021,A Directores y gerentes,Male,63703.19,STANDARD,True
+2020,A Directores y gerentes,Male,61698.18,STANDARD,True
+2019,A Directores y gerentes,Male,60780.76,STANDARD,True
+2018,A Directores y gerentes,Male,58850.23,STANDARD,True
+2017,A Directores y gerentes,Male,55477.96,STANDARD,True
+2016,A Directores y gerentes,Male,54142.69,STANDARD,True
+2015,A Directores y gerentes,Male,55327.33,STANDARD,True
+2014,A Directores y gerentes,Male,56422.49,STANDARD,True
+2013,A Directores y gerentes,Male,55090.0,STANDARD,True
+2012,A Directores y gerentes,Male,56164.73,STANDARD,True
+2011,A Directores y gerentes,Male,57323.26,STANDARD,True
+2010,A Directores y gerentes,Male,60352.41,STANDARD,True
+2009,A Directores y gerentes,Male,62696.93,STANDARD,True
+2008,A Directores y gerentes,Male,61997.66,STANDARD,True
+2024,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,40554.53,STANDARD,True
+2023,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,38857.91,STANDARD,True
+2022,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,37456.34,STANDARD,True
+2021,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,36101.1,STANDARD,True
+2020,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,34809.61,STANDARD,True
+2019,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,33199.26,STANDARD,True
+2018,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,31607.73,STANDARD,True
+2017,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,31627.9,STANDARD,True
+2016,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,30653.34,STANDARD,True
+2015,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,29669.62,STANDARD,True
+2014,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,28838.91,STANDARD,True
+2013,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,29807.74,STANDARD,True
+2012,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,29460.87,STANDARD,True
+2011,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,30087.55,STANDARD,True
+2010,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,31054.93,STANDARD,True
+2009,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,30536.16,STANDARD,True
+2008,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,All,29319.57,STANDARD,True
+2024,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,39385.36,STANDARD,True
+2023,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,37939.33,STANDARD,True
+2022,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,36240.4,STANDARD,True
+2021,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,34605.37,STANDARD,True
+2020,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,33447.03,STANDARD,True
+2019,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,32136.34,STANDARD,True
+2018,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,30723.97,STANDARD,True
+2017,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,30166.12,STANDARD,True
+2016,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,29084.27,STANDARD,True
+2015,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,28540.05,STANDARD,True
+2014,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,27562.6,STANDARD,True
+2013,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,28335.41,STANDARD,True
+2012,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,27907.45,STANDARD,True
+2011,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,28740.62,STANDARD,True
+2010,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,29540.43,STANDARD,True
+2009,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,29840.96,STANDARD,True
+2008,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Female,28756.91,STANDARD,True
+2024,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,43328.38,STANDARD,True
+2023,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,41035.77,STANDARD,True
+2022,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,40183.85,STANDARD,True
+2021,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,39270.32,STANDARD,True
+2020,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,37664.38,STANDARD,True
+2019,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,35488.04,STANDARD,True
+2018,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,33434.02,STANDARD,True
+2017,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,34790.05,STANDARD,True
+2016,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,34293.42,STANDARD,True
+2015,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,32451.97,STANDARD,True
+2014,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,31817.56,STANDARD,True
+2013,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,33251.72,STANDARD,True
+2012,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,33056.44,STANDARD,True
+2011,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,33148.85,STANDARD,True
+2010,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,34476.97,STANDARD,True
+2009,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,32083.1,STANDARD,True
+2008,B Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza,Male,30509.37,STANDARD,True
+2024,C Otros técnicos y profesionales científicos e intelectuales,All,45513.91,STANDARD,True
+2023,C Otros técnicos y profesionales científicos e intelectuales,All,42996.72,STANDARD,True
+2022,C Otros técnicos y profesionales científicos e intelectuales,All,41382.28,STANDARD,True
+2021,C Otros técnicos y profesionales científicos e intelectuales,All,39871.28,STANDARD,True
+2020,C Otros técnicos y profesionales científicos e intelectuales,All,38523.51,STANDARD,True
+2019,C Otros técnicos y profesionales científicos e intelectuales,All,37244.45,STANDARD,True
+2018,C Otros técnicos y profesionales científicos e intelectuales,All,37908.75,STANDARD,True
+2017,C Otros técnicos y profesionales científicos e intelectuales,All,36181.36,STANDARD,True
+2016,C Otros técnicos y profesionales científicos e intelectuales,All,37049.91,STANDARD,True
+2015,C Otros técnicos y profesionales científicos e intelectuales,All,36287.87,STANDARD,True
+2014,C Otros técnicos y profesionales científicos e intelectuales,All,37100.54,STANDARD,True
+2013,C Otros técnicos y profesionales científicos e intelectuales,All,35885.97,STANDARD,True
+2012,C Otros técnicos y profesionales científicos e intelectuales,All,34975.77,STANDARD,True
+2011,C Otros técnicos y profesionales científicos e intelectuales,All,34368.77,STANDARD,True
+2010,C Otros técnicos y profesionales científicos e intelectuales,All,35196.58,STANDARD,True
+2009,C Otros técnicos y profesionales científicos e intelectuales,All,35991.91,STANDARD,True
+2008,C Otros técnicos y profesionales científicos e intelectuales,All,34027.21,STANDARD,True
+2024,C Otros técnicos y profesionales científicos e intelectuales,Female,41784.25,STANDARD,True
+2023,C Otros técnicos y profesionales científicos e intelectuales,Female,39654.07,STANDARD,True
+2022,C Otros técnicos y profesionales científicos e intelectuales,Female,37828.59,STANDARD,True
+2021,C Otros técnicos y profesionales científicos e intelectuales,Female,36511.0,STANDARD,True
+2020,C Otros técnicos y profesionales científicos e intelectuales,Female,35104.74,STANDARD,True
+2019,C Otros técnicos y profesionales científicos e intelectuales,Female,33916.08,STANDARD,True
+2018,C Otros técnicos y profesionales científicos e intelectuales,Female,34100.87,STANDARD,True
+2017,C Otros técnicos y profesionales científicos e intelectuales,Female,32746.95,STANDARD,True
+2016,C Otros técnicos y profesionales científicos e intelectuales,Female,33419.81,STANDARD,True
+2015,C Otros técnicos y profesionales científicos e intelectuales,Female,32526.81,STANDARD,True
+2014,C Otros técnicos y profesionales científicos e intelectuales,Female,33028.3,STANDARD,True
+2013,C Otros técnicos y profesionales científicos e intelectuales,Female,31560.46,STANDARD,True
+2012,C Otros técnicos y profesionales científicos e intelectuales,Female,30748.71,STANDARD,True
+2011,C Otros técnicos y profesionales científicos e intelectuales,Female,30040.01,STANDARD,True
+2010,C Otros técnicos y profesionales científicos e intelectuales,Female,31192.01,STANDARD,True
+2009,C Otros técnicos y profesionales científicos e intelectuales,Female,31588.13,STANDARD,True
+2008,C Otros técnicos y profesionales científicos e intelectuales,Female,29454.95,STANDARD,True
+2024,C Otros técnicos y profesionales científicos e intelectuales,Male,49202.05,STANDARD,True
+2023,C Otros técnicos y profesionales científicos e intelectuales,Male,46213.05,STANDARD,True
+2022,C Otros técnicos y profesionales científicos e intelectuales,Male,44874.37,STANDARD,True
+2021,C Otros técnicos y profesionales científicos e intelectuales,Male,43029.52,STANDARD,True
+2020,C Otros técnicos y profesionales científicos e intelectuales,Male,41735.68,STANDARD,True
+2019,C Otros técnicos y profesionales científicos e intelectuales,Male,40333.67,STANDARD,True
+2018,C Otros técnicos y profesionales científicos e intelectuales,Male,41408.09,STANDARD,True
+2017,C Otros técnicos y profesionales científicos e intelectuales,Male,39229.34,STANDARD,True
+2016,C Otros técnicos y profesionales científicos e intelectuales,Male,40077.02,STANDARD,True
+2015,C Otros técnicos y profesionales científicos e intelectuales,Male,39476.36,STANDARD,True
+2014,C Otros técnicos y profesionales científicos e intelectuales,Male,40643.77,STANDARD,True
+2013,C Otros técnicos y profesionales científicos e intelectuales,Male,39308.59,STANDARD,True
+2012,C Otros técnicos y profesionales científicos e intelectuales,Male,38339.44,STANDARD,True
+2011,C Otros técnicos y profesionales científicos e intelectuales,Male,37771.54,STANDARD,True
+2010,C Otros técnicos y profesionales científicos e intelectuales,Male,38681.55,STANDARD,True
+2009,C Otros técnicos y profesionales científicos e intelectuales,Male,39325.22,STANDARD,True
+2008,C Otros técnicos y profesionales científicos e intelectuales,Male,37495.09,STANDARD,True
+2024,"D Técnicos, profesionales de apoyo",All,34917.46,STANDARD,True
+2023,"D Técnicos, profesionales de apoyo",All,33242.65,STANDARD,True
+2022,"D Técnicos, profesionales de apoyo",All,31899.95,STANDARD,True
+2021,"D Técnicos, profesionales de apoyo",All,31321.69,STANDARD,True
+2020,"D Técnicos, profesionales de apoyo",All,30067.52,STANDARD,True
+2019,"D Técnicos, profesionales de apoyo",All,29247.01,STANDARD,True
+2018,"D Técnicos, profesionales de apoyo",All,29261.35,STANDARD,True
+2017,"D Técnicos, profesionales de apoyo",All,29238.49,STANDARD,True
+2016,"D Técnicos, profesionales de apoyo",All,28585.99,STANDARD,True
+2015,"D Técnicos, profesionales de apoyo",All,28943.22,STANDARD,True
+2014,"D Técnicos, profesionales de apoyo",All,28232.05,STANDARD,True
+2013,"D Técnicos, profesionales de apoyo",All,28501.99,STANDARD,True
+2012,"D Técnicos, profesionales de apoyo",All,28360.42,STANDARD,True
+2011,"D Técnicos, profesionales de apoyo",All,28176.89,STANDARD,True
+2010,"D Técnicos, profesionales de apoyo",All,27914.0,STANDARD,True
+2009,"D Técnicos, profesionales de apoyo",All,28684.28,STANDARD,True
+2008,"D Técnicos, profesionales de apoyo",All,27771.52,STANDARD,True
+2024,"D Técnicos, profesionales de apoyo",Female,31082.47,STANDARD,True
+2023,"D Técnicos, profesionales de apoyo",Female,29902.47,STANDARD,True
+2022,"D Técnicos, profesionales de apoyo",Female,28515.6,STANDARD,True
+2021,"D Técnicos, profesionales de apoyo",Female,27972.7,STANDARD,True
+2020,"D Técnicos, profesionales de apoyo",Female,26830.62,STANDARD,True
+2019,"D Técnicos, profesionales de apoyo",Female,25950.74,STANDARD,True
+2018,"D Técnicos, profesionales de apoyo",Female,25618.99,STANDARD,True
+2017,"D Técnicos, profesionales de apoyo",Female,25757.88,STANDARD,True
+2016,"D Técnicos, profesionales de apoyo",Female,25160.98,STANDARD,True
+2015,"D Técnicos, profesionales de apoyo",Female,25475.37,STANDARD,True
+2014,"D Técnicos, profesionales de apoyo",Female,24641.22,STANDARD,True
+2013,"D Técnicos, profesionales de apoyo",Female,24960.14,STANDARD,True
+2012,"D Técnicos, profesionales de apoyo",Female,24823.82,STANDARD,True
+2011,"D Técnicos, profesionales de apoyo",Female,24795.63,STANDARD,True
+2010,"D Técnicos, profesionales de apoyo",Female,24353.73,STANDARD,True
+2009,"D Técnicos, profesionales de apoyo",Female,24849.07,STANDARD,True
+2008,"D Técnicos, profesionales de apoyo",Female,24038.34,STANDARD,True
+2024,"D Técnicos, profesionales de apoyo",Male,38045.99,STANDARD,True
+2023,"D Técnicos, profesionales de apoyo",Male,35947.05,STANDARD,True
+2022,"D Técnicos, profesionales de apoyo",Male,34550.52,STANDARD,True
+2021,"D Técnicos, profesionales de apoyo",Male,33849.87,STANDARD,True
+2020,"D Técnicos, profesionales de apoyo",Male,32611.21,STANDARD,True
+2019,"D Técnicos, profesionales de apoyo",Male,31816.3,STANDARD,True
+2018,"D Técnicos, profesionales de apoyo",Male,31979.93,STANDARD,True
+2017,"D Técnicos, profesionales de apoyo",Male,31891.63,STANDARD,True
+2016,"D Técnicos, profesionales de apoyo",Male,31206.15,STANDARD,True
+2015,"D Técnicos, profesionales de apoyo",Male,31548.13,STANDARD,True
+2014,"D Técnicos, profesionales de apoyo",Male,31150.02,STANDARD,True
+2013,"D Técnicos, profesionales de apoyo",Male,31027.41,STANDARD,True
+2012,"D Técnicos, profesionales de apoyo",Male,30878.49,STANDARD,True
+2011,"D Técnicos, profesionales de apoyo",Male,30543.06,STANDARD,True
+2010,"D Técnicos, profesionales de apoyo",Male,30564.05,STANDARD,True
+2009,"D Técnicos, profesionales de apoyo",Male,31650.85,STANDARD,True
+2008,"D Técnicos, profesionales de apoyo",Male,30538.81,STANDARD,True
+2024,E Empleados de oficina que no atienden al público,All,29918.88,STANDARD,True
+2023,E Empleados de oficina que no atienden al público,All,28148.26,STANDARD,True
+2022,E Empleados de oficina que no atienden al público,All,27402.9,STANDARD,True
+2021,E Empleados de oficina que no atienden al público,All,24680.03,STANDARD,True
+2020,E Empleados de oficina que no atienden al público,All,23632.89,STANDARD,True
+2019,E Empleados de oficina que no atienden al público,All,22354.77,STANDARD,True
+2018,E Empleados de oficina que no atienden al público,All,24266.55,STANDARD,True
+2017,E Empleados de oficina que no atienden al público,All,22487.64,STANDARD,True
+2016,E Empleados de oficina que no atienden al público,All,21517.9,STANDARD,True
+2015,E Empleados de oficina que no atienden al público,All,21331.32,STANDARD,True
+2014,E Empleados de oficina que no atienden al público,All,20852.87,STANDARD,True
+2013,E Empleados de oficina que no atienden al público,All,20983.35,STANDARD,True
+2012,E Empleados de oficina que no atienden al público,All,21228.39,STANDARD,True
+2011,E Empleados de oficina que no atienden al público,All,21646.35,STANDARD,True
+2010,E Empleados de oficina que no atienden al público,All,21245.68,STANDARD,True
+2009,E Empleados de oficina que no atienden al público,All,21312.78,STANDARD,True
+2008,E Empleados de oficina que no atienden al público,All,20793.7,STANDARD,True
+2024,E Empleados de oficina que no atienden al público,Female,28264.34,STANDARD,True
+2023,E Empleados de oficina que no atienden al público,Female,26551.09,STANDARD,True
+2022,E Empleados de oficina que no atienden al público,Female,25646.72,STANDARD,True
+2021,E Empleados de oficina que no atienden al público,Female,23040.15,STANDARD,True
+2020,E Empleados de oficina que no atienden al público,Female,21923.21,STANDARD,True
+2019,E Empleados de oficina que no atienden al público,Female,20584.99,STANDARD,True
+2018,E Empleados de oficina que no atienden al público,Female,22314.23,STANDARD,True
+2017,E Empleados de oficina que no atienden al público,Female,20688.48,STANDARD,True
+2016,E Empleados de oficina que no atienden al público,Female,19628.23,STANDARD,True
+2015,E Empleados de oficina que no atienden al público,Female,19543.87,STANDARD,True
+2014,E Empleados de oficina que no atienden al público,Female,18932.55,STANDARD,True
+2013,E Empleados de oficina que no atienden al público,Female,19251.1,STANDARD,True
+2012,E Empleados de oficina que no atienden al público,Female,19445.11,STANDARD,True
+2011,E Empleados de oficina que no atienden al público,Female,19722.67,STANDARD,True
+2010,E Empleados de oficina que no atienden al público,Female,19193.65,STANDARD,True
+2009,E Empleados de oficina que no atienden al público,Female,19155.29,STANDARD,True
+2008,E Empleados de oficina que no atienden al público,Female,18482.72,STANDARD,True
+2024,E Empleados de oficina que no atienden al público,Male,32468.67,STANDARD,True
+2023,E Empleados de oficina que no atienden al público,Male,30717.82,STANDARD,True
+2022,E Empleados de oficina que no atienden al público,Male,30217.44,STANDARD,True
+2021,E Empleados de oficina que no atienden al público,Male,27394.81,STANDARD,True
+2020,E Empleados de oficina que no atienden al público,Male,26465.12,STANDARD,True
+2019,E Empleados de oficina que no atienden al público,Male,25634.12,STANDARD,True
+2018,E Empleados de oficina que no atienden al público,Male,27420.25,STANDARD,True
+2017,E Empleados de oficina que no atienden al público,Male,25169.41,STANDARD,True
+2016,E Empleados de oficina que no atienden al público,Male,24711.85,STANDARD,True
+2015,E Empleados de oficina que no atienden al público,Male,24467.54,STANDARD,True
+2014,E Empleados de oficina que no atienden al público,Male,24147.61,STANDARD,True
+2013,E Empleados de oficina que no atienden al público,Male,23844.41,STANDARD,True
+2012,E Empleados de oficina que no atienden al público,Male,24132.89,STANDARD,True
+2011,E Empleados de oficina que no atienden al público,Male,24743.77,STANDARD,True
+2010,E Empleados de oficina que no atienden al público,Male,24757.31,STANDARD,True
+2009,E Empleados de oficina que no atienden al público,Male,24509.27,STANDARD,True
+2008,E Empleados de oficina que no atienden al público,Male,24038.82,STANDARD,True
+2024,F Empleados de oficina que atienden al público,All,23138.15,STANDARD,True
+2023,F Empleados de oficina que atienden al público,All,22263.18,STANDARD,True
+2022,F Empleados de oficina que atienden al público,All,21462.56,STANDARD,True
+2021,F Empleados de oficina que atienden al público,All,20237.83,STANDARD,True
+2020,F Empleados de oficina que atienden al público,All,19842.16,STANDARD,True
+2019,F Empleados de oficina que atienden al público,All,19969.91,STANDARD,True
+2018,F Empleados de oficina que atienden al público,All,19257.04,STANDARD,True
+2017,F Empleados de oficina que atienden al público,All,18367.51,STANDARD,True
+2016,F Empleados de oficina que atienden al público,All,18163.65,STANDARD,True
+2015,F Empleados de oficina que atienden al público,All,18390.82,STANDARD,True
+2014,F Empleados de oficina que atienden al público,All,18642.82,STANDARD,True
+2013,F Empleados de oficina que atienden al público,All,17864.17,STANDARD,True
+2012,F Empleados de oficina que atienden al público,All,17751.84,STANDARD,True
+2011,F Empleados de oficina que atienden al público,All,18013.83,STANDARD,True
+2010,F Empleados de oficina que atienden al público,All,17876.82,STANDARD,True
+2009,F Empleados de oficina que atienden al público,All,17190.06,STANDARD,True
+2008,F Empleados de oficina que atienden al público,All,16842.67,STANDARD,True
+2024,F Empleados de oficina que atienden al público,Female,22276.21,STANDARD,True
+2023,F Empleados de oficina que atienden al público,Female,21272.71,STANDARD,True
+2022,F Empleados de oficina que atienden al público,Female,20467.84,STANDARD,True
+2021,F Empleados de oficina que atienden al público,Female,19247.82,STANDARD,True
+2020,F Empleados de oficina que atienden al público,Female,18803.91,STANDARD,True
+2019,F Empleados de oficina que atienden al público,Female,18810.2,STANDARD,True
+2018,F Empleados de oficina que atienden al público,Female,18137.76,STANDARD,True
+2017,F Empleados de oficina que atienden al público,Female,17090.99,STANDARD,True
+2016,F Empleados de oficina que atienden al público,Female,16928.51,STANDARD,True
+2015,F Empleados de oficina que atienden al público,Female,17171.28,STANDARD,True
+2014,F Empleados de oficina que atienden al público,Female,17252.39,STANDARD,True
+2013,F Empleados de oficina que atienden al público,Female,16620.05,STANDARD,True
+2012,F Empleados de oficina que atienden al público,Female,16573.43,STANDARD,True
+2011,F Empleados de oficina que atienden al público,Female,16868.46,STANDARD,True
+2010,F Empleados de oficina que atienden al público,Female,16712.8,STANDARD,True
+2009,F Empleados de oficina que atienden al público,Female,16042.02,STANDARD,True
+2008,F Empleados de oficina que atienden al público,Female,15727.65,STANDARD,True
+2024,F Empleados de oficina que atienden al público,Male,25551.58,STANDARD,True
+2023,F Empleados de oficina que atienden al público,Male,24956.61,STANDARD,True
+2022,F Empleados de oficina que atienden al público,Male,24273.47,STANDARD,True
+2021,F Empleados de oficina que atienden al público,Male,22845.68,STANDARD,True
+2020,F Empleados de oficina que atienden al público,Male,22442.04,STANDARD,True
+2019,F Empleados de oficina que atienden al público,Male,22437.5,STANDARD,True
+2018,F Empleados de oficina que atienden al público,Male,22149.69,STANDARD,True
+2017,F Empleados de oficina que atienden al público,Male,22049.89,STANDARD,True
+2016,F Empleados de oficina que atienden al público,Male,21272.65,STANDARD,True
+2015,F Empleados de oficina que atienden al público,Male,21464.84,STANDARD,True
+2014,F Empleados de oficina que atienden al público,Male,21761.91,STANDARD,True
+2013,F Empleados de oficina que atienden al público,Male,21069.99,STANDARD,True
+2012,F Empleados de oficina que atienden al público,Male,20931.48,STANDARD,True
+2011,F Empleados de oficina que atienden al público,Male,20979.41,STANDARD,True
+2010,F Empleados de oficina que atienden al público,Male,20875.05,STANDARD,True
+2009,F Empleados de oficina que atienden al público,Male,20732.89,STANDARD,True
+2008,F Empleados de oficina que atienden al público,Male,20176.5,STANDARD,True
+2024,G Trabajadores de los servicios de restauración y comercio,All,18918.65,STANDARD,True
+2023,G Trabajadores de los servicios de restauración y comercio,All,18028.33,STANDARD,True
+2022,G Trabajadores de los servicios de restauración y comercio,All,17168.88,STANDARD,True
+2021,G Trabajadores de los servicios de restauración y comercio,All,16310.91,STANDARD,True
+2020,G Trabajadores de los servicios de restauración y comercio,All,16004.18,STANDARD,True
+2019,G Trabajadores de los servicios de restauración y comercio,All,16142.16,STANDARD,True
+2018,G Trabajadores de los servicios de restauración y comercio,All,15702.34,STANDARD,True
+2017,G Trabajadores de los servicios de restauración y comercio,All,15173.65,STANDARD,True
+2016,G Trabajadores de los servicios de restauración y comercio,All,14617.52,STANDARD,True
+2015,G Trabajadores de los servicios de restauración y comercio,All,14698.91,STANDARD,True
+2014,G Trabajadores de los servicios de restauración y comercio,All,14501.66,STANDARD,True
+2013,G Trabajadores de los servicios de restauración y comercio,All,14642.94,STANDARD,True
+2012,G Trabajadores de los servicios de restauración y comercio,All,14442.36,STANDARD,True
+2011,G Trabajadores de los servicios de restauración y comercio,All,14562.06,STANDARD,True
+2010,G Trabajadores de los servicios de restauración y comercio,All,14740.52,STANDARD,True
+2009,G Trabajadores de los servicios de restauración y comercio,All,14651.05,STANDARD,True
+2008,G Trabajadores de los servicios de restauración y comercio,All,14325.12,STANDARD,True
+2024,G Trabajadores de los servicios de restauración y comercio,Female,17630.53,STANDARD,True
+2023,G Trabajadores de los servicios de restauración y comercio,Female,16854.35,STANDARD,True
+2022,G Trabajadores de los servicios de restauración y comercio,Female,16057.61,STANDARD,True
+2021,G Trabajadores de los servicios de restauración y comercio,Female,15103.95,STANDARD,True
+2020,G Trabajadores de los servicios de restauración y comercio,Female,14682.47,STANDARD,True
+2019,G Trabajadores de los servicios de restauración y comercio,Female,14981.95,STANDARD,True
+2018,G Trabajadores de los servicios de restauración y comercio,Female,14238.51,STANDARD,True
+2017,G Trabajadores de los servicios de restauración y comercio,Female,14142.93,STANDARD,True
+2016,G Trabajadores de los servicios de restauración y comercio,Female,13613.26,STANDARD,True
+2015,G Trabajadores de los servicios de restauración y comercio,Female,13452.44,STANDARD,True
+2014,G Trabajadores de los servicios de restauración y comercio,Female,13249.91,STANDARD,True
+2013,G Trabajadores de los servicios de restauración y comercio,Female,13397.52,STANDARD,True
+2012,G Trabajadores de los servicios de restauración y comercio,Female,13209.83,STANDARD,True
+2011,G Trabajadores de los servicios de restauración y comercio,Female,13461.54,STANDARD,True
+2010,G Trabajadores de los servicios de restauración y comercio,Female,13425.04,STANDARD,True
+2009,G Trabajadores de los servicios de restauración y comercio,Female,13284.42,STANDARD,True
+2008,G Trabajadores de los servicios de restauración y comercio,Female,13069.64,STANDARD,True
+2024,G Trabajadores de los servicios de restauración y comercio,Male,20902.12,STANDARD,True
+2023,G Trabajadores de los servicios de restauración y comercio,Male,19927.01,STANDARD,True
+2022,G Trabajadores de los servicios de restauración y comercio,Male,18930.29,STANDARD,True
+2021,G Trabajadores de los servicios de restauración y comercio,Male,18260.31,STANDARD,True
+2020,G Trabajadores de los servicios de restauración y comercio,Male,18248.13,STANDARD,True
+2019,G Trabajadores de los servicios de restauración y comercio,Male,18154.8,STANDARD,True
+2018,G Trabajadores de los servicios de restauración y comercio,Male,17962.51,STANDARD,True
+2017,G Trabajadores de los servicios de restauración y comercio,Male,16825.86,STANDARD,True
+2016,G Trabajadores de los servicios de restauración y comercio,Male,16260.68,STANDARD,True
+2015,G Trabajadores de los servicios de restauración y comercio,Male,16782.4,STANDARD,True
+2014,G Trabajadores de los servicios de restauración y comercio,Male,16633.36,STANDARD,True
+2013,G Trabajadores de los servicios de restauración y comercio,Male,16761.03,STANDARD,True
+2012,G Trabajadores de los servicios de restauración y comercio,Male,16602.4,STANDARD,True
+2011,G Trabajadores de los servicios de restauración y comercio,Male,16530.45,STANDARD,True
+2010,G Trabajadores de los servicios de restauración y comercio,Male,17107.22,STANDARD,True
+2009,G Trabajadores de los servicios de restauración y comercio,Male,17033.97,STANDARD,True
+2008,G Trabajadores de los servicios de restauración y comercio,Male,16589.59,STANDARD,True
+2024,H Trabajadores de los servicios de salud y el cuidado de personas,All,19479.94,STANDARD,True
+2023,H Trabajadores de los servicios de salud y el cuidado de personas,All,18739.11,STANDARD,True
+2022,H Trabajadores de los servicios de salud y el cuidado de personas,All,18232.24,STANDARD,True
+2021,H Trabajadores de los servicios de salud y el cuidado de personas,All,17435.22,STANDARD,True
+2020,H Trabajadores de los servicios de salud y el cuidado de personas,All,17256.0,STANDARD,True
+2019,H Trabajadores de los servicios de salud y el cuidado de personas,All,16815.98,STANDARD,True
+2018,H Trabajadores de los servicios de salud y el cuidado de personas,All,15863.27,STANDARD,True
+2017,H Trabajadores de los servicios de salud y el cuidado de personas,All,15527.66,STANDARD,True
+2016,H Trabajadores de los servicios de salud y el cuidado de personas,All,15445.45,STANDARD,True
+2015,H Trabajadores de los servicios de salud y el cuidado de personas,All,15494.52,STANDARD,True
+2014,H Trabajadores de los servicios de salud y el cuidado de personas,All,14971.15,STANDARD,True
+2013,H Trabajadores de los servicios de salud y el cuidado de personas,All,15240.88,STANDARD,True
+2012,H Trabajadores de los servicios de salud y el cuidado de personas,All,15169.7,STANDARD,True
+2011,H Trabajadores de los servicios de salud y el cuidado de personas,All,15767.31,STANDARD,True
+2010,H Trabajadores de los servicios de salud y el cuidado de personas,All,15864.62,STANDARD,True
+2009,H Trabajadores de los servicios de salud y el cuidado de personas,All,15404.27,STANDARD,True
+2008,H Trabajadores de los servicios de salud y el cuidado de personas,All,15395.96,STANDARD,True
+2024,H Trabajadores de los servicios de salud y el cuidado de personas,Female,18290.3,STANDARD,True
+2023,H Trabajadores de los servicios de salud y el cuidado de personas,Female,17609.56,STANDARD,True
+2022,H Trabajadores de los servicios de salud y el cuidado de personas,Female,17155.7,STANDARD,True
+2021,H Trabajadores de los servicios de salud y el cuidado de personas,Female,16251.63,STANDARD,True
+2020,H Trabajadores de los servicios de salud y el cuidado de personas,Female,15983.02,STANDARD,True
+2019,H Trabajadores de los servicios de salud y el cuidado de personas,Female,15418.17,STANDARD,True
+2018,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14442.64,STANDARD,True
+2017,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14765.21,STANDARD,True
+2016,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14558.05,STANDARD,True
+2015,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14575.41,STANDARD,True
+2014,H Trabajadores de los servicios de salud y el cuidado de personas,Female,13969.92,STANDARD,True
+2013,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14444.14,STANDARD,True
+2012,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14364.7,STANDARD,True
+2011,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14809.24,STANDARD,True
+2010,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14909.8,STANDARD,True
+2009,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14582.77,STANDARD,True
+2008,H Trabajadores de los servicios de salud y el cuidado de personas,Female,14532.67,STANDARD,True
+2024,H Trabajadores de los servicios de salud y el cuidado de personas,Male,23363.44,STANDARD,True
+2023,H Trabajadores de los servicios de salud y el cuidado de personas,Male,22421.02,STANDARD,True
+2022,H Trabajadores de los servicios de salud y el cuidado de personas,Male,21996.86,STANDARD,True
+2021,H Trabajadores de los servicios de salud y el cuidado de personas,Male,21204.39,STANDARD,True
+2020,H Trabajadores de los servicios de salud y el cuidado de personas,Male,21281.83,STANDARD,True
+2019,H Trabajadores de los servicios de salud y el cuidado de personas,Male,21005.55,STANDARD,True
+2018,H Trabajadores de los servicios de salud y el cuidado de personas,Male,20198.04,STANDARD,True
+2017,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18343.56,STANDARD,True
+2016,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18877.78,STANDARD,True
+2015,H Trabajadores de los servicios de salud y el cuidado de personas,Male,19159.6,STANDARD,True
+2014,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18648.8,STANDARD,True
+2013,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18346.0,STANDARD,True
+2012,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18263.28,STANDARD,True
+2011,H Trabajadores de los servicios de salud y el cuidado de personas,Male,19249.39,STANDARD,True
+2010,H Trabajadores de los servicios de salud y el cuidado de personas,Male,19121.56,STANDARD,True
+2009,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18551.51,STANDARD,True
+2008,H Trabajadores de los servicios de salud y el cuidado de personas,Male,18477.19,STANDARD,True
+2024,I Trabajadores de los servicios de protección y seguridad,All,35621.47,STANDARD,True
+2023,I Trabajadores de los servicios de protección y seguridad,All,35215.11,STANDARD,True
+2022,I Trabajadores de los servicios de protección y seguridad,All,31896.15,STANDARD,True
+2021,I Trabajadores de los servicios de protección y seguridad,All,32985.38,STANDARD,True
+2020,I Trabajadores de los servicios de protección y seguridad,All,30904.89,STANDARD,True
+2019,I Trabajadores de los servicios de protección y seguridad,All,28785.25,STANDARD,True
+2018,I Trabajadores de los servicios de protección y seguridad,All,28467.92,STANDARD,True
+2017,I Trabajadores de los servicios de protección y seguridad,All,28228.42,STANDARD,True
+2016,I Trabajadores de los servicios de protección y seguridad,All,28018.41,STANDARD,True
+2015,I Trabajadores de los servicios de protección y seguridad,All,27421.15,STANDARD,True
+2014,I Trabajadores de los servicios de protección y seguridad,All,25727.47,STANDARD,True
+2013,I Trabajadores de los servicios de protección y seguridad,All,25711.4,STANDARD,True
+2012,I Trabajadores de los servicios de protección y seguridad,All,25603.83,STANDARD,True
+2011,I Trabajadores de los servicios de protección y seguridad,All,26474.05,STANDARD,True
+2010,I Trabajadores de los servicios de protección y seguridad,All,26409.57,STANDARD,True
+2009,I Trabajadores de los servicios de protección y seguridad,All,26437.94,STANDARD,True
+2008,I Trabajadores de los servicios de protección y seguridad,All,25881.53,STANDARD,True
+2024,I Trabajadores de los servicios de protección y seguridad,Female,29428.84,STANDARD,True
+2023,I Trabajadores de los servicios de protección y seguridad,Female,29465.71,STANDARD,True
+2022,I Trabajadores de los servicios de protección y seguridad,Female,26809.79,STANDARD,True
+2021,I Trabajadores de los servicios de protección y seguridad,Female,28314.54,STANDARD,True
+2020,I Trabajadores de los servicios de protección y seguridad,Female,27807.97,STANDARD,True
+2019,I Trabajadores de los servicios de protección y seguridad,Female,26187.39,STANDARD,True
+2018,I Trabajadores de los servicios de protección y seguridad,Female,24941.45,STANDARD,True
+2017,I Trabajadores de los servicios de protección y seguridad,Female,24439.82,STANDARD,True
+2016,I Trabajadores de los servicios de protección y seguridad,Female,24404.2,STANDARD,True
+2015,I Trabajadores de los servicios de protección y seguridad,Female,21508.21,STANDARD,True
+2014,I Trabajadores de los servicios de protección y seguridad,Female,21576.41,STANDARD,True
+2013,I Trabajadores de los servicios de protección y seguridad,Female,21039.88,STANDARD,True
+2012,I Trabajadores de los servicios de protección y seguridad,Female,22011.92,STANDARD,True
+2011,I Trabajadores de los servicios de protección y seguridad,Female,22650.02,STANDARD,True
+2010,I Trabajadores de los servicios de protección y seguridad,Female,21815.7,STANDARD,True
+2009,I Trabajadores de los servicios de protección y seguridad,Female,21867.0,STANDARD,True
+2008,I Trabajadores de los servicios de protección y seguridad,Female,21435.33,STANDARD,True
+2024,I Trabajadores de los servicios de protección y seguridad,Male,36847.15,STANDARD,True
+2023,I Trabajadores de los servicios de protección y seguridad,Male,36215.0,STANDARD,True
+2022,I Trabajadores de los servicios de protección y seguridad,Male,32779.4,STANDARD,True
+2021,I Trabajadores de los servicios de protección y seguridad,Male,33695.67,STANDARD,True
+2020,I Trabajadores de los servicios de protección y seguridad,Male,31425.49,STANDARD,True
+2019,I Trabajadores de los servicios de protección y seguridad,Male,29339.08,STANDARD,True
+2018,I Trabajadores de los servicios de protección y seguridad,Male,29087.46,STANDARD,True
+2017,I Trabajadores de los servicios de protección y seguridad,Male,28802.95,STANDARD,True
+2016,I Trabajadores de los servicios de protección y seguridad,Male,28589.6,STANDARD,True
+2015,I Trabajadores de los servicios de protección y seguridad,Male,28369.04,STANDARD,True
+2014,I Trabajadores de los servicios de protección y seguridad,Male,26347.82,STANDARD,True
+2013,I Trabajadores de los servicios de protección y seguridad,Male,26483.76,STANDARD,True
+2012,I Trabajadores de los servicios de protección y seguridad,Male,26204.87,STANDARD,True
+2011,I Trabajadores de los servicios de protección y seguridad,Male,27115.38,STANDARD,True
+2010,I Trabajadores de los servicios de protección y seguridad,Male,27142.1,STANDARD,True
+2009,I Trabajadores de los servicios de protección y seguridad,Male,27283.79,STANDARD,True
+2008,I Trabajadores de los servicios de protección y seguridad,Male,26671.82,STANDARD,True
+2024,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,26045.04,STANDARD,True
+2023,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,24550.71,STANDARD,True
+2022,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,21383.06,STANDARD,True
+2021,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,22859.73,STANDARD,True
+2020,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,22440.93,STANDARD,True
+2019,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,21232.11,STANDARD,True
+2018,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,19690.87,STANDARD,True
+2017,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,19783.93,STANDARD,True
+2016,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,18773.13,STANDARD,True
+2015,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,18600.98,STANDARD,True
+2014,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,18273.16,STANDARD,True
+2013,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,18217.14,STANDARD,True
+2012,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,17528.06,STANDARD,True
+2011,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,17935.07,STANDARD,True
+2010,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,17752.13,STANDARD,True
+2009,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,19371.77,STANDARD,True
+2008,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",All,18032.22,STANDARD,True
+2024,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,24001.36,LOW_RELIABILITY,False
+2023,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2022,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2021,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,24028.06,LOW_RELIABILITY,False
+2020,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,23070.72,LOW_RELIABILITY,False
+2019,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,16531.69,LOW_RELIABILITY,False
+2018,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2017,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2016,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2015,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2014,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2013,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2012,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2011,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,16288.32,LOW_RELIABILITY,False
+2010,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2009,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,,MISSING,False
+2008,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Female,18454.83,LOW_RELIABILITY,False
+2024,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,26365.91,STANDARD,True
+2023,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,24636.19,STANDARD,True
+2022,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,21715.91,STANDARD,True
+2021,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,22708.61,STANDARD,True
+2020,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,22334.74,STANDARD,True
+2019,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,22112.47,STANDARD,True
+2018,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,19899.19,STANDARD,True
+2017,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,19743.03,LOW_RELIABILITY,False
+2016,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,18996.56,STANDARD,True
+2015,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,18787.55,STANDARD,True
+2014,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,18340.9,STANDARD,True
+2013,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,18220.65,STANDARD,True
+2012,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,17671.99,STANDARD,True
+2011,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,18281.62,STANDARD,True
+2010,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,17947.78,STANDARD,True
+2009,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,19607.04,STANDARD,True
+2008,"J Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",Male,17986.57,STANDARD,True
+2024,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,24445.11,STANDARD,True
+2023,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,23320.75,STANDARD,True
+2022,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,22273.76,STANDARD,True
+2021,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,21909.39,STANDARD,True
+2020,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,21105.93,STANDARD,True
+2019,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,20827.39,STANDARD,True
+2018,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,20796.74,STANDARD,True
+2017,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,20123.84,STANDARD,True
+2016,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,20061.31,STANDARD,True
+2015,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,20114.27,STANDARD,True
+2014,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19347.85,STANDARD,True
+2013,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19463.18,STANDARD,True
+2012,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19525.05,STANDARD,True
+2011,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19253.58,STANDARD,True
+2010,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19216.16,STANDARD,True
+2009,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,19127.85,STANDARD,True
+2008,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",All,18857.14,STANDARD,True
+2024,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,21772.51,LOW_RELIABILITY,False
+2023,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,20666.84,LOW_RELIABILITY,False
+2022,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,19314.99,LOW_RELIABILITY,False
+2021,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,19341.07,LOW_RELIABILITY,False
+2020,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,17660.01,LOW_RELIABILITY,False
+2019,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,17392.78,LOW_RELIABILITY,False
+2018,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,17085.4,LOW_RELIABILITY,False
+2017,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,14939.05,LOW_RELIABILITY,False
+2016,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,16069.47,LOW_RELIABILITY,False
+2015,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18580.45,LOW_RELIABILITY,False
+2014,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18139.66,LOW_RELIABILITY,False
+2013,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18504.22,LOW_RELIABILITY,False
+2012,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18697.33,LOW_RELIABILITY,False
+2011,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18566.01,LOW_RELIABILITY,False
+2010,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,18179.18,LOW_RELIABILITY,False
+2009,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,16762.98,STANDARD,True
+2008,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Female,16501.11,STANDARD,True
+2024,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,24508.92,STANDARD,True
+2023,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,23396.16,STANDARD,True
+2022,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,22348.0,STANDARD,True
+2021,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,22000.05,STANDARD,True
+2020,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,21265.56,STANDARD,True
+2019,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,21070.11,STANDARD,True
+2018,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,20928.83,STANDARD,True
+2017,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,20303.27,STANDARD,True
+2016,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,20191.67,STANDARD,True
+2015,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,20150.02,STANDARD,True
+2014,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19368.99,STANDARD,True
+2013,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19504.4,STANDARD,True
+2012,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19552.01,STANDARD,True
+2011,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19276.93,STANDARD,True
+2010,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19241.73,STANDARD,True
+2009,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,19181.91,STANDARD,True
+2008,"K Trabajadores cualificados de la construcción, excepto operadores de máquinas",Male,18918.41,STANDARD,True
+2024,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,27531.44,STANDARD,True
+2023,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,26344.74,STANDARD,True
+2022,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,25304.77,STANDARD,True
+2021,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,23797.17,STANDARD,True
+2020,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,23119.86,STANDARD,True
+2019,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,23169.95,STANDARD,True
+2018,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,23479.29,STANDARD,True
+2017,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,23474.69,STANDARD,True
+2016,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,22664.36,STANDARD,True
+2015,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,22384.48,STANDARD,True
+2014,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,22539.5,STANDARD,True
+2013,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,21789.75,STANDARD,True
+2012,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,21798.65,STANDARD,True
+2011,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,22029.94,STANDARD,True
+2010,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,22034.75,STANDARD,True
+2009,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,20998.27,STANDARD,True
+2008,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",All,21027.99,STANDARD,True
+2024,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,21362.59,STANDARD,True
+2023,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,20428.55,STANDARD,True
+2022,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,19772.34,STANDARD,True
+2021,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,18223.34,STANDARD,True
+2020,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,17894.7,STANDARD,True
+2019,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,17573.21,STANDARD,True
+2018,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,17509.61,STANDARD,True
+2017,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,17247.66,STANDARD,True
+2016,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,16611.88,STANDARD,True
+2015,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,16675.0,STANDARD,True
+2014,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,16488.9,STANDARD,True
+2013,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,15675.68,STANDARD,True
+2012,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,15811.12,STANDARD,True
+2011,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,16242.99,STANDARD,True
+2010,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,16458.95,STANDARD,True
+2009,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,14844.09,STANDARD,True
+2008,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Female,15297.52,STANDARD,True
+2024,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,28696.46,STANDARD,True
+2023,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,27386.64,STANDARD,True
+2022,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,26400.67,STANDARD,True
+2021,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,24755.05,STANDARD,True
+2020,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,24104.05,STANDARD,True
+2019,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,24405.77,STANDARD,True
+2018,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,24564.77,STANDARD,True
+2017,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,24122.82,STANDARD,True
+2016,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,23476.74,STANDARD,True
+2015,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,23217.62,STANDARD,True
+2014,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,23194.49,STANDARD,True
+2013,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,22682.48,STANDARD,True
+2012,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,22720.59,STANDARD,True
+2011,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,22879.41,STANDARD,True
+2010,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,22717.35,STANDARD,True
+2009,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,21844.42,STANDARD,True
+2008,"L Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",Male,21925.29,STANDARD,True
+2024,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,30835.88,STANDARD,True
+2023,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,28851.99,STANDARD,True
+2022,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,28251.07,STANDARD,True
+2021,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,27089.86,STANDARD,True
+2020,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,26416.53,STANDARD,True
+2019,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,26152.28,STANDARD,True
+2018,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,26078.13,STANDARD,True
+2017,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,24194.83,STANDARD,True
+2016,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,23470.74,STANDARD,True
+2015,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,23108.95,STANDARD,True
+2014,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,23404.36,STANDARD,True
+2013,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,22464.69,STANDARD,True
+2012,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,21708.19,STANDARD,True
+2011,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,21707.59,STANDARD,True
+2010,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,21165.13,STANDARD,True
+2009,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,20472.24,STANDARD,True
+2008,"M Operadores de instalaciones y maquinaria fijas, y montadores",All,20768.72,STANDARD,True
+2024,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,25205.7,STANDARD,True
+2023,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,22816.31,STANDARD,True
+2022,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,21935.96,STANDARD,True
+2021,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,21156.18,STANDARD,True
+2020,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,20483.08,STANDARD,True
+2019,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,20327.07,STANDARD,True
+2018,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,20223.23,STANDARD,True
+2017,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,18831.97,STANDARD,True
+2016,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,18149.9,STANDARD,True
+2015,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,17558.23,STANDARD,True
+2014,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,17763.67,STANDARD,True
+2013,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,17367.02,STANDARD,True
+2012,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,16865.14,STANDARD,True
+2011,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,16647.53,STANDARD,True
+2010,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,16401.01,STANDARD,True
+2009,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,15625.68,STANDARD,True
+2008,"M Operadores de instalaciones y maquinaria fijas, y montadores",Female,15750.35,STANDARD,True
+2024,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,32344.55,STANDARD,True
+2023,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,30472.86,STANDARD,True
+2022,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,29847.5,STANDARD,True
+2021,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,28463.11,STANDARD,True
+2020,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,27884.51,STANDARD,True
+2019,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,27672.25,STANDARD,True
+2018,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,27490.45,STANDARD,True
+2017,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,25930.9,STANDARD,True
+2016,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,25395.99,STANDARD,True
+2015,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,25245.39,STANDARD,True
+2014,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,25316.77,STANDARD,True
+2013,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,24289.43,STANDARD,True
+2012,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,23461.68,STANDARD,True
+2011,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,23570.2,STANDARD,True
+2010,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,23112.6,STANDARD,True
+2009,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,22103.52,STANDARD,True
+2008,"M Operadores de instalaciones y maquinaria fijas, y montadores",Male,22480.21,STANDARD,True
+2024,N Conductores y operadores de maquinaria móvil,All,24741.48,STANDARD,True
+2023,N Conductores y operadores de maquinaria móvil,All,23536.09,STANDARD,True
+2022,N Conductores y operadores de maquinaria móvil,All,22996.64,STANDARD,True
+2021,N Conductores y operadores de maquinaria móvil,All,21488.35,STANDARD,True
+2020,N Conductores y operadores de maquinaria móvil,All,21078.8,STANDARD,True
+2019,N Conductores y operadores de maquinaria móvil,All,20661.53,STANDARD,True
+2018,N Conductores y operadores de maquinaria móvil,All,21359.91,STANDARD,True
+2017,N Conductores y operadores de maquinaria móvil,All,20374.52,STANDARD,True
+2016,N Conductores y operadores de maquinaria móvil,All,20009.83,STANDARD,True
+2015,N Conductores y operadores de maquinaria móvil,All,20048.37,STANDARD,True
+2014,N Conductores y operadores de maquinaria móvil,All,20131.11,STANDARD,True
+2013,N Conductores y operadores de maquinaria móvil,All,19934.16,STANDARD,True
+2012,N Conductores y operadores de maquinaria móvil,All,20051.99,STANDARD,True
+2011,N Conductores y operadores de maquinaria móvil,All,20157.54,STANDARD,True
+2010,N Conductores y operadores de maquinaria móvil,All,19786.19,STANDARD,True
+2009,N Conductores y operadores de maquinaria móvil,All,19971.66,STANDARD,True
+2008,N Conductores y operadores de maquinaria móvil,All,19677.69,STANDARD,True
+2024,N Conductores y operadores de maquinaria móvil,Female,22895.14,STANDARD,True
+2023,N Conductores y operadores de maquinaria móvil,Female,21311.05,STANDARD,True
+2022,N Conductores y operadores de maquinaria móvil,Female,19904.66,LOW_RELIABILITY,False
+2021,N Conductores y operadores de maquinaria móvil,Female,19276.73,LOW_RELIABILITY,False
+2020,N Conductores y operadores de maquinaria móvil,Female,18923.94,LOW_RELIABILITY,False
+2019,N Conductores y operadores de maquinaria móvil,Female,17257.64,STANDARD,True
+2018,N Conductores y operadores de maquinaria móvil,Female,17992.46,LOW_RELIABILITY,False
+2017,N Conductores y operadores de maquinaria móvil,Female,18549.15,STANDARD,True
+2016,N Conductores y operadores de maquinaria móvil,Female,16894.43,STANDARD,True
+2015,N Conductores y operadores de maquinaria móvil,Female,18010.87,STANDARD,True
+2014,N Conductores y operadores de maquinaria móvil,Female,17506.95,LOW_RELIABILITY,False
+2013,N Conductores y operadores de maquinaria móvil,Female,16785.93,STANDARD,True
+2012,N Conductores y operadores de maquinaria móvil,Female,17667.87,STANDARD,True
+2011,N Conductores y operadores de maquinaria móvil,Female,17022.48,STANDARD,True
+2010,N Conductores y operadores de maquinaria móvil,Female,16586.47,LOW_RELIABILITY,False
+2009,N Conductores y operadores de maquinaria móvil,Female,15873.07,LOW_RELIABILITY,False
+2008,N Conductores y operadores de maquinaria móvil,Female,15129.51,STANDARD,True
+2024,N Conductores y operadores de maquinaria móvil,Male,24849.64,STANDARD,True
+2023,N Conductores y operadores de maquinaria móvil,Male,23646.12,STANDARD,True
+2022,N Conductores y operadores de maquinaria móvil,Male,23136.9,STANDARD,True
+2021,N Conductores y operadores de maquinaria móvil,Male,21570.16,STANDARD,True
+2020,N Conductores y operadores de maquinaria móvil,Male,21182.11,STANDARD,True
+2019,N Conductores y operadores de maquinaria móvil,Male,20919.98,STANDARD,True
+2018,N Conductores y operadores de maquinaria móvil,Male,21487.48,STANDARD,True
+2017,N Conductores y operadores de maquinaria móvil,Male,20452.19,STANDARD,True
+2016,N Conductores y operadores de maquinaria móvil,Male,20161.12,STANDARD,True
+2015,N Conductores y operadores de maquinaria móvil,Male,20148.64,STANDARD,True
+2014,N Conductores y operadores de maquinaria móvil,Male,20234.0,STANDARD,True
+2013,N Conductores y operadores de maquinaria móvil,Male,20125.03,STANDARD,True
+2012,N Conductores y operadores de maquinaria móvil,Male,20182.23,STANDARD,True
+2011,N Conductores y operadores de maquinaria móvil,Male,20358.71,STANDARD,True
+2010,N Conductores y operadores de maquinaria móvil,Male,19906.43,STANDARD,True
+2009,N Conductores y operadores de maquinaria móvil,Male,20111.18,STANDARD,True
+2008,N Conductores y operadores de maquinaria móvil,Male,19885.81,STANDARD,True
+2024,O Trabajadores no cualificados en servicios (excepto transportes),All,16062.57,STANDARD,True
+2023,O Trabajadores no cualificados en servicios (excepto transportes),All,15276.84,STANDARD,True
+2022,O Trabajadores no cualificados en servicios (excepto transportes),All,14665.4,STANDARD,True
+2021,O Trabajadores no cualificados en servicios (excepto transportes),All,13874.28,STANDARD,True
+2020,O Trabajadores no cualificados en servicios (excepto transportes),All,13765.34,STANDARD,True
+2019,O Trabajadores no cualificados en servicios (excepto transportes),All,13796.53,STANDARD,True
+2018,O Trabajadores no cualificados en servicios (excepto transportes),All,13065.9,STANDARD,True
+2017,O Trabajadores no cualificados en servicios (excepto transportes),All,12954.64,STANDARD,True
+2016,O Trabajadores no cualificados en servicios (excepto transportes),All,12826.4,STANDARD,True
+2015,O Trabajadores no cualificados en servicios (excepto transportes),All,12700.7,STANDARD,True
+2014,O Trabajadores no cualificados en servicios (excepto transportes),All,12199.99,STANDARD,True
+2013,O Trabajadores no cualificados en servicios (excepto transportes),All,12601.53,STANDARD,True
+2012,O Trabajadores no cualificados en servicios (excepto transportes),All,12819.51,STANDARD,True
+2011,O Trabajadores no cualificados en servicios (excepto transportes),All,12945.54,STANDARD,True
+2010,O Trabajadores no cualificados en servicios (excepto transportes),All,12551.5,STANDARD,True
+2009,O Trabajadores no cualificados en servicios (excepto transportes),All,13454.02,STANDARD,True
+2008,O Trabajadores no cualificados en servicios (excepto transportes),All,13302.41,STANDARD,True
+2024,O Trabajadores no cualificados en servicios (excepto transportes),Female,14558.57,STANDARD,True
+2023,O Trabajadores no cualificados en servicios (excepto transportes),Female,13933.33,STANDARD,True
+2022,O Trabajadores no cualificados en servicios (excepto transportes),Female,13353.87,STANDARD,True
+2021,O Trabajadores no cualificados en servicios (excepto transportes),Female,12618.05,STANDARD,True
+2020,O Trabajadores no cualificados en servicios (excepto transportes),Female,12346.05,STANDARD,True
+2019,O Trabajadores no cualificados en servicios (excepto transportes),Female,12410.62,STANDARD,True
+2018,O Trabajadores no cualificados en servicios (excepto transportes),Female,11716.52,STANDARD,True
+2017,O Trabajadores no cualificados en servicios (excepto transportes),Female,11657.11,STANDARD,True
+2016,O Trabajadores no cualificados en servicios (excepto transportes),Female,11517.33,STANDARD,True
+2015,O Trabajadores no cualificados en servicios (excepto transportes),Female,11319.84,STANDARD,True
+2014,O Trabajadores no cualificados en servicios (excepto transportes),Female,10859.77,STANDARD,True
+2013,O Trabajadores no cualificados en servicios (excepto transportes),Female,11315.44,STANDARD,True
+2012,O Trabajadores no cualificados en servicios (excepto transportes),Female,11480.3,STANDARD,True
+2011,O Trabajadores no cualificados en servicios (excepto transportes),Female,11542.23,STANDARD,True
+2010,O Trabajadores no cualificados en servicios (excepto transportes),Female,11307.67,STANDARD,True
+2009,O Trabajadores no cualificados en servicios (excepto transportes),Female,11816.18,STANDARD,True
+2008,O Trabajadores no cualificados en servicios (excepto transportes),Female,11797.56,STANDARD,True
+2024,O Trabajadores no cualificados en servicios (excepto transportes),Male,19660.64,STANDARD,True
+2023,O Trabajadores no cualificados en servicios (excepto transportes),Male,18601.7,STANDARD,True
+2022,O Trabajadores no cualificados en servicios (excepto transportes),Male,18018.35,STANDARD,True
+2021,O Trabajadores no cualificados en servicios (excepto transportes),Male,17109.73,STANDARD,True
+2020,O Trabajadores no cualificados en servicios (excepto transportes),Male,17159.21,STANDARD,True
+2019,O Trabajadores no cualificados en servicios (excepto transportes),Male,17346.84,STANDARD,True
+2018,O Trabajadores no cualificados en servicios (excepto transportes),Male,16478.99,STANDARD,True
+2017,O Trabajadores no cualificados en servicios (excepto transportes),Male,16268.21,STANDARD,True
+2016,O Trabajadores no cualificados en servicios (excepto transportes),Male,16028.07,STANDARD,True
+2015,O Trabajadores no cualificados en servicios (excepto transportes),Male,16539.73,STANDARD,True
+2014,O Trabajadores no cualificados en servicios (excepto transportes),Male,15760.05,STANDARD,True
+2013,O Trabajadores no cualificados en servicios (excepto transportes),Male,16173.09,STANDARD,True
+2012,O Trabajadores no cualificados en servicios (excepto transportes),Male,16558.98,STANDARD,True
+2011,O Trabajadores no cualificados en servicios (excepto transportes),Male,16479.83,STANDARD,True
+2010,O Trabajadores no cualificados en servicios (excepto transportes),Male,16261.58,STANDARD,True
+2009,O Trabajadores no cualificados en servicios (excepto transportes),Male,17550.0,STANDARD,True
+2008,O Trabajadores no cualificados en servicios (excepto transportes),Male,16704.87,STANDARD,True
+2024,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,22030.03,STANDARD,True
+2023,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,20817.06,STANDARD,True
+2022,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,20241.79,STANDARD,True
+2021,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,18927.93,STANDARD,True
+2020,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,18521.56,STANDARD,True
+2019,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,18241.14,STANDARD,True
+2018,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,18280.74,STANDARD,True
+2017,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,16725.74,STANDARD,True
+2016,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15946.65,STANDARD,True
+2015,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,16209.08,STANDARD,True
+2014,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15772.51,STANDARD,True
+2013,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15888.96,STANDARD,True
+2012,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15939.96,STANDARD,True
+2011,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,16053.35,STANDARD,True
+2010,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,16048.15,STANDARD,True
+2009,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15343.04,STANDARD,True
+2008,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",All,15328.05,STANDARD,True
+2024,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,19274.22,STANDARD,True
+2023,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,17821.4,STANDARD,True
+2022,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,17470.05,STANDARD,True
+2021,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,16322.02,STANDARD,True
+2020,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,15966.57,STANDARD,True
+2019,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,16008.78,STANDARD,True
+2018,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,15349.84,STANDARD,True
+2017,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,14449.6,STANDARD,True
+2016,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13463.67,STANDARD,True
+2015,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13388.34,STANDARD,True
+2014,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13050.89,STANDARD,True
+2013,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13245.8,STANDARD,True
+2012,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13561.04,STANDARD,True
+2011,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13410.38,STANDARD,True
+2010,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,13404.71,STANDARD,True
+2009,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,12849.44,STANDARD,True
+2008,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Female,12893.16,STANDARD,True
+2024,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,22857.84,STANDARD,True
+2023,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,21718.88,STANDARD,True
+2022,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,20998.67,STANDARD,True
+2021,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,19689.32,STANDARD,True
+2020,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,19279.74,STANDARD,True
+2019,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,18920.61,STANDARD,True
+2018,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,19076.56,STANDARD,True
+2017,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,17518.79,STANDARD,True
+2016,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16754.26,STANDARD,True
+2015,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,17191.57,STANDARD,True
+2014,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16672.94,STANDARD,True
+2013,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16862.51,STANDARD,True
+2012,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16838.9,STANDARD,True
+2011,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16923.64,STANDARD,True
+2010,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,16816.67,STANDARD,True
+2009,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,15962.51,STANDARD,True
+2008,"P Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",Male,15914.17,STANDARD,True
+2024,Q Ocupaciones militares,All,,MISSING,False
+2023,Q Ocupaciones militares,All,,MISSING,False
+2022,Q Ocupaciones militares,All,,MISSING,False
+2021,Q Ocupaciones militares,All,,MISSING,False
+2020,Q Ocupaciones militares,All,,MISSING,False
+2019,Q Ocupaciones militares,All,,MISSING,False
+2018,Q Ocupaciones militares,All,,MISSING,False
+2017,Q Ocupaciones militares,All,,MISSING,False
+2016,Q Ocupaciones militares,All,,MISSING,False
+2015,Q Ocupaciones militares,All,,MISSING,False
+2014,Q Ocupaciones militares,All,,MISSING,False
+2013,Q Ocupaciones militares,All,,MISSING,False
+2012,Q Ocupaciones militares,All,,MISSING,False
+2011,Q Ocupaciones militares,All,,MISSING,False
+2010,Q Ocupaciones militares,All,,MISSING,False
+2009,Q Ocupaciones militares,All,,MISSING,False
+2008,Q Ocupaciones militares,All,,MISSING,False
+2024,Q Ocupaciones militares,Female,,MISSING,False
+2023,Q Ocupaciones militares,Female,,MISSING,False
+2022,Q Ocupaciones militares,Female,,MISSING,False
+2021,Q Ocupaciones militares,Female,,MISSING,False
+2020,Q Ocupaciones militares,Female,,MISSING,False
+2019,Q Ocupaciones militares,Female,,MISSING,False
+2018,Q Ocupaciones militares,Female,,MISSING,False
+2017,Q Ocupaciones militares,Female,,MISSING,False
+2016,Q Ocupaciones militares,Female,,MISSING,False
+2015,Q Ocupaciones militares,Female,,MISSING,False
+2014,Q Ocupaciones militares,Female,,MISSING,False
+2013,Q Ocupaciones militares,Female,,MISSING,False
+2012,Q Ocupaciones militares,Female,,MISSING,False
+2011,Q Ocupaciones militares,Female,,MISSING,False
+2010,Q Ocupaciones militares,Female,,MISSING,False
+2009,Q Ocupaciones militares,Female,,MISSING,False
+2008,Q Ocupaciones militares,Female,,MISSING,False
+2024,Q Ocupaciones militares,Male,,MISSING,False
+2023,Q Ocupaciones militares,Male,,MISSING,False
+2022,Q Ocupaciones militares,Male,,MISSING,False
+2021,Q Ocupaciones militares,Male,,MISSING,False
+2020,Q Ocupaciones militares,Male,,MISSING,False
+2019,Q Ocupaciones militares,Male,,MISSING,False
+2018,Q Ocupaciones militares,Male,,MISSING,False
+2017,Q Ocupaciones militares,Male,,MISSING,False
+2016,Q Ocupaciones militares,Male,,MISSING,False
+2015,Q Ocupaciones militares,Male,,MISSING,False
+2014,Q Ocupaciones militares,Male,,MISSING,False
+2013,Q Ocupaciones militares,Male,,MISSING,False
+2012,Q Ocupaciones militares,Male,,MISSING,False
+2011,Q Ocupaciones militares,Male,,MISSING,False
+2010,Q Ocupaciones militares,Male,,MISSING,False
+2009,Q Ocupaciones militares,Male,,MISSING,False
+2008,Q Ocupaciones militares,Male,,MISSING,False

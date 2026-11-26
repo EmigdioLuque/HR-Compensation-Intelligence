@@ -120,13 +120,23 @@ ALLOWED_VIEWS = {
 @st.cache_data(ttl=600, show_spinner=False)
 def load_view(view_name):
 
+    from pathlib import Path
+    import os
+
     if view_name not in ALLOWED_VIEWS:
         raise ValueError("Invalid analytical view.")
 
-    return run_query(
-        f"SELECT * FROM analytics.{view_name};"
-    )
+    base_dir = Path(__file__).resolve().parents[1]
+    csv_path = base_dir / "data" / "analytics" / f"{view_name}.csv"
 
+    data_mode = os.getenv("DATA_MODE", "csv").lower()
+
+    if data_mode == "postgresql":
+        return run_query(
+            f"SELECT * FROM analytics.{view_name};"
+        )
+
+    return pd.read_csv(csv_path)
 
 # ============================================================
 # FORMATTING UTILITIES

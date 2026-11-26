@@ -1,0 +1,290 @@
+region,year,regional_salary,national_salary,previous_year_salary,salary_difference_eur,salary_difference_pct,regional_salary_index,salary_growth_yoy_pct,regional_salary_rank,benchmark_position
+País Vasco,2008,25547.13,21883.42,,3663.71,16.74,116.74,,1,Above National Average
+"Madrid, Comunidad de",2008,25269.61,21883.42,,3386.19,15.47,115.47,,2,Above National Average
+Cataluña,2008,23375.54,21883.42,,1492.12,6.82,106.82,,3,Above National Average
+"Navarra, Comunidad Foral de",2008,23342.74,21883.42,,1459.32,6.67,106.67,,4,Above National Average
+"Asturias, Principado de",2008,21805.67,21883.42,,-77.75,-0.36,99.64,,5,Below National Average
+Aragón,2008,21594.47,21883.42,,-288.95,-1.32,98.68,,6,Below National Average
+"Rioja, La",2008,20674.16,21883.42,,-1209.26,-5.53,94.47,,7,Below National Average
+"Balears, Illes",2008,20388.09,21883.42,,-1495.33,-6.83,93.17,,8,Below National Average
+Cantabria,2008,20377.68,21883.42,,-1505.74,-6.88,93.12,,9,Below National Average
+Castilla y León,2008,20218.21,21883.42,,-1665.21,-7.61,92.39,,10,Below National Average
+Andalucía,2008,20138.56,21883.42,,-1744.86,-7.97,92.03,,11,Below National Average
+Comunitat Valenciana,2008,19793.62,21883.42,,-2089.8,-9.55,90.45,,12,Below National Average
+Castilla - La Mancha,2008,19736.37,21883.42,,-2147.05,-9.81,90.19,,13,Below National Average
+Galicia,2008,19156.41,21883.42,,-2727.01,-12.46,87.54,,14,Below National Average
+"Murcia, Región de",2008,18911.75,21883.42,,-2971.67,-13.58,86.42,,15,Below National Average
+Canarias,2008,18466.99,21883.42,,-3416.43,-15.61,84.39,,16,Below National Average
+Extremadura,2008,18264.9,21883.42,,-3618.52,-16.54,83.46,,17,Below National Average
+País Vasco,2009,26162.45,22511.47,25547.13,3650.98,16.22,116.22,2.41,1,Above National Average
+"Madrid, Comunidad de",2009,25860.65,22511.47,25269.61,3349.18,14.88,114.88,2.34,2,Above National Average
+Cataluña,2009,23851.31,22511.47,23375.54,1339.84,5.95,105.95,2.04,3,Above National Average
+"Navarra, Comunidad Foral de",2009,23657.71,22511.47,23342.74,1146.24,5.09,105.09,1.35,4,Above National Average
+"Asturias, Principado de",2009,22597.97,22511.47,21805.67,86.5,0.38,100.38,3.63,5,Above National Average
+Aragón,2009,22133.77,22511.47,21594.47,-377.7,-1.68,98.32,2.5,6,Below National Average
+"Rioja, La",2009,21179.93,22511.47,20674.16,-1331.54,-5.91,94.09,2.45,7,Below National Average
+"Balears, Illes",2009,21070.14,22511.47,20388.09,-1441.33,-6.4,93.6,3.35,8,Below National Average
+Castilla y León,2009,21037.13,22511.47,20218.21,-1474.34,-6.55,93.45,4.05,9,Below National Average
+Andalucía,2009,20906.33,22511.47,20138.56,-1605.14,-7.13,92.87,3.81,10,Below National Average
+Cantabria,2009,20869.86,22511.47,20377.68,-1641.61,-7.29,92.71,2.42,11,Below National Average
+Comunitat Valenciana,2009,20489.79,22511.47,19793.62,-2021.68,-8.98,91.02,3.52,12,Below National Average
+"Murcia, Región de",2009,20430.4,22511.47,18911.75,-2081.07,-9.24,90.76,8.03,13,Below National Average
+Castilla - La Mancha,2009,20228.79,22511.47,19736.37,-2282.68,-10.14,89.86,2.49,14,Below National Average
+Galicia,2009,19806.66,22511.47,19156.41,-2704.81,-12.02,87.98,3.39,15,Below National Average
+Extremadura,2009,19099.56,22511.47,18264.9,-3411.91,-15.16,84.84,4.57,16,Below National Average
+Canarias,2009,18926.36,22511.47,18466.99,-3585.11,-15.93,84.07,2.49,17,Below National Average
+País Vasco,2010,26593.7,22790.2,26162.45,3803.5,16.69,116.69,1.65,1,Above National Average
+"Madrid, Comunidad de",2010,25988.95,22790.2,25860.65,3198.75,14.04,114.04,0.5,2,Above National Average
+Cataluña,2010,24449.19,22790.2,23851.31,1658.99,7.28,107.28,2.51,3,Above National Average
+"Navarra, Comunidad Foral de",2010,23824.88,22790.2,23657.71,1034.68,4.54,104.54,0.71,4,Above National Average
+Aragón,2010,22316.69,22790.2,22133.77,-473.51,-2.08,97.92,0.83,5,Below National Average
+"Asturias, Principado de",2010,22241.39,22790.2,22597.97,-548.81,-2.41,97.59,-1.58,6,Below National Average
+"Balears, Illes",2010,21613.6,22790.2,21070.14,-1176.6,-5.16,94.84,2.58,7,Below National Average
+Cantabria,2010,21156.79,22790.2,20869.86,-1633.41,-7.17,92.83,1.37,8,Below National Average
+"Rioja, La",2010,21035.86,22790.2,21179.93,-1754.34,-7.7,92.3,-0.68,9,Below National Average
+Andalucía,2010,20964.36,22790.2,20906.33,-1825.84,-8.01,91.99,0.28,10,Below National Average
+Castilla y León,2010,20960.87,22790.2,21037.13,-1829.33,-8.03,91.97,-0.36,11,Below National Average
+"Murcia, Región de",2010,20863.37,22790.2,20430.4,-1926.83,-8.45,91.55,2.12,12,Below National Average
+Comunitat Valenciana,2010,20707.24,22790.2,20489.79,-2082.96,-9.14,90.86,1.06,13,Below National Average
+Castilla - La Mancha,2010,20363.01,22790.2,20228.79,-2427.19,-10.65,89.35,0.66,14,Below National Average
+Galicia,2010,20241.99,22790.2,19806.66,-2548.21,-11.18,88.82,2.2,15,Below National Average
+Extremadura,2010,19480.55,22790.2,19099.56,-3309.65,-14.52,85.48,1.99,16,Below National Average
+Canarias,2010,19315.56,22790.2,18926.36,-3474.64,-15.25,84.75,2.06,17,Below National Average
+País Vasco,2011,26370.36,22899.35,26593.7,3471.01,15.16,115.16,-0.84,1,Above National Average
+"Madrid, Comunidad de",2011,25845.2,22899.35,25988.95,2945.85,12.86,112.86,-0.55,2,Above National Average
+Cataluña,2011,24499.32,22899.35,24449.19,1599.97,6.99,106.99,0.21,3,Above National Average
+"Navarra, Comunidad Foral de",2011,24384.92,22899.35,23824.88,1485.57,6.49,106.49,2.35,4,Above National Average
+Aragón,2011,22333.53,22899.35,22316.69,-565.82,-2.47,97.53,0.08,5,Below National Average
+"Asturias, Principado de",2011,22286.48,22899.35,22241.39,-612.87,-2.68,97.32,0.2,6,Below National Average
+"Balears, Illes",2011,21351.0,22899.35,21613.6,-1548.35,-6.76,93.24,-1.21,7,Below National Average
+Andalucía,2011,21350.98,22899.35,20964.36,-1548.37,-6.76,93.24,1.84,8,Below National Average
+Comunitat Valenciana,2011,21316.34,22899.35,20707.24,-1583.01,-6.91,93.09,2.94,9,Below National Average
+"Murcia, Región de",2011,21077.49,22899.35,20863.37,-1821.86,-7.96,92.04,1.03,10,Below National Average
+Castilla y León,2011,21029.37,22899.35,20960.87,-1869.98,-8.17,91.83,0.33,11,Below National Average
+"Rioja, La",2011,20996.76,22899.35,21035.86,-1902.59,-8.31,91.69,-0.19,12,Below National Average
+Cantabria,2011,20931.68,22899.35,21156.79,-1967.67,-8.59,91.41,-1.06,13,Below National Average
+Castilla - La Mancha,2011,20664.9,22899.35,20363.01,-2234.45,-9.76,90.24,1.48,14,Below National Average
+Galicia,2011,19970.29,22899.35,20241.99,-2929.06,-12.79,87.21,-1.34,15,Below National Average
+Extremadura,2011,19879.46,22899.35,19480.55,-3019.89,-13.19,86.81,2.05,16,Below National Average
+Canarias,2011,19516.96,22899.35,19315.56,-3382.39,-14.77,85.23,1.04,17,Below National Average
+País Vasco,2012,26535.61,22726.44,26370.36,3809.17,16.76,116.76,0.63,1,Above National Average
+"Madrid, Comunidad de",2012,26044.39,22726.44,25845.2,3317.95,14.6,114.6,0.77,2,Above National Average
+Cataluña,2012,24436.39,22726.44,24499.32,1709.95,7.52,107.52,-0.26,3,Above National Average
+"Navarra, Comunidad Foral de",2012,23784.38,22726.44,24384.92,1057.94,4.66,104.66,-2.46,4,Above National Average
+Aragón,2012,22103.79,22726.44,22333.53,-622.65,-2.74,97.26,-1.03,5,Below National Average
+"Asturias, Principado de",2012,21750.66,22726.44,22286.48,-975.78,-4.29,95.71,-2.4,6,Below National Average
+Comunitat Valenciana,2012,21223.72,22726.44,21316.34,-1502.72,-6.61,93.39,-0.43,7,Below National Average
+"Balears, Illes",2012,20960.53,22726.44,21351.0,-1765.91,-7.77,92.23,-1.83,8,Below National Average
+Andalucía,2012,20891.63,22726.44,21350.98,-1834.81,-8.07,91.93,-2.15,9,Below National Average
+"Murcia, Región de",2012,20682.01,22726.44,21077.49,-2044.43,-9.0,91.0,-1.88,10,Below National Average
+Castilla y León,2012,20569.14,22726.44,21029.37,-2157.3,-9.49,90.51,-2.19,11,Below National Average
+Castilla - La Mancha,2012,20536.42,22726.44,20664.9,-2190.02,-9.64,90.36,-0.62,12,Below National Average
+"Rioja, La",2012,20346.24,22726.44,20996.76,-2380.2,-10.47,89.53,-3.1,13,Below National Average
+Cantabria,2012,20191.51,22726.44,20931.68,-2534.93,-11.15,88.85,-3.54,14,Below National Average
+Extremadura,2012,19721.35,22726.44,19879.46,-3005.09,-13.22,86.78,-0.8,15,Below National Average
+Galicia,2012,19389.2,22726.44,19970.29,-3337.24,-14.68,85.32,-2.91,16,Below National Average
+Canarias,2012,19277.62,22726.44,19516.96,-3448.82,-15.18,84.82,-1.23,17,Below National Average
+País Vasco,2013,26915.07,22697.86,26535.61,4217.21,18.58,118.58,1.43,1,Above National Average
+"Madrid, Comunidad de",2013,26215.36,22697.86,26044.39,3517.5,15.5,115.5,0.66,2,Above National Average
+Cataluña,2013,24253.73,22697.86,24436.39,1555.87,6.85,106.85,-0.75,3,Above National Average
+"Navarra, Comunidad Foral de",2013,23836.93,22697.86,23784.38,1139.07,5.02,105.02,0.22,4,Above National Average
+Aragón,2013,22054.85,22697.86,22103.79,-643.01,-2.83,97.17,-0.22,5,Below National Average
+"Asturias, Principado de",2013,21994.99,22697.86,21750.66,-702.87,-3.1,96.9,1.12,6,Below National Average
+Comunitat Valenciana,2013,20878.02,22697.86,21223.72,-1819.84,-8.02,91.98,-1.63,7,Below National Average
+Andalucía,2013,20782.03,22697.86,20891.63,-1915.83,-8.44,91.56,-0.52,8,Below National Average
+"Balears, Illes",2013,20776.29,22697.86,20960.53,-1921.57,-8.47,91.53,-0.88,9,Below National Average
+Castilla - La Mancha,2013,20630.07,22697.86,20536.42,-2067.79,-9.11,90.89,0.46,10,Below National Average
+"Rioja, La",2013,20628.81,22697.86,20346.24,-2069.05,-9.12,90.88,1.39,11,Below National Average
+"Murcia, Región de",2013,20449.83,22697.86,20682.01,-2248.03,-9.9,90.1,-1.12,12,Below National Average
+Castilla y León,2013,20440.56,22697.86,20569.14,-2257.3,-9.94,90.06,-0.63,13,Below National Average
+Cantabria,2013,20052.12,22697.86,20191.51,-2645.74,-11.66,88.34,-0.69,14,Below National Average
+Galicia,2013,19824.66,22697.86,19389.2,-2873.2,-12.66,87.34,2.25,15,Below National Average
+Canarias,2013,19167.93,22697.86,19277.62,-3529.93,-15.55,84.45,-0.57,16,Below National Average
+Extremadura,2013,19129.72,22697.86,19721.35,-3568.14,-15.72,84.28,-3.0,17,Below National Average
+País Vasco,2014,27786.57,22858.17,26915.07,4928.4,21.56,121.56,3.24,1,Above National Average
+"Madrid, Comunidad de",2014,26570.35,22858.17,26215.36,3712.18,16.24,116.24,1.35,2,Above National Average
+"Navarra, Comunidad Foral de",2014,24700.78,22858.17,23836.93,1842.61,8.06,108.06,3.62,3,Above National Average
+Cataluña,2014,23927.17,22858.17,24253.73,1069.0,4.68,104.68,-1.35,4,Above National Average
+Aragón,2014,22095.79,22858.17,22054.85,-762.38,-3.34,96.66,0.19,5,Below National Average
+"Asturias, Principado de",2014,22045.29,22858.17,21994.99,-812.88,-3.56,96.44,0.23,6,Below National Average
+"Rioja, La",2014,21954.1,22858.17,20628.81,-904.07,-3.96,96.04,6.42,7,Below National Average
+"Balears, Illes",2014,21322.08,22858.17,20776.29,-1536.09,-6.72,93.28,2.63,8,Below National Average
+Cantabria,2014,21199.83,22858.17,20052.12,-1658.34,-7.25,92.75,5.72,9,Below National Average
+Andalucía,2014,20840.3,22858.17,20782.03,-2017.87,-8.83,91.17,0.28,10,Below National Average
+"Murcia, Región de",2014,20717.07,22858.17,20449.83,-2141.1,-9.37,90.63,1.31,11,Below National Average
+Castilla - La Mancha,2014,20644.88,22858.17,20630.07,-2213.29,-9.68,90.32,0.07,12,Below National Average
+Comunitat Valenciana,2014,20639.58,22858.17,20878.02,-2218.59,-9.71,90.29,-1.14,13,Below National Average
+Castilla y León,2014,20524.83,22858.17,20440.56,-2333.34,-10.21,89.79,0.41,14,Below National Average
+Galicia,2014,20195.89,22858.17,19824.66,-2662.28,-11.65,88.35,1.87,15,Below National Average
+Canarias,2014,19436.48,22858.17,19167.93,-3421.69,-14.97,85.03,1.4,16,Below National Average
+Extremadura,2014,19180.57,22858.17,19129.72,-3677.6,-16.09,83.91,0.27,17,Below National Average
+País Vasco,2015,27571.31,23106.3,27786.57,4465.01,19.32,119.32,-0.77,1,Above National Average
+"Madrid, Comunidad de",2015,26448.04,23106.3,26570.35,3341.74,14.46,114.46,-0.46,2,Above National Average
+"Navarra, Comunidad Foral de",2015,24863.98,23106.3,24700.78,1757.68,7.61,107.61,0.66,3,Above National Average
+Cataluña,2015,24321.57,23106.3,23927.17,1215.27,5.26,105.26,1.65,4,Above National Average
+"Asturias, Principado de",2015,22826.06,23106.3,22045.29,-280.24,-1.21,98.79,3.54,5,Below National Average
+Aragón,2015,22327.18,23106.3,22095.79,-779.12,-3.37,96.63,1.05,6,Below National Average
+Cantabria,2015,21856.81,23106.3,21199.83,-1249.49,-5.41,94.59,3.1,7,Below National Average
+"Rioja, La",2015,21756.79,23106.3,21954.1,-1349.51,-5.84,94.16,-0.9,8,Below National Average
+"Balears, Illes",2015,21395.42,23106.3,21322.08,-1710.88,-7.4,92.6,0.34,9,Below National Average
+Andalucía,2015,21381.03,23106.3,20840.3,-1725.27,-7.47,92.53,2.59,10,Below National Average
+Castilla y León,2015,21296.1,23106.3,20524.83,-1810.2,-7.83,92.17,3.76,11,Below National Average
+Comunitat Valenciana,2015,20935.41,23106.3,20639.58,-2170.89,-9.4,90.6,1.43,12,Below National Average
+"Murcia, Región de",2015,20928.98,23106.3,20717.07,-2177.32,-9.42,90.58,1.02,13,Below National Average
+Castilla - La Mancha,2015,20670.55,23106.3,20644.88,-2435.75,-10.54,89.46,0.12,14,Below National Average
+Galicia,2015,20624.55,23106.3,20195.89,-2481.75,-10.74,89.26,2.12,15,Below National Average
+Canarias,2015,19856.61,23106.3,19436.48,-3249.69,-14.06,85.94,2.16,16,Below National Average
+Extremadura,2015,19564.49,23106.3,19180.57,-3541.81,-15.33,84.67,2.0,17,Below National Average
+País Vasco,2016,27480.71,23156.34,27571.31,4324.37,18.67,118.67,-0.33,1,Above National Average
+"Madrid, Comunidad de",2016,26330.14,23156.34,26448.04,3173.8,13.71,113.71,-0.45,2,Above National Average
+"Navarra, Comunidad Foral de",2016,25468.38,23156.34,24863.98,2312.04,9.98,109.98,2.43,3,Above National Average
+Cataluña,2016,24454.64,23156.34,24321.57,1298.3,5.61,105.61,0.55,4,Above National Average
+"Asturias, Principado de",2016,23095.83,23156.34,22826.06,-60.51,-0.26,99.74,1.18,5,Below National Average
+Aragón,2016,22248.76,23156.34,22327.18,-907.58,-3.92,96.08,-0.35,6,Below National Average
+Cantabria,2016,22063.02,23156.34,21856.81,-1093.32,-4.72,95.28,0.94,7,Below National Average
+"Rioja, La",2016,21999.02,23156.34,21756.79,-1157.32,-5.0,95.0,1.11,8,Below National Average
+Castilla y León,2016,21551.57,23156.34,21296.1,-1604.77,-6.93,93.07,1.2,9,Below National Average
+"Balears, Illes",2016,21478.34,23156.34,21395.42,-1678.0,-7.25,92.75,0.39,10,Below National Average
+Andalucía,2016,21268.41,23156.34,21381.03,-1887.93,-8.15,91.85,-0.53,11,Below National Average
+"Murcia, Región de",2016,21242.5,23156.34,20928.98,-1913.84,-8.26,91.74,1.5,12,Below National Average
+Comunitat Valenciana,2016,21168.81,23156.34,20935.41,-1987.53,-8.58,91.42,1.11,13,Below National Average
+Galicia,2016,21082.12,23156.34,20624.55,-2074.22,-8.96,91.04,2.22,14,Below National Average
+Castilla - La Mancha,2016,20825.87,23156.34,20670.55,-2330.47,-10.06,89.94,0.75,15,Below National Average
+Canarias,2016,19749.03,23156.34,19856.61,-3407.31,-14.71,85.29,-0.54,16,Below National Average
+Extremadura,2016,19475.2,23156.34,19564.49,-3681.14,-15.9,84.1,-0.46,17,Below National Average
+País Vasco,2017,28204.49,23646.5,27480.71,4557.99,19.28,119.28,2.63,1,Above National Average
+"Madrid, Comunidad de",2017,27089.12,23646.5,26330.14,3442.62,14.56,114.56,2.88,2,Above National Average
+"Navarra, Comunidad Foral de",2017,26329.79,23646.5,25468.38,2683.29,11.35,111.35,3.38,3,Above National Average
+Cataluña,2017,25180.45,23646.5,24454.64,1533.95,6.49,106.49,2.97,4,Above National Average
+"Asturias, Principado de",2017,23609.67,23646.5,23095.83,-36.83,-0.16,99.84,2.22,5,Below National Average
+Aragón,2017,23039.94,23646.5,22248.76,-606.56,-2.57,97.43,3.56,6,Below National Average
+Cantabria,2017,22390.4,23646.5,22063.02,-1256.1,-5.31,94.69,1.48,7,Below National Average
+"Rioja, La",2017,22234.21,23646.5,21999.02,-1412.29,-5.97,94.03,1.07,8,Below National Average
+"Balears, Illes",2017,22036.46,23646.5,21478.34,-1610.04,-6.81,93.19,2.6,9,Below National Average
+Castilla y León,2017,21846.88,23646.5,21551.57,-1799.62,-7.61,92.39,1.37,10,Below National Average
+Galicia,2017,21605.88,23646.5,21082.12,-2040.62,-8.63,91.37,2.48,11,Below National Average
+Andalucía,2017,21404.28,23646.5,21268.41,-2242.22,-9.48,90.52,0.64,12,Below National Average
+Comunitat Valenciana,2017,21362.39,23646.5,21168.81,-2284.11,-9.66,90.34,0.91,13,Below National Average
+"Murcia, Región de",2017,21309.22,23646.5,21242.5,-2337.28,-9.88,90.12,0.31,14,Below National Average
+Castilla - La Mancha,2017,21033.32,23646.5,20825.87,-2613.18,-11.05,88.95,1.0,15,Below National Average
+Canarias,2017,20185.33,23646.5,19749.03,-3461.17,-14.64,85.36,2.21,16,Below National Average
+Extremadura,2017,19672.4,23646.5,19475.2,-3974.1,-16.81,83.19,1.01,17,Below National Average
+País Vasco,2018,28470.94,24009.12,28204.49,4461.82,18.58,118.58,0.94,1,Above National Average
+"Madrid, Comunidad de",2018,27010.93,24009.12,27089.12,3001.81,12.5,112.5,-0.29,2,Above National Average
+"Navarra, Comunidad Foral de",2018,26364.75,24009.12,26329.79,2355.63,9.81,109.81,0.13,3,Above National Average
+Cataluña,2018,25552.84,24009.12,25180.45,1543.72,6.43,106.43,1.48,4,Above National Average
+"Asturias, Principado de",2018,23914.61,24009.12,23609.67,-94.51,-0.39,99.61,1.29,5,Below National Average
+Aragón,2018,23531.83,24009.12,23039.94,-477.29,-1.99,98.01,2.13,6,Below National Average
+"Balears, Illes",2018,22800.87,24009.12,22036.46,-1208.25,-5.03,94.97,3.47,7,Below National Average
+"Rioja, La",2018,22641.17,24009.12,22234.21,-1367.95,-5.7,94.3,1.83,8,Below National Average
+Cantabria,2018,22554.83,24009.12,22390.4,-1454.29,-6.06,93.94,0.73,9,Below National Average
+Galicia,2018,22244.59,24009.12,21605.88,-1764.53,-7.35,92.65,2.96,10,Below National Average
+Comunitat Valenciana,2018,22121.05,24009.12,21362.39,-1888.07,-7.86,92.14,3.55,11,Below National Average
+Castilla y León,2018,22034.53,24009.12,21846.88,-1974.59,-8.22,91.78,0.86,12,Below National Average
+Andalucía,2018,21805.92,24009.12,21404.28,-2203.2,-9.18,90.82,1.88,13,Below National Average
+Castilla - La Mancha,2018,21756.38,24009.12,21033.32,-2252.74,-9.38,90.62,3.44,14,Below National Average
+"Murcia, Región de",2018,21510.59,24009.12,21309.22,-2498.53,-10.41,89.59,0.94,15,Below National Average
+Canarias,2018,20763.48,24009.12,20185.33,-3245.64,-13.52,86.48,2.86,16,Below National Average
+Extremadura,2018,19947.8,24009.12,19672.4,-4061.32,-16.92,83.08,1.4,17,Below National Average
+País Vasco,2019,29476.21,24395.98,28470.94,5080.23,20.82,120.82,3.53,1,Above National Average
+"Madrid, Comunidad de",2019,27817.76,24395.98,27010.93,3421.78,14.03,114.03,2.99,2,Above National Average
+"Navarra, Comunidad Foral de",2019,27493.93,24395.98,26364.75,3097.95,12.7,112.7,4.28,3,Above National Average
+Cataluña,2019,25968.2,24395.98,25552.84,1572.22,6.44,106.44,1.63,4,Above National Average
+"Asturias, Principado de",2019,24865.89,24395.98,23914.61,469.91,1.93,101.93,3.98,5,Above National Average
+Aragón,2019,23565.09,24395.98,23531.83,-830.89,-3.41,96.59,0.14,6,Below National Average
+Cantabria,2019,23347.52,24395.98,22554.83,-1048.46,-4.3,95.7,3.51,7,Below National Average
+"Balears, Illes",2019,23325.33,24395.98,22800.87,-1070.65,-4.39,95.61,2.3,8,Below National Average
+"Rioja, La",2019,22877.13,24395.98,22641.17,-1518.85,-6.23,93.77,1.04,9,Below National Average
+Galicia,2019,22177.4,24395.98,22244.59,-2218.58,-9.09,90.91,-0.3,10,Below National Average
+"Murcia, Región de",2019,22123.99,24395.98,21510.59,-2271.99,-9.31,90.69,2.85,11,Below National Average
+Castilla y León,2019,22061.44,24395.98,22034.53,-2334.54,-9.57,90.43,0.12,12,Below National Average
+Andalucía,2019,22060.99,24395.98,21805.92,-2334.99,-9.57,90.43,1.17,13,Below National Average
+Comunitat Valenciana,2019,22045.66,24395.98,22121.05,-2350.32,-9.63,90.37,-0.34,14,Below National Average
+Castilla - La Mancha,2019,21908.92,24395.98,21756.38,-2487.06,-10.19,89.81,0.7,15,Below National Average
+Canarias,2019,20861.14,24395.98,20763.48,-3534.84,-14.49,85.51,0.47,16,Below National Average
+Extremadura,2019,19940.68,24395.98,19947.8,-4455.3,-18.26,81.74,-0.04,17,Below National Average
+País Vasco,2020,30224.16,25165.51,29476.21,5058.65,20.1,120.1,2.54,1,Above National Average
+"Madrid, Comunidad de",2020,28829.06,25165.51,27817.76,3663.55,14.56,114.56,3.64,2,Above National Average
+"Navarra, Comunidad Foral de",2020,27995.96,25165.51,27493.93,2830.45,11.25,111.25,1.83,3,Above National Average
+Cataluña,2020,27100.11,25165.51,25968.2,1934.6,7.69,107.69,4.36,4,Above National Average
+"Asturias, Principado de",2020,24527.96,25165.51,24865.89,-637.55,-2.53,97.47,-1.36,5,Below National Average
+Aragón,2020,24113.57,25165.51,23565.09,-1051.94,-4.18,95.82,2.33,6,Below National Average
+"Balears, Illes",2020,23881.42,25165.51,23325.33,-1284.09,-5.1,94.9,2.38,7,Below National Average
+Cantabria,2020,23495.12,25165.51,23347.52,-1670.39,-6.64,93.36,0.63,8,Below National Average
+"Rioja, La",2020,23292.63,25165.51,22877.13,-1872.88,-7.44,92.56,1.82,9,Below National Average
+Castilla y León,2020,22948.76,25165.51,22061.44,-2216.75,-8.81,91.19,4.02,10,Below National Average
+"Murcia, Región de",2020,22919.62,25165.51,22123.99,-2245.89,-8.92,91.08,3.6,11,Below National Average
+Comunitat Valenciana,2020,22856.7,25165.51,22045.66,-2308.81,-9.17,90.83,3.68,12,Below National Average
+Galicia,2020,22834.66,25165.51,22177.4,-2330.85,-9.26,90.74,2.96,13,Below National Average
+Castilla - La Mancha,2020,22575.01,25165.51,21908.92,-2590.5,-10.29,89.71,3.04,14,Below National Average
+Andalucía,2020,22323.85,25165.51,22060.99,-2841.66,-11.29,88.71,1.19,15,Below National Average
+Canarias,2020,21631.17,25165.51,20861.14,-3534.34,-14.04,85.96,3.69,16,Below National Average
+Extremadura,2020,20479.3,25165.51,19940.68,-4686.21,-18.62,81.38,2.7,17,Below National Average
+País Vasco,2021,31063.68,25896.82,30224.16,5166.86,19.95,119.95,2.78,1,Above National Average
+"Madrid, Comunidad de",2021,29512.58,25896.82,28829.06,3615.76,13.96,113.96,2.37,2,Above National Average
+"Navarra, Comunidad Foral de",2021,28459.37,25896.82,27995.96,2562.55,9.9,109.9,1.66,3,Above National Average
+Cataluña,2021,28145.02,25896.82,27100.11,2248.2,8.68,108.68,3.86,4,Above National Average
+"Asturias, Principado de",2021,25046.6,25896.82,24527.96,-850.22,-3.28,96.72,2.11,5,Below National Average
+Aragón,2021,25011.55,25896.82,24113.57,-885.27,-3.42,96.58,3.72,6,Below National Average
+Cantabria,2021,24470.7,25896.82,23495.12,-1426.12,-5.51,94.49,4.15,7,Below National Average
+"Balears, Illes",2021,24134.73,25896.82,23881.42,-1762.09,-6.8,93.2,1.06,8,Below National Average
+"Rioja, La",2021,23716.88,25896.82,23292.63,-2179.94,-8.42,91.58,1.82,9,Below National Average
+Castilla y León,2021,23564.33,25896.82,22948.76,-2332.49,-9.01,90.99,2.68,10,Below National Average
+Comunitat Valenciana,2021,23448.29,25896.82,22856.7,-2448.53,-9.45,90.55,2.59,11,Below National Average
+Galicia,2021,23305.86,25896.82,22834.66,-2590.96,-10.0,90.0,2.06,12,Below National Average
+"Murcia, Región de",2021,23281.39,25896.82,22919.62,-2615.43,-10.1,89.9,1.58,13,Below National Average
+Castilla - La Mancha,2021,23234.55,25896.82,22575.01,-2662.27,-10.28,89.72,2.92,14,Below National Average
+Andalucía,2021,23154.99,25896.82,22323.85,-2741.83,-10.59,89.41,3.72,15,Below National Average
+Canarias,2021,22466.23,25896.82,21631.17,-3430.59,-13.25,86.75,3.86,16,Below National Average
+Extremadura,2021,21393.01,25896.82,20479.3,-4503.81,-17.39,82.61,4.46,17,Below National Average
+País Vasco,2022,32313.73,26948.87,31063.68,5364.86,19.91,119.91,4.02,1,Above National Average
+"Madrid, Comunidad de",2022,31230.73,26948.87,29512.58,4281.86,15.89,115.89,5.82,2,Above National Average
+"Navarra, Comunidad Foral de",2022,29189.52,26948.87,28459.37,2240.65,8.31,108.31,2.57,3,Above National Average
+Cataluña,2022,28774.55,26948.87,28145.02,1825.68,6.77,106.77,2.24,4,Above National Average
+"Balears, Illes",2022,27145.79,26948.87,24134.73,196.92,0.73,100.73,12.48,5,Above National Average
+"Asturias, Principado de",2022,26745.93,26948.87,25046.6,-202.94,-0.75,99.25,6.78,6,Below National Average
+Aragón,2022,26012.71,26948.87,25011.55,-936.16,-3.47,96.53,4.0,7,Below National Average
+Cantabria,2022,25291.14,26948.87,24470.7,-1657.73,-6.15,93.85,3.35,8,Below National Average
+"Rioja, La",2022,24903.38,26948.87,23716.88,-2045.49,-7.59,92.41,5.0,9,Below National Average
+Comunitat Valenciana,2022,24510.34,26948.87,23448.29,-2438.53,-9.05,90.95,4.53,10,Below National Average
+Castilla y León,2022,24186.89,26948.87,23564.33,-2761.98,-10.25,89.75,2.64,11,Below National Average
+Galicia,2022,24169.68,26948.87,23305.86,-2779.19,-10.31,89.69,3.71,12,Below National Average
+Andalucía,2022,24094.32,26948.87,23154.99,-2854.55,-10.59,89.41,4.06,13,Below National Average
+"Murcia, Región de",2022,23851.69,26948.87,23281.39,-3097.18,-11.49,88.51,2.45,14,Below National Average
+Castilla - La Mancha,2022,23751.71,26948.87,23234.55,-3197.16,-11.86,88.14,2.23,15,Below National Average
+Canarias,2022,23096.92,26948.87,22466.23,-3851.95,-14.29,85.71,2.81,16,Below National Average
+Extremadura,2022,21922.73,26948.87,21393.01,-5026.14,-18.65,81.35,2.48,17,Below National Average
+País Vasco,2023,33504.92,28049.94,32313.73,5454.98,19.45,119.45,3.69,1,Above National Average
+"Madrid, Comunidad de",2023,32219.6,28049.94,31230.73,4169.66,14.87,114.87,3.17,2,Above National Average
+"Navarra, Comunidad Foral de",2023,31199.66,28049.94,29189.52,3149.72,11.23,111.23,6.89,3,Above National Average
+Cataluña,2023,29978.69,28049.94,28774.55,1928.75,6.88,106.88,4.18,4,Above National Average
+"Asturias, Principado de",2023,27916.6,28049.94,26745.93,-133.34,-0.48,99.52,4.38,5,Below National Average
+"Balears, Illes",2023,27537.0,28049.94,27145.79,-512.94,-1.83,98.17,1.44,6,Below National Average
+Aragón,2023,26822.32,28049.94,26012.71,-1227.62,-4.38,95.62,3.11,7,Below National Average
+Cantabria,2023,26568.7,28049.94,25291.14,-1481.24,-5.28,94.72,5.05,8,Below National Average
+"Rioja, La",2023,26319.06,28049.94,24903.38,-1730.88,-6.17,93.83,5.68,9,Below National Average
+Comunitat Valenciana,2023,25632.37,28049.94,24510.34,-2417.57,-8.62,91.38,4.58,10,Below National Average
+"Murcia, Región de",2023,25329.87,28049.94,23851.69,-2720.07,-9.7,90.3,6.2,11,Below National Average
+Galicia,2023,25279.15,28049.94,24169.68,-2770.79,-9.88,90.12,4.59,12,Below National Average
+Castilla y León,2023,25227.03,28049.94,24186.89,-2822.91,-10.06,89.94,4.3,13,Below National Average
+Andalucía,2023,25051.51,28049.94,24094.32,-2998.43,-10.69,89.31,3.97,14,Below National Average
+Castilla - La Mancha,2023,24885.63,28049.94,23751.71,-3164.31,-11.28,88.72,4.77,15,Below National Average
+Canarias,2023,24033.57,28049.94,23096.92,-4016.37,-14.32,85.68,4.06,16,Below National Average
+Extremadura,2023,23684.22,28049.94,21922.73,-4365.72,-15.56,84.44,8.03,17,Below National Average
+País Vasco,2024,35170.28,29540.26,33504.92,5630.02,19.06,119.06,4.97,1,Above National Average
+"Madrid, Comunidad de",2024,34410.01,29540.26,32219.6,4869.75,16.49,116.49,6.8,2,Above National Average
+"Navarra, Comunidad Foral de",2024,32605.28,29540.26,31199.66,3065.02,10.38,110.38,4.51,3,Above National Average
+Cataluña,2024,31730.05,29540.26,29978.69,2189.79,7.41,107.41,5.84,4,Above National Average
+"Balears, Illes",2024,29075.06,29540.26,27537.0,-465.2,-1.57,98.43,5.59,5,Below National Average
+"Asturias, Principado de",2024,28562.31,29540.26,27916.6,-977.95,-3.31,96.69,2.31,6,Below National Average
+Aragón,2024,28061.94,29540.26,26822.32,-1478.32,-5.0,95.0,4.62,7,Below National Average
+"Rioja, La",2024,27855.4,29540.26,26319.06,-1684.86,-5.7,94.3,5.84,8,Below National Average
+Cantabria,2024,27097.17,29540.26,26568.7,-2443.09,-8.27,91.73,1.99,9,Below National Average
+Comunitat Valenciana,2024,26816.98,29540.26,25632.37,-2723.28,-9.22,90.78,4.62,10,Below National Average
+Galicia,2024,26547.27,29540.26,25279.15,-2992.99,-10.13,89.87,5.02,11,Below National Average
+"Murcia, Región de",2024,26349.36,29540.26,25329.87,-3190.9,-10.8,89.2,4.02,12,Below National Average
+Castilla y León,2024,26177.28,29540.26,25227.03,-3362.98,-11.38,88.62,3.77,13,Below National Average
+Andalucía,2024,26089.7,29540.26,25051.51,-3450.56,-11.68,88.32,4.14,14,Below National Average
+Castilla - La Mancha,2024,26062.05,29540.26,24885.63,-3478.21,-11.77,88.23,4.73,15,Below National Average
+Canarias,2024,25120.38,29540.26,24033.57,-4419.88,-14.96,85.04,4.52,16,Below National Average
+Extremadura,2024,24979.44,29540.26,23684.22,-4560.82,-15.44,84.56,5.47,17,Below National Average
