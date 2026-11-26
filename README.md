@@ -426,7 +426,6 @@ Salary and labour cost datasets have different reporting
 frequencies and publication schedules.
 
 ---
-
 ## 12 / Repository Structure
 
     HR-Compensation-Intelligence/
@@ -441,6 +440,7 @@ frequencies and publication schedules.
     |-- data/
     |   |-- raw/
     |   |-- processed/
+    |   |-- analytics/
     |
     |-- documentation/
     |   |-- architecture.md
@@ -450,12 +450,29 @@ frequencies and publication schedules.
     |   |-- data_exploration_report.txt
     |
     |-- python/
+    |   |-- 01_data_exploration.py
+    |   |-- 02_data_cleaning.py
     |
     |-- sql/
     |
     |-- .streamlit/
+    |   |-- config.toml
+    |
+    |-- .env.example
     |-- .gitignore
+    |-- requirements.txt
     |-- README.md
+
+### Data Directory
+
+| Directory | Purpose |
+|---|---|
+| raw/ | Original INE statistical datasets |
+| processed/ | Cleaned and standardised datasets |
+| analytics/ | 11 exported PostgreSQL analytical views |
+
+The analytics directory enables cloud deployment
+without requiring a live database connection.
 
 ---
 
