@@ -1,0 +1,3673 @@
+region,occupation,gender,year,annual_salary,quality_flag
+Total Nacional,Todas las ocupaciones,All,2024,29540.26,STANDARD
+Total Nacional,Todas las ocupaciones,All,2023,28049.94,STANDARD
+Total Nacional,Todas las ocupaciones,All,2022,26948.87,STANDARD
+Total Nacional,Todas las ocupaciones,All,2021,25896.82,STANDARD
+Total Nacional,Todas las ocupaciones,All,2020,25165.51,STANDARD
+Total Nacional,Todas las ocupaciones,All,2019,24395.98,STANDARD
+Total Nacional,Todas las ocupaciones,All,2018,24009.12,STANDARD
+Total Nacional,Todas las ocupaciones,All,2017,23646.5,STANDARD
+Total Nacional,Todas las ocupaciones,All,2016,23156.34,STANDARD
+Total Nacional,Todas las ocupaciones,All,2015,23106.3,STANDARD
+Total Nacional,Todas las ocupaciones,All,2014,22858.17,STANDARD
+Total Nacional,Todas las ocupaciones,All,2013,22697.86,STANDARD
+Total Nacional,Todas las ocupaciones,All,2012,22726.44,STANDARD
+Total Nacional,Todas las ocupaciones,All,2011,22899.35,STANDARD
+Total Nacional,Todas las ocupaciones,All,2010,22790.2,STANDARD
+Total Nacional,Todas las ocupaciones,All,2009,22511.47,STANDARD
+Total Nacional,Todas las ocupaciones,All,2008,21883.42,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2024,26904.9,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2023,25591.31,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2022,24359.82,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2021,23175.95,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2020,22467.48,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2019,21682.02,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2018,21011.89,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2017,20607.85,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2016,20131.41,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2015,20051.58,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2014,19744.82,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2013,19514.58,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2012,19537.33,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2011,19767.59,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2010,19735.22,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2009,19502.02,STANDARD
+Total Nacional,Todas las ocupaciones,Female,2008,18910.62,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2024,32057.55,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2023,30372.49,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2022,29381.84,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2021,28388.69,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2020,27642.52,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2019,26934.38,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2018,26738.19,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2017,26391.84,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2016,25924.43,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2015,25992.76,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2014,25727.24,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2013,25675.17,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2012,25682.05,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2011,25667.89,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2010,25479.74,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2009,25001.05,STANDARD
+Total Nacional,Todas las ocupaciones,Male,2008,24203.33,STANDARD
+Total Nacional,Alta,All,2024,41497.74,STANDARD
+Total Nacional,Alta,All,2023,39277.88,STANDARD
+Total Nacional,Alta,All,2022,37927.12,STANDARD
+Total Nacional,Alta,All,2021,36807.7,STANDARD
+Total Nacional,Alta,All,2020,35430.92,STANDARD
+Total Nacional,Alta,All,2019,33980.46,STANDARD
+Total Nacional,Alta,All,2018,33932.55,STANDARD
+Total Nacional,Alta,All,2017,33345.81,STANDARD
+Total Nacional,Alta,All,2016,32775.58,STANDARD
+Total Nacional,Alta,All,2015,32571.38,STANDARD
+Total Nacional,Alta,All,2014,32306.44,STANDARD
+Total Nacional,Alta,All,2013,32543.02,STANDARD
+Total Nacional,Alta,All,2012,32312.85,STANDARD
+Total Nacional,Alta,All,2011,32343.67,STANDARD
+Total Nacional,Alta,All,2010,32472.98,STANDARD
+Total Nacional,Alta,All,2009,31886.96,STANDARD
+Total Nacional,Alta,All,2008,30883.89,STANDARD
+Total Nacional,Alta,Female,2024,38390.69,STANDARD
+Total Nacional,Alta,Female,2023,36601.66,STANDARD
+Total Nacional,Alta,Female,2022,35002.75,STANDARD
+Total Nacional,Alta,Female,2021,33753.29,STANDARD
+Total Nacional,Alta,Female,2020,32374.35,STANDARD
+Total Nacional,Alta,Female,2019,31042.04,STANDARD
+Total Nacional,Alta,Female,2018,30677.18,STANDARD
+Total Nacional,Alta,Female,2017,29864.15,STANDARD
+Total Nacional,Alta,Female,2016,29285.12,STANDARD
+Total Nacional,Alta,Female,2015,29140.87,STANDARD
+Total Nacional,Alta,Female,2014,28607.49,STANDARD
+Total Nacional,Alta,Female,2013,28802.98,STANDARD
+Total Nacional,Alta,Female,2012,28512.97,STANDARD
+Total Nacional,Alta,Female,2011,28589.89,STANDARD
+Total Nacional,Alta,Female,2010,28760.52,STANDARD
+Total Nacional,Alta,Female,2009,28166.98,STANDARD
+Total Nacional,Alta,Female,2008,27200.0,STANDARD
+Total Nacional,Alta,Male,2024,45023.48,STANDARD
+Total Nacional,Alta,Male,2023,42291.86,STANDARD
+Total Nacional,Alta,Male,2022,41102.65,STANDARD
+Total Nacional,Alta,Male,2021,39988.28,STANDARD
+Total Nacional,Alta,Male,2020,38624.53,STANDARD
+Total Nacional,Alta,Male,2019,37043.89,STANDARD
+Total Nacional,Alta,Male,2018,37266.55,STANDARD
+Total Nacional,Alta,Male,2017,36770.61,STANDARD
+Total Nacional,Alta,Male,2016,36233.27,STANDARD
+Total Nacional,Alta,Male,2015,36064.11,STANDARD
+Total Nacional,Alta,Male,2014,36181.79,STANDARD
+Total Nacional,Alta,Male,2013,36093.51,STANDARD
+Total Nacional,Alta,Male,2012,35909.03,STANDARD
+Total Nacional,Alta,Male,2011,35776.39,STANDARD
+Total Nacional,Alta,Male,2010,36041.74,STANDARD
+Total Nacional,Alta,Male,2009,35326.03,STANDARD
+Total Nacional,Alta,Male,2008,34145.56,STANDARD
+Total Nacional,Media,All,2024,23665.68,STANDARD
+Total Nacional,Media,All,2023,22659.28,STANDARD
+Total Nacional,Media,All,2022,21758.7,STANDARD
+Total Nacional,Media,All,2021,20643.6,STANDARD
+Total Nacional,Media,All,2020,20106.4,STANDARD
+Total Nacional,Media,All,2019,19890.23,STANDARD
+Total Nacional,Media,All,2018,19655.17,STANDARD
+Total Nacional,Media,All,2017,18988.69,STANDARD
+Total Nacional,Media,All,2016,18696.27,STANDARD
+Total Nacional,Media,All,2015,18746.2,STANDARD
+Total Nacional,Media,All,2014,18379.03,STANDARD
+Total Nacional,Media,All,2013,18209.54,STANDARD
+Total Nacional,Media,All,2012,18257.89,STANDARD
+Total Nacional,Media,All,2011,18634.4,STANDARD
+Total Nacional,Media,All,2010,18617.75,STANDARD
+Total Nacional,Media,All,2009,18293.81,STANDARD
+Total Nacional,Media,All,2008,18166.27,STANDARD
+Total Nacional,Media,Female,2024,20779.36,STANDARD
+Total Nacional,Media,Female,2023,19799.66,STANDARD
+Total Nacional,Media,Female,2022,19106.53,STANDARD
+Total Nacional,Media,Female,2021,17844.16,STANDARD
+Total Nacional,Media,Female,2020,17390.82,STANDARD
+Total Nacional,Media,Female,2019,17204.59,STANDARD
+Total Nacional,Media,Female,2018,16729.73,STANDARD
+Total Nacional,Media,Female,2017,16160.12,STANDARD
+Total Nacional,Media,Female,2016,15903.4,STANDARD
+Total Nacional,Media,Female,2015,15960.97,STANDARD
+Total Nacional,Media,Female,2014,15463.17,STANDARD
+Total Nacional,Media,Female,2013,15598.78,STANDARD
+Total Nacional,Media,Female,2012,15593.86,STANDARD
+Total Nacional,Media,Female,2011,15989.92,STANDARD
+Total Nacional,Media,Female,2010,15819.22,STANDARD
+Total Nacional,Media,Female,2009,15486.22,STANDARD
+Total Nacional,Media,Female,2008,15326.21,STANDARD
+Total Nacional,Media,Male,2024,26651.65,STANDARD
+Total Nacional,Media,Male,2023,25599.76,STANDARD
+Total Nacional,Media,Male,2022,24546.78,STANDARD
+Total Nacional,Media,Male,2021,23517.61,STANDARD
+Total Nacional,Media,Male,2020,22948.27,STANDARD
+Total Nacional,Media,Male,2019,22754.78,STANDARD
+Total Nacional,Media,Male,2018,22627.51,STANDARD
+Total Nacional,Media,Male,2017,21859.56,STANDARD
+Total Nacional,Media,Male,2016,21580.75,STANDARD
+Total Nacional,Media,Male,2015,21688.3,STANDARD
+Total Nacional,Media,Male,2014,21293.22,STANDARD
+Total Nacional,Media,Male,2013,21016.93,STANDARD
+Total Nacional,Media,Male,2012,21081.88,STANDARD
+Total Nacional,Media,Male,2011,21330.8,STANDARD
+Total Nacional,Media,Male,2010,21315.47,STANDARD
+Total Nacional,Media,Male,2009,20935.41,STANDARD
+Total Nacional,Media,Male,2008,20747.02,STANDARD
+Total Nacional,Baja,All,2024,21442.54,STANDARD
+Total Nacional,Baja,All,2023,20434.67,STANDARD
+Total Nacional,Baja,All,2022,19756.46,STANDARD
+Total Nacional,Baja,All,2021,18768.24,STANDARD
+Total Nacional,Baja,All,2020,18545.22,STANDARD
+Total Nacional,Baja,All,2019,18322.4,STANDARD
+Total Nacional,Baja,All,2018,18001.89,STANDARD
+Total Nacional,Baja,All,2017,17368.3,STANDARD
+Total Nacional,Baja,All,2016,16975.91,STANDARD
+Total Nacional,Baja,All,2015,16999.71,STANDARD
+Total Nacional,Baja,All,2014,16819.51,STANDARD
+Total Nacional,Baja,All,2013,16609.29,STANDARD
+Total Nacional,Baja,All,2012,16669.42,STANDARD
+Total Nacional,Baja,All,2011,16826.74,STANDARD
+Total Nacional,Baja,All,2010,16513.88,STANDARD
+Total Nacional,Baja,All,2009,16916.9,STANDARD
+Total Nacional,Baja,All,2008,16931.98,STANDARD
+Total Nacional,Baja,Female,2024,16410.27,STANDARD
+Total Nacional,Baja,Female,2023,15525.57,STANDARD
+Total Nacional,Baja,Female,2022,14777.52,STANDARD
+Total Nacional,Baja,Female,2021,14007.9,STANDARD
+Total Nacional,Baja,Female,2020,13850.54,STANDARD
+Total Nacional,Baja,Female,2019,13892.92,STANDARD
+Total Nacional,Baja,Female,2018,13018.55,STANDARD
+Total Nacional,Baja,Female,2017,12967.16,STANDARD
+Total Nacional,Baja,Female,2016,12689.44,STANDARD
+Total Nacional,Baja,Female,2015,12541.32,STANDARD
+Total Nacional,Baja,Female,2014,12109.51,STANDARD
+Total Nacional,Baja,Female,2013,12380.88,STANDARD
+Total Nacional,Baja,Female,2012,12551.98,STANDARD
+Total Nacional,Baja,Female,2011,12593.95,STANDARD
+Total Nacional,Baja,Female,2010,12317.57,STANDARD
+Total Nacional,Baja,Female,2009,12601.35,STANDARD
+Total Nacional,Baja,Female,2008,12719.44,STANDARD
+Total Nacional,Baja,Male,2024,24399.45,STANDARD
+Total Nacional,Baja,Male,2023,23235.79,STANDARD
+Total Nacional,Baja,Male,2022,22583.87,STANDARD
+Total Nacional,Baja,Male,2021,21441.19,STANDARD
+Total Nacional,Baja,Male,2020,21114.52,STANDARD
+Total Nacional,Baja,Male,2019,20938.92,STANDARD
+Total Nacional,Baja,Male,2018,20888.59,STANDARD
+Total Nacional,Baja,Male,2017,20054.1,STANDARD
+Total Nacional,Baja,Male,2016,19639.33,STANDARD
+Total Nacional,Baja,Male,2015,19935.01,STANDARD
+Total Nacional,Baja,Male,2014,19734.09,STANDARD
+Total Nacional,Baja,Male,2013,19454.02,STANDARD
+Total Nacional,Baja,Male,2012,19373.44,STANDARD
+Total Nacional,Baja,Male,2011,19381.96,STANDARD
+Total Nacional,Baja,Male,2010,19104.77,STANDARD
+Total Nacional,Baja,Male,2009,19096.95,STANDARD
+Total Nacional,Baja,Male,2008,18836.37,STANDARD
+Andalucía,Todas las ocupaciones,All,2024,26089.7,STANDARD
+Andalucía,Todas las ocupaciones,All,2023,25051.51,STANDARD
+Andalucía,Todas las ocupaciones,All,2022,24094.32,STANDARD
+Andalucía,Todas las ocupaciones,All,2021,23154.99,STANDARD
+Andalucía,Todas las ocupaciones,All,2020,22323.85,STANDARD
+Andalucía,Todas las ocupaciones,All,2019,22060.99,STANDARD
+Andalucía,Todas las ocupaciones,All,2018,21805.92,STANDARD
+Andalucía,Todas las ocupaciones,All,2017,21404.28,STANDARD
+Andalucía,Todas las ocupaciones,All,2016,21268.41,STANDARD
+Andalucía,Todas las ocupaciones,All,2015,21381.03,STANDARD
+Andalucía,Todas las ocupaciones,All,2014,20840.3,STANDARD
+Andalucía,Todas las ocupaciones,All,2013,20782.03,STANDARD
+Andalucía,Todas las ocupaciones,All,2012,20891.63,STANDARD
+Andalucía,Todas las ocupaciones,All,2011,21350.98,STANDARD
+Andalucía,Todas las ocupaciones,All,2010,20964.36,STANDARD
+Andalucía,Todas las ocupaciones,All,2009,20906.33,STANDARD
+Andalucía,Todas las ocupaciones,All,2008,20138.56,STANDARD
+Andalucía,Todas las ocupaciones,Female,2024,23679.2,STANDARD
+Andalucía,Todas las ocupaciones,Female,2023,22714.95,STANDARD
+Andalucía,Todas las ocupaciones,Female,2022,21729.48,STANDARD
+Andalucía,Todas las ocupaciones,Female,2021,20427.8,STANDARD
+Andalucía,Todas las ocupaciones,Female,2020,19517.52,STANDARD
+Andalucía,Todas las ocupaciones,Female,2019,19391.52,STANDARD
+Andalucía,Todas las ocupaciones,Female,2018,18672.11,STANDARD
+Andalucía,Todas las ocupaciones,Female,2017,18287.29,STANDARD
+Andalucía,Todas las ocupaciones,Female,2016,18177.37,STANDARD
+Andalucía,Todas las ocupaciones,Female,2015,18340.96,STANDARD
+Andalucía,Todas las ocupaciones,Female,2014,17576.13,STANDARD
+Andalucía,Todas las ocupaciones,Female,2013,17690.19,STANDARD
+Andalucía,Todas las ocupaciones,Female,2012,17828.44,STANDARD
+Andalucía,Todas las ocupaciones,Female,2011,18389.21,STANDARD
+Andalucía,Todas las ocupaciones,Female,2010,17921.33,STANDARD
+Andalucía,Todas las ocupaciones,Female,2009,18371.23,STANDARD
+Andalucía,Todas las ocupaciones,Female,2008,17298.33,STANDARD
+Andalucía,Todas las ocupaciones,Male,2024,28295.53,STANDARD
+Andalucía,Todas las ocupaciones,Male,2023,27085.5,STANDARD
+Andalucía,Todas las ocupaciones,Male,2022,26189.5,STANDARD
+Andalucía,Todas las ocupaciones,Male,2021,25464.78,STANDARD
+Andalucía,Todas las ocupaciones,Male,2020,24785.82,STANDARD
+Andalucía,Todas las ocupaciones,Male,2019,24527.67,STANDARD
+Andalucía,Todas las ocupaciones,Male,2018,24712.69,STANDARD
+Andalucía,Todas las ocupaciones,Male,2017,24175.52,STANDARD
+Andalucía,Todas las ocupaciones,Male,2016,24026.82,STANDARD
+Andalucía,Todas las ocupaciones,Male,2015,24200.2,STANDARD
+Andalucía,Todas las ocupaciones,Male,2014,23541.32,STANDARD
+Andalucía,Todas las ocupaciones,Male,2013,23565.36,STANDARD
+Andalucía,Todas las ocupaciones,Male,2012,23592.08,STANDARD
+Andalucía,Todas las ocupaciones,Male,2011,23815.22,STANDARD
+Andalucía,Todas las ocupaciones,Male,2010,23463.96,STANDARD
+Andalucía,Todas las ocupaciones,Male,2009,22908.86,STANDARD
+Andalucía,Todas las ocupaciones,Male,2008,22108.57,STANDARD
+Andalucía,Alta,All,2024,37853.13,STANDARD
+Andalucía,Alta,All,2023,36111.24,STANDARD
+Andalucía,Alta,All,2022,34857.26,STANDARD
+Andalucía,Alta,All,2021,33862.16,STANDARD
+Andalucía,Alta,All,2020,32078.73,STANDARD
+Andalucía,Alta,All,2019,30939.19,STANDARD
+Andalucía,Alta,All,2018,31107.96,STANDARD
+Andalucía,Alta,All,2017,30508.85,STANDARD
+Andalucía,Alta,All,2016,30503.18,STANDARD
+Andalucía,Alta,All,2015,30503.5,STANDARD
+Andalucía,Alta,All,2014,29397.98,STANDARD
+Andalucía,Alta,All,2013,29626.06,STANDARD
+Andalucía,Alta,All,2012,30026.52,STANDARD
+Andalucía,Alta,All,2011,30463.95,STANDARD
+Andalucía,Alta,All,2010,30421.77,STANDARD
+Andalucía,Alta,All,2009,29275.72,STANDARD
+Andalucía,Alta,All,2008,27948.84,STANDARD
+Andalucía,Alta,Female,2024,35362.79,STANDARD
+Andalucía,Alta,Female,2023,34157.87,STANDARD
+Andalucía,Alta,Female,2022,32218.33,STANDARD
+Andalucía,Alta,Female,2021,31066.82,STANDARD
+Andalucía,Alta,Female,2020,28926.28,STANDARD
+Andalucía,Alta,Female,2019,28293.51,STANDARD
+Andalucía,Alta,Female,2018,27890.89,STANDARD
+Andalucía,Alta,Female,2017,27118.91,STANDARD
+Andalucía,Alta,Female,2016,27111.16,STANDARD
+Andalucía,Alta,Female,2015,27571.04,STANDARD
+Andalucía,Alta,Female,2014,25880.47,STANDARD
+Andalucía,Alta,Female,2013,26236.07,STANDARD
+Andalucía,Alta,Female,2012,26466.36,STANDARD
+Andalucía,Alta,Female,2011,27032.55,STANDARD
+Andalucía,Alta,Female,2010,26909.33,STANDARD
+Andalucía,Alta,Female,2009,26084.49,STANDARD
+Andalucía,Alta,Female,2008,24377.28,STANDARD
+Andalucía,Alta,Male,2024,40718.99,STANDARD
+Andalucía,Alta,Male,2023,38230.99,STANDARD
+Andalucía,Alta,Male,2022,37688.13,STANDARD
+Andalucía,Alta,Male,2021,36542.08,STANDARD
+Andalucía,Alta,Male,2020,35125.19,STANDARD
+Andalucía,Alta,Male,2019,33629.01,STANDARD
+Andalucía,Alta,Male,2018,34382.92,STANDARD
+Andalucía,Alta,Male,2017,33771.83,STANDARD
+Andalucía,Alta,Male,2016,33789.57,STANDARD
+Andalucía,Alta,Male,2015,33474.07,STANDARD
+Andalucía,Alta,Male,2014,32534.61,STANDARD
+Andalucía,Alta,Male,2013,32780.57,STANDARD
+Andalucía,Alta,Male,2012,33236.28,STANDARD
+Andalucía,Alta,Male,2011,33533.36,STANDARD
+Andalucía,Alta,Male,2010,33437.97,STANDARD
+Andalucía,Alta,Male,2009,32456.67,STANDARD
+Andalucía,Alta,Male,2008,31001.49,STANDARD
+Andalucía,Media,All,2024,21214.24,STANDARD
+Andalucía,Media,All,2023,20777.22,STANDARD
+Andalucía,Media,All,2022,19970.53,STANDARD
+Andalucía,Media,All,2021,19267.67,STANDARD
+Andalucía,Media,All,2020,18605.96,STANDARD
+Andalucía,Media,All,2019,18511.68,STANDARD
+Andalucía,Media,All,2018,18203.82,STANDARD
+Andalucía,Media,All,2017,17665.43,STANDARD
+Andalucía,Media,All,2016,17711.82,STANDARD
+Andalucía,Media,All,2015,17707.83,STANDARD
+Andalucía,Media,All,2014,17377.22,STANDARD
+Andalucía,Media,All,2013,16910.25,STANDARD
+Andalucía,Media,All,2012,17087.89,STANDARD
+Andalucía,Media,All,2011,17496.99,STANDARD
+Andalucía,Media,All,2010,17480.09,STANDARD
+Andalucía,Media,All,2009,17412.88,STANDARD
+Andalucía,Media,All,2008,17434.65,STANDARD
+Andalucía,Media,Female,2024,18242.47,STANDARD
+Andalucía,Media,Female,2023,17538.22,STANDARD
+Andalucía,Media,Female,2022,17203.08,STANDARD
+Andalucía,Media,Female,2021,16274.53,STANDARD
+Andalucía,Media,Female,2020,15835.75,STANDARD
+Andalucía,Media,Female,2019,15728.42,STANDARD
+Andalucía,Media,Female,2018,15015.5,STANDARD
+Andalucía,Media,Female,2017,14630.21,STANDARD
+Andalucía,Media,Female,2016,14721.28,STANDARD
+Andalucía,Media,Female,2015,14520.78,STANDARD
+Andalucía,Media,Female,2014,14480.28,STANDARD
+Andalucía,Media,Female,2013,14124.17,STANDARD
+Andalucía,Media,Female,2012,14420.82,STANDARD
+Andalucía,Media,Female,2011,14767.46,STANDARD
+Andalucía,Media,Female,2010,14731.48,STANDARD
+Andalucía,Media,Female,2009,14596.95,STANDARD
+Andalucía,Media,Female,2008,14407.57,STANDARD
+Andalucía,Media,Male,2024,24191.85,STANDARD
+Andalucía,Media,Male,2023,23803.92,STANDARD
+Andalucía,Media,Male,2022,22721.22,STANDARD
+Andalucía,Media,Male,2021,22210.38,STANDARD
+Andalucía,Media,Male,2020,21446.73,STANDARD
+Andalucía,Media,Male,2019,21420.51,STANDARD
+Andalucía,Media,Male,2018,21350.8,STANDARD
+Andalucía,Media,Male,2017,20713.79,STANDARD
+Andalucía,Media,Male,2016,20605.36,STANDARD
+Andalucía,Media,Male,2015,20836.99,STANDARD
+Andalucía,Media,Male,2014,20039.68,STANDARD
+Andalucía,Media,Male,2013,19673.53,STANDARD
+Andalucía,Media,Male,2012,19701.06,STANDARD
+Andalucía,Media,Male,2011,19959.58,STANDARD
+Andalucía,Media,Male,2010,20023.04,STANDARD
+Andalucía,Media,Male,2009,19759.27,STANDARD
+Andalucía,Media,Male,2008,19811.13,STANDARD
+Andalucía,Baja,All,2024,19650.37,STANDARD
+Andalucía,Baja,All,2023,18720.03,STANDARD
+Andalucía,Baja,All,2022,18056.18,STANDARD
+Andalucía,Baja,All,2021,17305.82,STANDARD
+Andalucía,Baja,All,2020,16965.11,STANDARD
+Andalucía,Baja,All,2019,16976.92,STANDARD
+Andalucía,Baja,All,2018,16098.47,STANDARD
+Andalucía,Baja,All,2017,16234.02,STANDARD
+Andalucía,Baja,All,2016,15875.85,STANDARD
+Andalucía,Baja,All,2015,15863.24,STANDARD
+Andalucía,Baja,All,2014,16027.59,STANDARD
+Andalucía,Baja,All,2013,15535.47,STANDARD
+Andalucía,Baja,All,2012,15497.21,STANDARD
+Andalucía,Baja,All,2011,15722.58,STANDARD
+Andalucía,Baja,All,2010,15470.24,STANDARD
+Andalucía,Baja,All,2009,16252.77,STANDARD
+Andalucía,Baja,All,2008,15847.29,STANDARD
+Andalucía,Baja,Female,2024,14628.06,STANDARD
+Andalucía,Baja,Female,2023,14187.55,STANDARD
+Andalucía,Baja,Female,2022,13837.13,STANDARD
+Andalucía,Baja,Female,2021,12995.93,STANDARD
+Andalucía,Baja,Female,2020,12829.19,STANDARD
+Andalucía,Baja,Female,2019,13040.88,STANDARD
+Andalucía,Baja,Female,2018,11716.25,STANDARD
+Andalucía,Baja,Female,2017,12092.62,STANDARD
+Andalucía,Baja,Female,2016,11751.41,STANDARD
+Andalucía,Baja,Female,2015,11693.22,STANDARD
+Andalucía,Baja,Female,2014,11006.57,STANDARD
+Andalucía,Baja,Female,2013,11390.32,STANDARD
+Andalucía,Baja,Female,2012,11513.26,STANDARD
+Andalucía,Baja,Female,2011,11600.02,STANDARD
+Andalucía,Baja,Female,2010,11302.58,STANDARD
+Andalucía,Baja,Female,2009,12470.58,STANDARD
+Andalucía,Baja,Female,2008,11937.36,STANDARD
+Andalucía,Baja,Male,2024,22323.15,STANDARD
+Andalucía,Baja,Male,2023,21147.2,STANDARD
+Andalucía,Baja,Male,2022,20173.27,STANDARD
+Andalucía,Baja,Male,2021,19437.25,STANDARD
+Andalucía,Baja,Male,2020,19148.49,STANDARD
+Andalucía,Baja,Male,2019,19365.22,STANDARD
+Andalucía,Baja,Male,2018,19075.6,STANDARD
+Andalucía,Baja,Male,2017,18761.7,STANDARD
+Andalucía,Baja,Male,2016,18594.44,STANDARD
+Andalucía,Baja,Male,2015,18820.94,STANDARD
+Andalucía,Baja,Male,2014,18961.9,STANDARD
+Andalucía,Baja,Male,2013,18286.43,STANDARD
+Andalucía,Baja,Male,2012,18052.17,STANDARD
+Andalucía,Baja,Male,2011,18187.98,STANDARD
+Andalucía,Baja,Male,2010,17848.55,STANDARD
+Andalucía,Baja,Male,2009,18017.31,STANDARD
+Andalucía,Baja,Male,2008,17341.38,STANDARD
+Aragón,Todas las ocupaciones,All,2024,28061.94,STANDARD
+Aragón,Todas las ocupaciones,All,2023,26822.32,STANDARD
+Aragón,Todas las ocupaciones,All,2022,26012.71,STANDARD
+Aragón,Todas las ocupaciones,All,2021,25011.55,STANDARD
+Aragón,Todas las ocupaciones,All,2020,24113.57,STANDARD
+Aragón,Todas las ocupaciones,All,2019,23565.09,STANDARD
+Aragón,Todas las ocupaciones,All,2018,23531.83,STANDARD
+Aragón,Todas las ocupaciones,All,2017,23039.94,STANDARD
+Aragón,Todas las ocupaciones,All,2016,22248.76,STANDARD
+Aragón,Todas las ocupaciones,All,2015,22327.18,STANDARD
+Aragón,Todas las ocupaciones,All,2014,22095.79,STANDARD
+Aragón,Todas las ocupaciones,All,2013,22054.85,STANDARD
+Aragón,Todas las ocupaciones,All,2012,22103.79,STANDARD
+Aragón,Todas las ocupaciones,All,2011,22333.53,STANDARD
+Aragón,Todas las ocupaciones,All,2010,22316.69,STANDARD
+Aragón,Todas las ocupaciones,All,2009,22133.77,STANDARD
+Aragón,Todas las ocupaciones,All,2008,21594.47,STANDARD
+Aragón,Todas las ocupaciones,Female,2024,24796.94,STANDARD
+Aragón,Todas las ocupaciones,Female,2023,23925.28,STANDARD
+Aragón,Todas las ocupaciones,Female,2022,23138.72,STANDARD
+Aragón,Todas las ocupaciones,Female,2021,22283.81,STANDARD
+Aragón,Todas las ocupaciones,Female,2020,21365.11,STANDARD
+Aragón,Todas las ocupaciones,Female,2019,20360.25,STANDARD
+Aragón,Todas las ocupaciones,Female,2018,20074.25,STANDARD
+Aragón,Todas las ocupaciones,Female,2017,19677.22,STANDARD
+Aragón,Todas las ocupaciones,Female,2016,18766.21,STANDARD
+Aragón,Todas las ocupaciones,Female,2015,18950.17,STANDARD
+Aragón,Todas las ocupaciones,Female,2014,18764.63,STANDARD
+Aragón,Todas las ocupaciones,Female,2013,18701.61,STANDARD
+Aragón,Todas las ocupaciones,Female,2012,18042.28,STANDARD
+Aragón,Todas las ocupaciones,Female,2011,18831.38,STANDARD
+Aragón,Todas las ocupaciones,Female,2010,18843.25,STANDARD
+Aragón,Todas las ocupaciones,Female,2009,18861.82,STANDARD
+Aragón,Todas las ocupaciones,Female,2008,17843.46,STANDARD
+Aragón,Todas las ocupaciones,Male,2024,31123.18,STANDARD
+Aragón,Todas las ocupaciones,Male,2023,29589.45,STANDARD
+Aragón,Todas las ocupaciones,Male,2022,28789.96,STANDARD
+Aragón,Todas las ocupaciones,Male,2021,27389.18,STANDARD
+Aragón,Todas las ocupaciones,Male,2020,26505.7,STANDARD
+Aragón,Todas las ocupaciones,Male,2019,26404.73,STANDARD
+Aragón,Todas las ocupaciones,Male,2018,26640.59,STANDARD
+Aragón,Todas las ocupaciones,Male,2017,25878.46,STANDARD
+Aragón,Todas las ocupaciones,Male,2016,25326.91,STANDARD
+Aragón,Todas las ocupaciones,Male,2015,25555.56,STANDARD
+Aragón,Todas las ocupaciones,Male,2014,25118.61,STANDARD
+Aragón,Todas las ocupaciones,Male,2013,25128.91,STANDARD
+Aragón,Todas las ocupaciones,Male,2012,25766.27,STANDARD
+Aragón,Todas las ocupaciones,Male,2011,25258.68,STANDARD
+Aragón,Todas las ocupaciones,Male,2010,25263.29,STANDARD
+Aragón,Todas las ocupaciones,Male,2009,24787.81,STANDARD
+Aragón,Todas las ocupaciones,Male,2008,24272.36,STANDARD
+Aragón,Alta,All,2024,37572.05,STANDARD
+Aragón,Alta,All,2023,35336.28,STANDARD
+Aragón,Alta,All,2022,35256.5,STANDARD
+Aragón,Alta,All,2021,34490.51,STANDARD
+Aragón,Alta,All,2020,33391.53,STANDARD
+Aragón,Alta,All,2019,32171.38,STANDARD
+Aragón,Alta,All,2018,32393.54,STANDARD
+Aragón,Alta,All,2017,31087.6,STANDARD
+Aragón,Alta,All,2016,30978.06,STANDARD
+Aragón,Alta,All,2015,31173.17,STANDARD
+Aragón,Alta,All,2014,30030.37,STANDARD
+Aragón,Alta,All,2013,31452.3,STANDARD
+Aragón,Alta,All,2012,31427.68,STANDARD
+Aragón,Alta,All,2011,31369.83,STANDARD
+Aragón,Alta,All,2010,29944.91,STANDARD
+Aragón,Alta,All,2009,31500.46,STANDARD
+Aragón,Alta,All,2008,30041.11,STANDARD
+Aragón,Alta,Female,2024,34269.62,STANDARD
+Aragón,Alta,Female,2023,33059.76,STANDARD
+Aragón,Alta,Female,2022,32896.56,STANDARD
+Aragón,Alta,Female,2021,31765.5,STANDARD
+Aragón,Alta,Female,2020,30297.51,STANDARD
+Aragón,Alta,Female,2019,28940.33,STANDARD
+Aragón,Alta,Female,2018,28801.77,STANDARD
+Aragón,Alta,Female,2017,27842.67,STANDARD
+Aragón,Alta,Female,2016,27198.54,STANDARD
+Aragón,Alta,Female,2015,27792.34,STANDARD
+Aragón,Alta,Female,2014,26444.87,STANDARD
+Aragón,Alta,Female,2013,27628.74,STANDARD
+Aragón,Alta,Female,2012,27102.38,STANDARD
+Aragón,Alta,Female,2011,27986.28,STANDARD
+Aragón,Alta,Female,2010,26872.08,STANDARD
+Aragón,Alta,Female,2009,28370.08,STANDARD
+Aragón,Alta,Female,2008,26134.71,STANDARD
+Aragón,Alta,Male,2024,41313.72,STANDARD
+Aragón,Alta,Male,2023,37905.22,STANDARD
+Aragón,Alta,Male,2022,37900.29,STANDARD
+Aragón,Alta,Male,2021,37320.5,STANDARD
+Aragón,Alta,Male,2020,36618.16,STANDARD
+Aragón,Alta,Male,2019,35549.79,STANDARD
+Aragón,Alta,Male,2018,36177.76,STANDARD
+Aragón,Alta,Male,2017,34230.81,STANDARD
+Aragón,Alta,Male,2016,34901.66,STANDARD
+Aragón,Alta,Male,2015,34816.81,STANDARD
+Aragón,Alta,Male,2014,33807.42,STANDARD
+Aragón,Alta,Male,2013,34926.38,STANDARD
+Aragón,Alta,Male,2012,35187.24,STANDARD
+Aragón,Alta,Male,2011,34307.16,STANDARD
+Aragón,Alta,Male,2010,32794.92,STANDARD
+Aragón,Alta,Male,2009,34316.18,STANDARD
+Aragón,Alta,Male,2008,33271.54,STANDARD
+Aragón,Media,All,2024,24278.66,STANDARD
+Aragón,Media,All,2023,23018.87,STANDARD
+Aragón,Media,All,2022,22020.06,STANDARD
+Aragón,Media,All,2021,20852.5,STANDARD
+Aragón,Media,All,2020,20089.49,STANDARD
+Aragón,Media,All,2019,19650.19,STANDARD
+Aragón,Media,All,2018,19388.47,STANDARD
+Aragón,Media,All,2017,19225.31,STANDARD
+Aragón,Media,All,2016,18438.3,STANDARD
+Aragón,Media,All,2015,18672.76,STANDARD
+Aragón,Media,All,2014,18467.55,STANDARD
+Aragón,Media,All,2013,18381.11,STANDARD
+Aragón,Media,All,2012,18323.17,STANDARD
+Aragón,Media,All,2011,18858.25,STANDARD
+Aragón,Media,All,2010,19212.85,STANDARD
+Aragón,Media,All,2009,18607.75,STANDARD
+Aragón,Media,All,2008,18597.44,STANDARD
+Aragón,Media,Female,2024,20928.96,STANDARD
+Aragón,Media,Female,2023,19695.19,STANDARD
+Aragón,Media,Female,2022,18950.75,STANDARD
+Aragón,Media,Female,2021,18086.0,STANDARD
+Aragón,Media,Female,2020,17255.81,STANDARD
+Aragón,Media,Female,2019,16506.86,STANDARD
+Aragón,Media,Female,2018,16574.52,STANDARD
+Aragón,Media,Female,2017,15901.79,STANDARD
+Aragón,Media,Female,2016,15219.84,STANDARD
+Aragón,Media,Female,2015,15471.1,STANDARD
+Aragón,Media,Female,2014,15396.73,STANDARD
+Aragón,Media,Female,2013,15516.77,STANDARD
+Aragón,Media,Female,2012,14699.27,STANDARD
+Aragón,Media,Female,2011,15596.91,STANDARD
+Aragón,Media,Female,2010,15679.48,STANDARD
+Aragón,Media,Female,2009,15312.5,STANDARD
+Aragón,Media,Female,2008,14697.82,STANDARD
+Aragón,Media,Male,2024,27917.99,STANDARD
+Aragón,Media,Male,2023,26713.85,STANDARD
+Aragón,Media,Male,2022,25478.23,STANDARD
+Aragón,Media,Male,2021,23624.48,STANDARD
+Aragón,Media,Male,2020,23114.15,STANDARD
+Aragón,Media,Male,2019,23188.27,STANDARD
+Aragón,Media,Male,2018,22444.92,STANDARD
+Aragón,Media,Male,2017,22705.46,STANDARD
+Aragón,Media,Male,2016,21899.72,STANDARD
+Aragón,Media,Male,2015,22406.67,STANDARD
+Aragón,Media,Male,2014,21951.97,STANDARD
+Aragón,Media,Male,2013,21548.91,STANDARD
+Aragón,Media,Male,2012,22319.17,STANDARD
+Aragón,Media,Male,2011,21986.14,STANDARD
+Aragón,Media,Male,2010,22639.32,STANDARD
+Aragón,Media,Male,2009,21761.61,STANDARD
+Aragón,Media,Male,2008,21823.27,STANDARD
+Aragón,Baja,All,2024,22312.06,STANDARD
+Aragón,Baja,All,2023,21403.97,STANDARD
+Aragón,Baja,All,2022,20575.05,STANDARD
+Aragón,Baja,All,2021,19786.06,STANDARD
+Aragón,Baja,All,2020,19234.99,STANDARD
+Aragón,Baja,All,2019,19364.8,STANDARD
+Aragón,Baja,All,2018,19731.14,STANDARD
+Aragón,Baja,All,2017,18898.06,STANDARD
+Aragón,Baja,All,2016,18088.01,STANDARD
+Aragón,Baja,All,2015,17564.65,STANDARD
+Aragón,Baja,All,2014,18185.9,STANDARD
+Aragón,Baja,All,2013,17048.91,STANDARD
+Aragón,Baja,All,2012,17401.54,STANDARD
+Aragón,Baja,All,2011,17704.75,STANDARD
+Aragón,Baja,All,2010,17602.56,STANDARD
+Aragón,Baja,All,2009,17537.34,STANDARD
+Aragón,Baja,All,2008,17780.82,STANDARD
+Aragón,Baja,Female,2024,16637.62,STANDARD
+Aragón,Baja,Female,2023,16006.51,STANDARD
+Aragón,Baja,Female,2022,15149.97,STANDARD
+Aragón,Baja,Female,2021,14499.13,STANDARD
+Aragón,Baja,Female,2020,14656.71,STANDARD
+Aragón,Baja,Female,2019,13843.74,STANDARD
+Aragón,Baja,Female,2018,13279.34,STANDARD
+Aragón,Baja,Female,2017,13331.7,STANDARD
+Aragón,Baja,Female,2016,12476.38,STANDARD
+Aragón,Baja,Female,2015,12232.45,STANDARD
+Aragón,Baja,Female,2014,12731.79,STANDARD
+Aragón,Baja,Female,2013,13120.61,STANDARD
+Aragón,Baja,Female,2012,12876.56,STANDARD
+Aragón,Baja,Female,2011,12667.11,STANDARD
+Aragón,Baja,Female,2010,12260.25,STANDARD
+Aragón,Baja,Female,2009,12680.04,STANDARD
+Aragón,Baja,Female,2008,12960.82,STANDARD
+Aragón,Baja,Male,2024,25652.14,STANDARD
+Aragón,Baja,Male,2023,24672.57,STANDARD
+Aragón,Baja,Male,2022,23918.52,STANDARD
+Aragón,Baja,Male,2021,22586.29,STANDARD
+Aragón,Baja,Male,2020,21395.8,STANDARD
+Aragón,Baja,Male,2019,21923.0,STANDARD
+Aragón,Baja,Male,2018,23179.63,STANDARD
+Aragón,Baja,Male,2017,21500.1,STANDARD
+Aragón,Baja,Male,2016,20922.95,STANDARD
+Aragón,Baja,Male,2015,20733.81,STANDARD
+Aragón,Baja,Male,2014,20815.14,STANDARD
+Aragón,Baja,Male,2013,19692.73,STANDARD
+Aragón,Baja,Male,2012,20366.39,STANDARD
+Aragón,Baja,Male,2011,20679.07,STANDARD
+Aragón,Baja,Male,2010,20696.28,STANDARD
+Aragón,Baja,Male,2009,20104.9,STANDARD
+Aragón,Baja,Male,2008,19982.01,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2024,28562.31,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2023,27916.6,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2022,26745.93,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2021,25046.6,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2020,24527.96,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2019,24865.89,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2018,23914.61,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2017,23609.67,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2016,23095.83,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2015,22826.06,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2014,22045.29,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2013,21994.99,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2012,21750.66,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2011,22286.48,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2010,22241.39,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2009,22597.97,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,All,2008,21805.67,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2024,25414.38,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2023,24808.62,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2022,23792.42,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2021,21808.96,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2020,21308.01,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2019,21298.58,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2018,19744.94,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2017,19426.48,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2016,19077.92,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2015,18925.34,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2014,18400.68,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2013,18455.34,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2012,18026.01,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2011,18721.59,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2010,18786.13,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2009,19289.76,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Female,2008,18452.09,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2024,31852.13,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2023,31033.72,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2022,29573.74,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2021,28399.51,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2020,27948.09,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2019,28481.75,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2018,27912.91,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2017,27849.0,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2016,27010.87,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2015,26514.68,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2014,25322.01,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2013,25500.04,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2012,25048.82,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2011,25346.39,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2010,25170.79,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2009,25175.71,STANDARD
+"Asturias, Principado de",Todas las ocupaciones,Male,2008,24306.27,STANDARD
+"Asturias, Principado de",Alta,All,2024,40491.47,STANDARD
+"Asturias, Principado de",Alta,All,2023,39073.22,STANDARD
+"Asturias, Principado de",Alta,All,2022,37937.76,STANDARD
+"Asturias, Principado de",Alta,All,2021,34990.44,STANDARD
+"Asturias, Principado de",Alta,All,2020,33196.49,STANDARD
+"Asturias, Principado de",Alta,All,2019,33813.56,STANDARD
+"Asturias, Principado de",Alta,All,2018,33077.65,STANDARD
+"Asturias, Principado de",Alta,All,2017,33829.71,STANDARD
+"Asturias, Principado de",Alta,All,2016,32392.46,STANDARD
+"Asturias, Principado de",Alta,All,2015,32017.68,STANDARD
+"Asturias, Principado de",Alta,All,2014,30453.32,STANDARD
+"Asturias, Principado de",Alta,All,2013,31097.46,STANDARD
+"Asturias, Principado de",Alta,All,2012,30978.46,STANDARD
+"Asturias, Principado de",Alta,All,2011,31111.66,STANDARD
+"Asturias, Principado de",Alta,All,2010,30774.04,STANDARD
+"Asturias, Principado de",Alta,All,2009,32296.38,STANDARD
+"Asturias, Principado de",Alta,All,2008,30614.03,STANDARD
+"Asturias, Principado de",Alta,Female,2024,38743.79,STANDARD
+"Asturias, Principado de",Alta,Female,2023,36686.44,STANDARD
+"Asturias, Principado de",Alta,Female,2022,36170.72,STANDARD
+"Asturias, Principado de",Alta,Female,2021,32861.26,STANDARD
+"Asturias, Principado de",Alta,Female,2020,31132.86,STANDARD
+"Asturias, Principado de",Alta,Female,2019,30853.51,STANDARD
+"Asturias, Principado de",Alta,Female,2018,28486.72,STANDARD
+"Asturias, Principado de",Alta,Female,2017,30093.69,STANDARD
+"Asturias, Principado de",Alta,Female,2016,28484.08,STANDARD
+"Asturias, Principado de",Alta,Female,2015,28835.27,STANDARD
+"Asturias, Principado de",Alta,Female,2014,27449.21,STANDARD
+"Asturias, Principado de",Alta,Female,2013,27997.36,STANDARD
+"Asturias, Principado de",Alta,Female,2012,28004.43,STANDARD
+"Asturias, Principado de",Alta,Female,2011,28146.11,STANDARD
+"Asturias, Principado de",Alta,Female,2010,28362.03,STANDARD
+"Asturias, Principado de",Alta,Female,2009,29377.22,STANDARD
+"Asturias, Principado de",Alta,Female,2008,28603.97,STANDARD
+"Asturias, Principado de",Alta,Male,2024,42794.8,STANDARD
+"Asturias, Principado de",Alta,Male,2023,42056.09,STANDARD
+"Asturias, Principado de",Alta,Male,2022,40138.39,STANDARD
+"Asturias, Principado de",Alta,Male,2021,37537.09,STANDARD
+"Asturias, Principado de",Alta,Male,2020,35692.0,STANDARD
+"Asturias, Principado de",Alta,Male,2019,37354.32,STANDARD
+"Asturias, Principado de",Alta,Male,2018,38037.45,STANDARD
+"Asturias, Principado de",Alta,Male,2017,37591.38,STANDARD
+"Asturias, Principado de",Alta,Male,2016,36594.79,STANDARD
+"Asturias, Principado de",Alta,Male,2015,35182.65,STANDARD
+"Asturias, Principado de",Alta,Male,2014,33360.54,STANDARD
+"Asturias, Principado de",Alta,Male,2013,34192.75,STANDARD
+"Asturias, Principado de",Alta,Male,2012,33363.05,STANDARD
+"Asturias, Principado de",Alta,Male,2011,33678.17,STANDARD
+"Asturias, Principado de",Alta,Male,2010,33043.13,STANDARD
+"Asturias, Principado de",Alta,Male,2009,34790.28,STANDARD
+"Asturias, Principado de",Alta,Male,2008,32237.96,STANDARD
+"Asturias, Principado de",Media,All,2024,22703.2,STANDARD
+"Asturias, Principado de",Media,All,2023,22288.71,STANDARD
+"Asturias, Principado de",Media,All,2022,21482.67,STANDARD
+"Asturias, Principado de",Media,All,2021,20243.06,STANDARD
+"Asturias, Principado de",Media,All,2020,20048.6,STANDARD
+"Asturias, Principado de",Media,All,2019,20307.28,STANDARD
+"Asturias, Principado de",Media,All,2018,20218.34,STANDARD
+"Asturias, Principado de",Media,All,2017,18706.26,STANDARD
+"Asturias, Principado de",Media,All,2016,18384.28,STANDARD
+"Asturias, Principado de",Media,All,2015,18314.11,STANDARD
+"Asturias, Principado de",Media,All,2014,17794.56,STANDARD
+"Asturias, Principado de",Media,All,2013,17716.9,STANDARD
+"Asturias, Principado de",Media,All,2012,17569.0,STANDARD
+"Asturias, Principado de",Media,All,2011,18186.11,STANDARD
+"Asturias, Principado de",Media,All,2010,18811.68,STANDARD
+"Asturias, Principado de",Media,All,2009,18007.16,STANDARD
+"Asturias, Principado de",Media,All,2008,17974.77,STANDARD
+"Asturias, Principado de",Media,Female,2024,18622.37,STANDARD
+"Asturias, Principado de",Media,Female,2023,18775.79,STANDARD
+"Asturias, Principado de",Media,Female,2022,18053.6,STANDARD
+"Asturias, Principado de",Media,Female,2021,16788.37,STANDARD
+"Asturias, Principado de",Media,Female,2020,16400.91,STANDARD
+"Asturias, Principado de",Media,Female,2019,16733.37,STANDARD
+"Asturias, Principado de",Media,Female,2018,16854.76,STANDARD
+"Asturias, Principado de",Media,Female,2017,15273.87,STANDARD
+"Asturias, Principado de",Media,Female,2016,14660.58,STANDARD
+"Asturias, Principado de",Media,Female,2015,14829.03,STANDARD
+"Asturias, Principado de",Media,Female,2014,14441.89,STANDARD
+"Asturias, Principado de",Media,Female,2013,14562.83,STANDARD
+"Asturias, Principado de",Media,Female,2012,14530.7,STANDARD
+"Asturias, Principado de",Media,Female,2011,14949.59,STANDARD
+"Asturias, Principado de",Media,Female,2010,15051.17,STANDARD
+"Asturias, Principado de",Media,Female,2009,14815.98,STANDARD
+"Asturias, Principado de",Media,Female,2008,14340.44,STANDARD
+"Asturias, Principado de",Media,Male,2024,27325.65,STANDARD
+"Asturias, Principado de",Media,Male,2023,26155.33,STANDARD
+"Asturias, Principado de",Media,Male,2022,24911.71,STANDARD
+"Asturias, Principado de",Media,Male,2021,24452.26,STANDARD
+"Asturias, Principado de",Media,Male,2020,24394.53,STANDARD
+"Asturias, Principado de",Media,Male,2019,24179.0,STANDARD
+"Asturias, Principado de",Media,Male,2018,24235.45,STANDARD
+"Asturias, Principado de",Media,Male,2017,22803.14,STANDARD
+"Asturias, Principado de",Media,Male,2016,22513.86,STANDARD
+"Asturias, Principado de",Media,Male,2015,22140.44,STANDARD
+"Asturias, Principado de",Media,Male,2014,21126.43,STANDARD
+"Asturias, Principado de",Media,Male,2013,21629.01,STANDARD
+"Asturias, Principado de",Media,Male,2012,21149.77,STANDARD
+"Asturias, Principado de",Media,Male,2011,21723.74,STANDARD
+"Asturias, Principado de",Media,Male,2010,22548.85,STANDARD
+"Asturias, Principado de",Media,Male,2009,20948.39,STANDARD
+"Asturias, Principado de",Media,Male,2008,21327.69,STANDARD
+"Asturias, Principado de",Baja,All,2024,23270.1,STANDARD
+"Asturias, Principado de",Baja,All,2023,22761.09,STANDARD
+"Asturias, Principado de",Baja,All,2022,21556.58,STANDARD
+"Asturias, Principado de",Baja,All,2021,20324.41,STANDARD
+"Asturias, Principado de",Baja,All,2020,19866.58,STANDARD
+"Asturias, Principado de",Baja,All,2019,19926.08,STANDARD
+"Asturias, Principado de",Baja,All,2018,19067.7,STANDARD
+"Asturias, Principado de",Baja,All,2017,18945.48,STANDARD
+"Asturias, Principado de",Baja,All,2016,18136.56,STANDARD
+"Asturias, Principado de",Baja,All,2015,18295.59,STANDARD
+"Asturias, Principado de",Baja,All,2014,18553.07,STANDARD
+"Asturias, Principado de",Baja,All,2013,17746.52,STANDARD
+"Asturias, Principado de",Baja,All,2012,17715.98,STANDARD
+"Asturias, Principado de",Baja,All,2011,18124.53,STANDARD
+"Asturias, Principado de",Baja,All,2010,18256.23,STANDARD
+"Asturias, Principado de",Baja,All,2009,18350.46,STANDARD
+"Asturias, Principado de",Baja,All,2008,18167.98,STANDARD
+"Asturias, Principado de",Baja,Female,2024,15407.82,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2023,14965.62,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2022,12761.96,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2021,13009.86,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2020,13462.6,STANDARD
+"Asturias, Principado de",Baja,Female,2019,12825.81,STANDARD
+"Asturias, Principado de",Baja,Female,2018,10952.21,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2017,12188.09,STANDARD
+"Asturias, Principado de",Baja,Female,2016,11805.81,STANDARD
+"Asturias, Principado de",Baja,Female,2015,11231.92,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2014,12086.49,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2013,12179.33,STANDARD
+"Asturias, Principado de",Baja,Female,2012,11699.77,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2011,12138.93,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2010,11810.34,LOW_RELIABILITY
+"Asturias, Principado de",Baja,Female,2009,12208.53,STANDARD
+"Asturias, Principado de",Baja,Female,2008,11981.88,STANDARD
+"Asturias, Principado de",Baja,Male,2024,27783.9,STANDARD
+"Asturias, Principado de",Baja,Male,2023,26982.45,STANDARD
+"Asturias, Principado de",Baja,Male,2022,26573.55,STANDARD
+"Asturias, Principado de",Baja,Male,2021,24491.56,STANDARD
+"Asturias, Principado de",Baja,Male,2020,24124.15,STANDARD
+"Asturias, Principado de",Baja,Male,2019,24757.47,STANDARD
+"Asturias, Principado de",Baja,Male,2018,23144.72,STANDARD
+"Asturias, Principado de",Baja,Male,2017,23906.14,STANDARD
+"Asturias, Principado de",Baja,Male,2016,22282.47,STANDARD
+"Asturias, Principado de",Baja,Male,2015,22834.67,STANDARD
+"Asturias, Principado de",Baja,Male,2014,22683.31,STANDARD
+"Asturias, Principado de",Baja,Male,2013,21186.63,STANDARD
+"Asturias, Principado de",Baja,Male,2012,20938.78,STANDARD
+"Asturias, Principado de",Baja,Male,2011,21110.44,STANDARD
+"Asturias, Principado de",Baja,Male,2010,21184.3,STANDARD
+"Asturias, Principado de",Baja,Male,2009,21050.11,STANDARD
+"Asturias, Principado de",Baja,Male,2008,20689.42,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2024,29075.06,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2023,27537.0,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2022,27145.79,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2021,24134.73,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2020,23881.42,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2019,23325.33,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2018,22800.87,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2017,22036.46,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2016,21478.34,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2015,21395.42,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2014,21322.08,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2013,20776.29,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2012,20960.53,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2011,21351.0,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2010,21613.6,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2009,21070.14,STANDARD
+"Balears, Illes",Todas las ocupaciones,All,2008,20388.09,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2024,27886.01,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2023,26260.9,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2022,26054.2,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2021,22344.76,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2020,21998.23,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2019,21631.07,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2018,21085.74,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2017,20465.58,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2016,19702.6,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2015,19517.28,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2014,19008.38,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2013,18998.37,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2012,19022.24,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2011,19377.39,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2010,19812.19,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2009,18702.72,STANDARD
+"Balears, Illes",Todas las ocupaciones,Female,2008,18159.78,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2024,30172.85,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2023,28754.2,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2022,28155.99,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2021,25898.51,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2020,25699.53,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2019,24914.51,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2018,24437.58,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2017,23538.43,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2016,23286.85,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2015,23411.35,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2014,23770.56,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2013,22584.78,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2012,22859.04,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2011,23188.8,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2010,23213.04,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2009,23285.93,STANDARD
+"Balears, Illes",Todas las ocupaciones,Male,2008,22253.73,STANDARD
+"Balears, Illes",Alta,All,2024,41618.11,STANDARD
+"Balears, Illes",Alta,All,2023,39351.76,STANDARD
+"Balears, Illes",Alta,All,2022,37116.44,STANDARD
+"Balears, Illes",Alta,All,2021,34576.57,STANDARD
+"Balears, Illes",Alta,All,2020,34576.45,STANDARD
+"Balears, Illes",Alta,All,2019,32624.8,STANDARD
+"Balears, Illes",Alta,All,2018,32955.66,STANDARD
+"Balears, Illes",Alta,All,2017,31217.26,STANDARD
+"Balears, Illes",Alta,All,2016,31718.27,STANDARD
+"Balears, Illes",Alta,All,2015,30721.23,STANDARD
+"Balears, Illes",Alta,All,2014,30321.76,STANDARD
+"Balears, Illes",Alta,All,2013,29896.44,STANDARD
+"Balears, Illes",Alta,All,2012,29503.86,STANDARD
+"Balears, Illes",Alta,All,2011,30182.07,STANDARD
+"Balears, Illes",Alta,All,2010,31142.94,STANDARD
+"Balears, Illes",Alta,All,2009,30330.13,STANDARD
+"Balears, Illes",Alta,All,2008,30004.88,STANDARD
+"Balears, Illes",Alta,Female,2024,38757.94,STANDARD
+"Balears, Illes",Alta,Female,2023,37340.06,STANDARD
+"Balears, Illes",Alta,Female,2022,35728.4,STANDARD
+"Balears, Illes",Alta,Female,2021,32323.01,STANDARD
+"Balears, Illes",Alta,Female,2020,32585.8,STANDARD
+"Balears, Illes",Alta,Female,2019,30662.85,STANDARD
+"Balears, Illes",Alta,Female,2018,29662.8,STANDARD
+"Balears, Illes",Alta,Female,2017,29088.48,STANDARD
+"Balears, Illes",Alta,Female,2016,29129.77,STANDARD
+"Balears, Illes",Alta,Female,2015,27686.65,STANDARD
+"Balears, Illes",Alta,Female,2014,27265.13,STANDARD
+"Balears, Illes",Alta,Female,2013,27274.72,STANDARD
+"Balears, Illes",Alta,Female,2012,26447.41,STANDARD
+"Balears, Illes",Alta,Female,2011,27601.29,STANDARD
+"Balears, Illes",Alta,Female,2010,28826.72,STANDARD
+"Balears, Illes",Alta,Female,2009,26615.28,STANDARD
+"Balears, Illes",Alta,Female,2008,26636.95,STANDARD
+"Balears, Illes",Alta,Male,2024,45008.94,STANDARD
+"Balears, Illes",Alta,Male,2023,41501.87,STANDARD
+"Balears, Illes",Alta,Male,2022,38706.31,STANDARD
+"Balears, Illes",Alta,Male,2021,36963.31,STANDARD
+"Balears, Illes",Alta,Male,2020,36695.14,STANDARD
+"Balears, Illes",Alta,Male,2019,34602.98,STANDARD
+"Balears, Illes",Alta,Male,2018,36872.62,STANDARD
+"Balears, Illes",Alta,Male,2017,33385.46,STANDARD
+"Balears, Illes",Alta,Male,2016,34425.01,STANDARD
+"Balears, Illes",Alta,Male,2015,34444.94,STANDARD
+"Balears, Illes",Alta,Male,2014,33649.76,STANDARD
+"Balears, Illes",Alta,Male,2013,32805.63,STANDARD
+"Balears, Illes",Alta,Male,2012,32840.3,STANDARD
+"Balears, Illes",Alta,Male,2011,32747.2,STANDARD
+"Balears, Illes",Alta,Male,2010,33382.33,STANDARD
+"Balears, Illes",Alta,Male,2009,34343.9,STANDARD
+"Balears, Illes",Alta,Male,2008,33012.28,STANDARD
+"Balears, Illes",Media,All,2024,25128.86,STANDARD
+"Balears, Illes",Media,All,2023,23745.97,STANDARD
+"Balears, Illes",Media,All,2022,23903.19,STANDARD
+"Balears, Illes",Media,All,2021,20741.28,STANDARD
+"Balears, Illes",Media,All,2020,20097.62,STANDARD
+"Balears, Illes",Media,All,2019,20401.09,STANDARD
+"Balears, Illes",Media,All,2018,20315.65,STANDARD
+"Balears, Illes",Media,All,2017,19273.21,STANDARD
+"Balears, Illes",Media,All,2016,18594.41,STANDARD
+"Balears, Illes",Media,All,2015,18509.71,STANDARD
+"Balears, Illes",Media,All,2014,19182.71,STANDARD
+"Balears, Illes",Media,All,2013,17862.52,STANDARD
+"Balears, Illes",Media,All,2012,18066.79,STANDARD
+"Balears, Illes",Media,All,2011,18303.1,STANDARD
+"Balears, Illes",Media,All,2010,18751.16,STANDARD
+"Balears, Illes",Media,All,2009,18344.91,STANDARD
+"Balears, Illes",Media,All,2008,17568.19,STANDARD
+"Balears, Illes",Media,Female,2024,23631.35,STANDARD
+"Balears, Illes",Media,Female,2023,22289.5,STANDARD
+"Balears, Illes",Media,Female,2022,22182.65,STANDARD
+"Balears, Illes",Media,Female,2021,18862.4,STANDARD
+"Balears, Illes",Media,Female,2020,18171.14,STANDARD
+"Balears, Illes",Media,Female,2019,18864.67,STANDARD
+"Balears, Illes",Media,Female,2018,18504.5,STANDARD
+"Balears, Illes",Media,Female,2017,18006.46,STANDARD
+"Balears, Illes",Media,Female,2016,17121.21,STANDARD
+"Balears, Illes",Media,Female,2015,16865.06,STANDARD
+"Balears, Illes",Media,Female,2014,17002.24,STANDARD
+"Balears, Illes",Media,Female,2013,16222.56,STANDARD
+"Balears, Illes",Media,Female,2012,16239.89,STANDARD
+"Balears, Illes",Media,Female,2011,16516.14,STANDARD
+"Balears, Illes",Media,Female,2010,16819.73,STANDARD
+"Balears, Illes",Media,Female,2009,16405.03,STANDARD
+"Balears, Illes",Media,Female,2008,15669.95,STANDARD
+"Balears, Illes",Media,Male,2024,26488.2,STANDARD
+"Balears, Illes",Media,Male,2023,25153.64,STANDARD
+"Balears, Illes",Media,Male,2022,25424.86,STANDARD
+"Balears, Illes",Media,Male,2021,22741.38,STANDARD
+"Balears, Illes",Media,Male,2020,22103.36,STANDARD
+"Balears, Illes",Media,Male,2019,21852.52,STANDARD
+"Balears, Illes",Media,Male,2018,22144.5,STANDARD
+"Balears, Illes",Media,Male,2017,20540.91,STANDARD
+"Balears, Illes",Media,Male,2016,20237.42,STANDARD
+"Balears, Illes",Media,Male,2015,20427.71,STANDARD
+"Balears, Illes",Media,Male,2014,21615.82,STANDARD
+"Balears, Illes",Media,Male,2013,19652.56,STANDARD
+"Balears, Illes",Media,Male,2012,20007.38,STANDARD
+"Balears, Illes",Media,Male,2011,20136.05,STANDARD
+"Balears, Illes",Media,Male,2010,20567.19,STANDARD
+"Balears, Illes",Media,Male,2009,20153.47,STANDARD
+"Balears, Illes",Media,Male,2008,19305.39,STANDARD
+"Balears, Illes",Baja,All,2024,21724.5,STANDARD
+"Balears, Illes",Baja,All,2023,20510.7,STANDARD
+"Balears, Illes",Baja,All,2022,19906.6,STANDARD
+"Balears, Illes",Baja,All,2021,17706.82,STANDARD
+"Balears, Illes",Baja,All,2020,16995.97,STANDARD
+"Balears, Illes",Baja,All,2019,18338.84,STANDARD
+"Balears, Illes",Baja,All,2018,16949.67,STANDARD
+"Balears, Illes",Baja,All,2017,17178.36,STANDARD
+"Balears, Illes",Baja,All,2016,16499.57,STANDARD
+"Balears, Illes",Baja,All,2015,17093.63,STANDARD
+"Balears, Illes",Baja,All,2014,15996.64,STANDARD
+"Balears, Illes",Baja,All,2013,15979.86,STANDARD
+"Balears, Illes",Baja,All,2012,16448.25,STANDARD
+"Balears, Illes",Baja,All,2011,16674.45,STANDARD
+"Balears, Illes",Baja,All,2010,16452.93,STANDARD
+"Balears, Illes",Baja,All,2009,15559.44,STANDARD
+"Balears, Illes",Baja,All,2008,15532.83,STANDARD
+"Balears, Illes",Baja,Female,2024,20352.55,STANDARD
+"Balears, Illes",Baja,Female,2023,19167.86,STANDARD
+"Balears, Illes",Baja,Female,2022,18074.77,STANDARD
+"Balears, Illes",Baja,Female,2021,15613.89,STANDARD
+"Balears, Illes",Baja,Female,2020,13462.16,LOW_RELIABILITY
+"Balears, Illes",Baja,Female,2019,15841.07,STANDARD
+"Balears, Illes",Baja,Female,2018,15174.03,STANDARD
+"Balears, Illes",Baja,Female,2017,14863.59,STANDARD
+"Balears, Illes",Baja,Female,2016,14388.35,STANDARD
+"Balears, Illes",Baja,Female,2015,14780.26,STANDARD
+"Balears, Illes",Baja,Female,2014,13812.06,STANDARD
+"Balears, Illes",Baja,Female,2013,14039.99,STANDARD
+"Balears, Illes",Baja,Female,2012,14735.71,STANDARD
+"Balears, Illes",Baja,Female,2011,14193.51,STANDARD
+"Balears, Illes",Baja,Female,2010,14653.18,STANDARD
+"Balears, Illes",Baja,Female,2009,12548.36,STANDARD
+"Balears, Illes",Baja,Female,2008,12977.11,STANDARD
+"Balears, Illes",Baja,Male,2024,22677.93,STANDARD
+"Balears, Illes",Baja,Male,2023,21580.24,STANDARD
+"Balears, Illes",Baja,Male,2022,21271.33,STANDARD
+"Balears, Illes",Baja,Male,2021,19228.86,STANDARD
+"Balears, Illes",Baja,Male,2020,19406.11,STANDARD
+"Balears, Illes",Baja,Male,2019,20428.89,STANDARD
+"Balears, Illes",Baja,Male,2018,18113.53,STANDARD
+"Balears, Illes",Baja,Male,2017,19022.91,STANDARD
+"Balears, Illes",Baja,Male,2016,18151.89,STANDARD
+"Balears, Illes",Baja,Male,2015,18756.64,STANDARD
+"Balears, Illes",Baja,Male,2014,17964.05,STANDARD
+"Balears, Illes",Baja,Male,2013,17464.96,STANDARD
+"Balears, Illes",Baja,Male,2012,17651.0,STANDARD
+"Balears, Illes",Baja,Male,2011,18351.62,STANDARD
+"Balears, Illes",Baja,Male,2010,17672.29,STANDARD
+"Balears, Illes",Baja,Male,2009,17908.1,STANDARD
+"Balears, Illes",Baja,Male,2008,17108.36,STANDARD
+Canarias,Todas las ocupaciones,All,2024,25120.38,STANDARD
+Canarias,Todas las ocupaciones,All,2023,24033.57,STANDARD
+Canarias,Todas las ocupaciones,All,2022,23096.92,STANDARD
+Canarias,Todas las ocupaciones,All,2021,22466.23,STANDARD
+Canarias,Todas las ocupaciones,All,2020,21631.17,STANDARD
+Canarias,Todas las ocupaciones,All,2019,20861.14,STANDARD
+Canarias,Todas las ocupaciones,All,2018,20763.48,STANDARD
+Canarias,Todas las ocupaciones,All,2017,20185.33,STANDARD
+Canarias,Todas las ocupaciones,All,2016,19749.03,STANDARD
+Canarias,Todas las ocupaciones,All,2015,19856.61,STANDARD
+Canarias,Todas las ocupaciones,All,2014,19436.48,STANDARD
+Canarias,Todas las ocupaciones,All,2013,19167.93,STANDARD
+Canarias,Todas las ocupaciones,All,2012,19277.62,STANDARD
+Canarias,Todas las ocupaciones,All,2011,19516.96,STANDARD
+Canarias,Todas las ocupaciones,All,2010,19315.56,STANDARD
+Canarias,Todas las ocupaciones,All,2009,18926.36,STANDARD
+Canarias,Todas las ocupaciones,All,2008,18466.99,STANDARD
+Canarias,Todas las ocupaciones,Female,2024,24299.07,STANDARD
+Canarias,Todas las ocupaciones,Female,2023,23439.06,STANDARD
+Canarias,Todas las ocupaciones,Female,2022,22574.98,STANDARD
+Canarias,Todas las ocupaciones,Female,2021,21178.57,STANDARD
+Canarias,Todas las ocupaciones,Female,2020,20461.63,STANDARD
+Canarias,Todas las ocupaciones,Female,2019,19540.82,STANDARD
+Canarias,Todas las ocupaciones,Female,2018,19051.01,STANDARD
+Canarias,Todas las ocupaciones,Female,2017,18917.73,STANDARD
+Canarias,Todas las ocupaciones,Female,2016,18211.44,STANDARD
+Canarias,Todas las ocupaciones,Female,2015,18279.76,STANDARD
+Canarias,Todas las ocupaciones,Female,2014,18201.48,STANDARD
+Canarias,Todas las ocupaciones,Female,2013,17619.86,STANDARD
+Canarias,Todas las ocupaciones,Female,2012,17498.71,STANDARD
+Canarias,Todas las ocupaciones,Female,2011,17824.94,STANDARD
+Canarias,Todas las ocupaciones,Female,2010,17601.79,STANDARD
+Canarias,Todas las ocupaciones,Female,2009,17528.33,STANDARD
+Canarias,Todas las ocupaciones,Female,2008,17131.85,STANDARD
+Canarias,Todas las ocupaciones,Male,2024,25924.13,STANDARD
+Canarias,Todas las ocupaciones,Male,2023,24604.44,STANDARD
+Canarias,Todas las ocupaciones,Male,2022,23588.7,STANDARD
+Canarias,Todas las ocupaciones,Male,2021,23619.76,STANDARD
+Canarias,Todas las ocupaciones,Male,2020,22697.51,STANDARD
+Canarias,Todas las ocupaciones,Male,2019,22082.69,STANDARD
+Canarias,Todas las ocupaciones,Male,2018,22333.63,STANDARD
+Canarias,Todas las ocupaciones,Male,2017,21291.66,STANDARD
+Canarias,Todas las ocupaciones,Male,2016,21149.44,STANDARD
+Canarias,Todas las ocupaciones,Male,2015,21336.72,STANDARD
+Canarias,Todas las ocupaciones,Male,2014,20641.49,STANDARD
+Canarias,Todas las ocupaciones,Male,2013,20678.43,STANDARD
+Canarias,Todas las ocupaciones,Male,2012,21089.85,STANDARD
+Canarias,Todas las ocupaciones,Male,2011,21090.86,STANDARD
+Canarias,Todas las ocupaciones,Male,2010,20986.94,STANDARD
+Canarias,Todas las ocupaciones,Male,2009,20109.24,STANDARD
+Canarias,Todas las ocupaciones,Male,2008,19516.93,STANDARD
+Canarias,Alta,All,2024,37941.04,STANDARD
+Canarias,Alta,All,2023,36673.51,STANDARD
+Canarias,Alta,All,2022,34813.71,STANDARD
+Canarias,Alta,All,2021,35302.26,STANDARD
+Canarias,Alta,All,2020,32412.38,STANDARD
+Canarias,Alta,All,2019,30337.32,STANDARD
+Canarias,Alta,All,2018,31568.64,STANDARD
+Canarias,Alta,All,2017,31317.58,STANDARD
+Canarias,Alta,All,2016,30264.64,STANDARD
+Canarias,Alta,All,2015,29520.25,STANDARD
+Canarias,Alta,All,2014,29823.56,STANDARD
+Canarias,Alta,All,2013,29816.47,STANDARD
+Canarias,Alta,All,2012,29059.56,STANDARD
+Canarias,Alta,All,2011,28858.2,STANDARD
+Canarias,Alta,All,2010,29902.08,STANDARD
+Canarias,Alta,All,2009,27276.44,STANDARD
+Canarias,Alta,All,2008,26767.67,STANDARD
+Canarias,Alta,Female,2024,36649.68,STANDARD
+Canarias,Alta,Female,2023,35247.72,STANDARD
+Canarias,Alta,Female,2022,34051.02,STANDARD
+Canarias,Alta,Female,2021,34165.64,STANDARD
+Canarias,Alta,Female,2020,31197.45,STANDARD
+Canarias,Alta,Female,2019,29961.11,STANDARD
+Canarias,Alta,Female,2018,29841.58,STANDARD
+Canarias,Alta,Female,2017,30397.32,STANDARD
+Canarias,Alta,Female,2016,28790.77,STANDARD
+Canarias,Alta,Female,2015,28803.98,STANDARD
+Canarias,Alta,Female,2014,28346.78,STANDARD
+Canarias,Alta,Female,2013,28401.99,STANDARD
+Canarias,Alta,Female,2012,27254.71,STANDARD
+Canarias,Alta,Female,2011,27498.42,STANDARD
+Canarias,Alta,Female,2010,27985.32,STANDARD
+Canarias,Alta,Female,2009,25785.27,STANDARD
+Canarias,Alta,Female,2008,25512.77,STANDARD
+Canarias,Alta,Male,2024,39758.41,STANDARD
+Canarias,Alta,Male,2023,38655.99,STANDARD
+Canarias,Alta,Male,2022,35715.34,STANDARD
+Canarias,Alta,Male,2021,36429.22,STANDARD
+Canarias,Alta,Male,2020,33731.69,STANDARD
+Canarias,Alta,Male,2019,30701.91,STANDARD
+Canarias,Alta,Male,2018,33246.91,STANDARD
+Canarias,Alta,Male,2017,32191.77,STANDARD
+Canarias,Alta,Male,2016,31680.4,STANDARD
+Canarias,Alta,Male,2015,30202.15,STANDARD
+Canarias,Alta,Male,2014,31544.66,STANDARD
+Canarias,Alta,Male,2013,31248.39,STANDARD
+Canarias,Alta,Male,2012,30871.02,STANDARD
+Canarias,Alta,Male,2011,30126.56,STANDARD
+Canarias,Alta,Male,2010,31999.4,STANDARD
+Canarias,Alta,Male,2009,28941.23,STANDARD
+Canarias,Alta,Male,2008,28120.26,STANDARD
+Canarias,Media,All,2024,21693.81,STANDARD
+Canarias,Media,All,2023,20484.13,STANDARD
+Canarias,Media,All,2022,19178.27,STANDARD
+Canarias,Media,All,2021,18596.86,STANDARD
+Canarias,Media,All,2020,17848.59,STANDARD
+Canarias,Media,All,2019,17778.28,STANDARD
+Canarias,Media,All,2018,18038.53,STANDARD
+Canarias,Media,All,2017,17049.92,STANDARD
+Canarias,Media,All,2016,17014.11,STANDARD
+Canarias,Media,All,2015,16703.62,STANDARD
+Canarias,Media,All,2014,16490.72,STANDARD
+Canarias,Media,All,2013,16431.27,STANDARD
+Canarias,Media,All,2012,16365.88,STANDARD
+Canarias,Media,All,2011,16903.21,STANDARD
+Canarias,Media,All,2010,16381.95,STANDARD
+Canarias,Media,All,2009,16665.87,STANDARD
+Canarias,Media,All,2008,16292.43,STANDARD
+Canarias,Media,Female,2024,19895.34,STANDARD
+Canarias,Media,Female,2023,19048.68,STANDARD
+Canarias,Media,Female,2022,18403.8,STANDARD
+Canarias,Media,Female,2021,17011.19,STANDARD
+Canarias,Media,Female,2020,16193.51,STANDARD
+Canarias,Media,Female,2019,15877.12,STANDARD
+Canarias,Media,Female,2018,16084.96,STANDARD
+Canarias,Media,Female,2017,15463.37,STANDARD
+Canarias,Media,Female,2016,15282.2,STANDARD
+Canarias,Media,Female,2015,14927.13,STANDARD
+Canarias,Media,Female,2014,14911.11,STANDARD
+Canarias,Media,Female,2013,14757.43,STANDARD
+Canarias,Media,Female,2012,14629.08,STANDARD
+Canarias,Media,Female,2011,15157.5,STANDARD
+Canarias,Media,Female,2010,14330.69,STANDARD
+Canarias,Media,Female,2009,14850.21,STANDARD
+Canarias,Media,Female,2008,14194.71,STANDARD
+Canarias,Media,Male,2024,23349.1,STANDARD
+Canarias,Media,Male,2023,21877.4,STANDARD
+Canarias,Media,Male,2022,19946.46,STANDARD
+Canarias,Media,Male,2021,20134.9,STANDARD
+Canarias,Media,Male,2020,19447.66,STANDARD
+Canarias,Media,Male,2019,19747.36,STANDARD
+Canarias,Media,Male,2018,20024.13,STANDARD
+Canarias,Media,Male,2017,18570.45,STANDARD
+Canarias,Media,Male,2016,18829.46,STANDARD
+Canarias,Media,Male,2015,18489.7,STANDARD
+Canarias,Media,Male,2014,18119.37,STANDARD
+Canarias,Media,Male,2013,18219.98,STANDARD
+Canarias,Media,Male,2012,18466.72,STANDARD
+Canarias,Media,Male,2011,18694.15,STANDARD
+Canarias,Media,Male,2010,18549.89,STANDARD
+Canarias,Media,Male,2009,18237.75,STANDARD
+Canarias,Media,Male,2008,18054.5,STANDARD
+Canarias,Baja,All,2024,18200.86,STANDARD
+Canarias,Baja,All,2023,17554.22,STANDARD
+Canarias,Baja,All,2022,17390.53,STANDARD
+Canarias,Baja,All,2021,15554.27,STANDARD
+Canarias,Baja,All,2020,15839.65,STANDARD
+Canarias,Baja,All,2019,15754.25,STANDARD
+Canarias,Baja,All,2018,15425.86,STANDARD
+Canarias,Baja,All,2017,15226.32,STANDARD
+Canarias,Baja,All,2016,14950.65,STANDARD
+Canarias,Baja,All,2015,15367.09,STANDARD
+Canarias,Baja,All,2014,14441.98,STANDARD
+Canarias,Baja,All,2013,14519.47,STANDARD
+Canarias,Baja,All,2012,14132.95,STANDARD
+Canarias,Baja,All,2011,14359.81,STANDARD
+Canarias,Baja,All,2010,13629.45,STANDARD
+Canarias,Baja,All,2009,14561.71,STANDARD
+Canarias,Baja,All,2008,14608.3,STANDARD
+Canarias,Baja,Female,2024,16129.18,STANDARD
+Canarias,Baja,Female,2023,15533.22,STANDARD
+Canarias,Baja,Female,2022,14603.07,STANDARD
+Canarias,Baja,Female,2021,12895.7,STANDARD
+Canarias,Baja,Female,2020,13459.65,STANDARD
+Canarias,Baja,Female,2019,13764.52,STANDARD
+Canarias,Baja,Female,2018,13409.9,STANDARD
+Canarias,Baja,Female,2017,13213.83,STANDARD
+Canarias,Baja,Female,2016,12953.28,STANDARD
+Canarias,Baja,Female,2015,12906.03,STANDARD
+Canarias,Baja,Female,2014,12499.9,STANDARD
+Canarias,Baja,Female,2013,12605.68,STANDARD
+Canarias,Baja,Female,2012,11956.58,STANDARD
+Canarias,Baja,Female,2011,12071.47,STANDARD
+Canarias,Baja,Female,2010,11544.47,STANDARD
+Canarias,Baja,Female,2009,11714.95,STANDARD
+Canarias,Baja,Female,2008,12240.17,STANDARD
+Canarias,Baja,Male,2024,19737.32,STANDARD
+Canarias,Baja,Male,2023,18769.61,STANDARD
+Canarias,Baja,Male,2022,19102.46,STANDARD
+Canarias,Baja,Male,2021,17244.15,STANDARD
+Canarias,Baja,Male,2020,17311.66,STANDARD
+Canarias,Baja,Male,2019,17105.21,STANDARD
+Canarias,Baja,Male,2018,16743.28,STANDARD
+Canarias,Baja,Male,2017,16526.38,STANDARD
+Canarias,Baja,Male,2016,16223.46,STANDARD
+Canarias,Baja,Male,2015,17309.95,STANDARD
+Canarias,Baja,Male,2014,15785.75,STANDARD
+Canarias,Baja,Male,2013,15998.7,STANDARD
+Canarias,Baja,Male,2012,15711.29,STANDARD
+Canarias,Baja,Male,2011,16104.82,STANDARD
+Canarias,Baja,Male,2010,15109.26,STANDARD
+Canarias,Baja,Male,2009,16211.58,STANDARD
+Canarias,Baja,Male,2008,15746.8,STANDARD
+Cantabria,Todas las ocupaciones,All,2024,27097.17,STANDARD
+Cantabria,Todas las ocupaciones,All,2023,26568.7,STANDARD
+Cantabria,Todas las ocupaciones,All,2022,25291.14,STANDARD
+Cantabria,Todas las ocupaciones,All,2021,24470.7,STANDARD
+Cantabria,Todas las ocupaciones,All,2020,23495.12,STANDARD
+Cantabria,Todas las ocupaciones,All,2019,23347.52,STANDARD
+Cantabria,Todas las ocupaciones,All,2018,22554.83,STANDARD
+Cantabria,Todas las ocupaciones,All,2017,22390.4,STANDARD
+Cantabria,Todas las ocupaciones,All,2016,22063.02,STANDARD
+Cantabria,Todas las ocupaciones,All,2015,21856.81,STANDARD
+Cantabria,Todas las ocupaciones,All,2014,21199.83,STANDARD
+Cantabria,Todas las ocupaciones,All,2013,20052.12,STANDARD
+Cantabria,Todas las ocupaciones,All,2012,20191.51,STANDARD
+Cantabria,Todas las ocupaciones,All,2011,20931.68,STANDARD
+Cantabria,Todas las ocupaciones,All,2010,21156.79,STANDARD
+Cantabria,Todas las ocupaciones,All,2009,20869.86,STANDARD
+Cantabria,Todas las ocupaciones,All,2008,20377.68,STANDARD
+Cantabria,Todas las ocupaciones,Female,2024,23863.21,STANDARD
+Cantabria,Todas las ocupaciones,Female,2023,23727.01,STANDARD
+Cantabria,Todas las ocupaciones,Female,2022,22564.11,STANDARD
+Cantabria,Todas las ocupaciones,Female,2021,21532.96,STANDARD
+Cantabria,Todas las ocupaciones,Female,2020,20996.83,STANDARD
+Cantabria,Todas las ocupaciones,Female,2019,20600.16,STANDARD
+Cantabria,Todas las ocupaciones,Female,2018,19630.01,STANDARD
+Cantabria,Todas las ocupaciones,Female,2017,19012.2,STANDARD
+Cantabria,Todas las ocupaciones,Female,2016,18216.84,STANDARD
+Cantabria,Todas las ocupaciones,Female,2015,17955.79,STANDARD
+Cantabria,Todas las ocupaciones,Female,2014,17668.55,STANDARD
+Cantabria,Todas las ocupaciones,Female,2013,16542.34,STANDARD
+Cantabria,Todas las ocupaciones,Female,2012,16771.99,STANDARD
+Cantabria,Todas las ocupaciones,Female,2011,17606.84,STANDARD
+Cantabria,Todas las ocupaciones,Female,2010,17887.59,STANDARD
+Cantabria,Todas las ocupaciones,Female,2009,18210.65,STANDARD
+Cantabria,Todas las ocupaciones,Female,2008,17460.14,STANDARD
+Cantabria,Todas las ocupaciones,Male,2024,30052.78,STANDARD
+Cantabria,Todas las ocupaciones,Male,2023,29145.64,STANDARD
+Cantabria,Todas las ocupaciones,Male,2022,27820.83,STANDARD
+Cantabria,Todas las ocupaciones,Male,2021,27233.75,STANDARD
+Cantabria,Todas las ocupaciones,Male,2020,25804.13,STANDARD
+Cantabria,Todas las ocupaciones,Male,2019,25795.43,STANDARD
+Cantabria,Todas las ocupaciones,Male,2018,25349.01,STANDARD
+Cantabria,Todas las ocupaciones,Male,2017,25249.94,STANDARD
+Cantabria,Todas las ocupaciones,Male,2016,25210.05,STANDARD
+Cantabria,Todas las ocupaciones,Male,2015,25259.83,STANDARD
+Cantabria,Todas las ocupaciones,Male,2014,24685.21,STANDARD
+Cantabria,Todas las ocupaciones,Male,2013,23224.6,STANDARD
+Cantabria,Todas las ocupaciones,Male,2012,23309.9,STANDARD
+Cantabria,Todas las ocupaciones,Male,2011,23793.64,STANDARD
+Cantabria,Todas las ocupaciones,Male,2010,23924.51,STANDARD
+Cantabria,Todas las ocupaciones,Male,2009,22933.0,STANDARD
+Cantabria,Todas las ocupaciones,Male,2008,22539.72,STANDARD
+Cantabria,Alta,All,2024,37981.11,STANDARD
+Cantabria,Alta,All,2023,36365.32,STANDARD
+Cantabria,Alta,All,2022,36132.73,STANDARD
+Cantabria,Alta,All,2021,33665.23,STANDARD
+Cantabria,Alta,All,2020,32712.57,STANDARD
+Cantabria,Alta,All,2019,32812.87,STANDARD
+Cantabria,Alta,All,2018,30895.2,STANDARD
+Cantabria,Alta,All,2017,31681.69,STANDARD
+Cantabria,Alta,All,2016,31248.33,STANDARD
+Cantabria,Alta,All,2015,29971.91,STANDARD
+Cantabria,Alta,All,2014,30473.35,STANDARD
+Cantabria,Alta,All,2013,27912.57,STANDARD
+Cantabria,Alta,All,2012,29252.68,STANDARD
+Cantabria,Alta,All,2011,29967.68,STANDARD
+Cantabria,Alta,All,2010,29626.17,STANDARD
+Cantabria,Alta,All,2009,29887.23,STANDARD
+Cantabria,Alta,All,2008,28798.76,STANDARD
+Cantabria,Alta,Female,2024,35002.24,STANDARD
+Cantabria,Alta,Female,2023,33842.66,STANDARD
+Cantabria,Alta,Female,2022,33066.21,STANDARD
+Cantabria,Alta,Female,2021,31965.65,STANDARD
+Cantabria,Alta,Female,2020,31396.14,STANDARD
+Cantabria,Alta,Female,2019,31065.44,STANDARD
+Cantabria,Alta,Female,2018,27867.64,STANDARD
+Cantabria,Alta,Female,2017,28460.34,STANDARD
+Cantabria,Alta,Female,2016,26478.97,STANDARD
+Cantabria,Alta,Female,2015,25455.04,STANDARD
+Cantabria,Alta,Female,2014,26914.65,STANDARD
+Cantabria,Alta,Female,2013,24040.64,STANDARD
+Cantabria,Alta,Female,2012,25809.01,STANDARD
+Cantabria,Alta,Female,2011,26466.3,STANDARD
+Cantabria,Alta,Female,2010,26302.67,STANDARD
+Cantabria,Alta,Female,2009,27732.24,STANDARD
+Cantabria,Alta,Female,2008,25904.64,STANDARD
+Cantabria,Alta,Male,2024,41431.23,STANDARD
+Cantabria,Alta,Male,2023,39290.16,STANDARD
+Cantabria,Alta,Male,2022,39989.68,STANDARD
+Cantabria,Alta,Male,2021,35585.18,STANDARD
+Cantabria,Alta,Male,2020,34223.61,STANDARD
+Cantabria,Alta,Male,2019,34672.11,STANDARD
+Cantabria,Alta,Male,2018,34705.16,STANDARD
+Cantabria,Alta,Male,2017,34749.74,STANDARD
+Cantabria,Alta,Male,2016,35363.55,STANDARD
+Cantabria,Alta,Male,2015,34486.1,STANDARD
+Cantabria,Alta,Male,2014,34425.63,STANDARD
+Cantabria,Alta,Male,2013,31172.37,STANDARD
+Cantabria,Alta,Male,2012,32188.27,STANDARD
+Cantabria,Alta,Male,2011,33280.1,STANDARD
+Cantabria,Alta,Male,2010,32873.84,STANDARD
+Cantabria,Alta,Male,2009,32054.39,STANDARD
+Cantabria,Alta,Male,2008,31620.09,STANDARD
+Cantabria,Media,All,2024,22344.35,STANDARD
+Cantabria,Media,All,2023,22369.1,STANDARD
+Cantabria,Media,All,2022,20820.6,STANDARD
+Cantabria,Media,All,2021,20019.77,STANDARD
+Cantabria,Media,All,2020,19241.88,STANDARD
+Cantabria,Media,All,2019,19297.77,STANDARD
+Cantabria,Media,All,2018,18701.68,STANDARD
+Cantabria,Media,All,2017,17413.24,STANDARD
+Cantabria,Media,All,2016,17500.56,STANDARD
+Cantabria,Media,All,2015,17647.83,STANDARD
+Cantabria,Media,All,2014,17133.85,STANDARD
+Cantabria,Media,All,2013,16891.63,STANDARD
+Cantabria,Media,All,2012,17035.13,STANDARD
+Cantabria,Media,All,2011,17353.7,STANDARD
+Cantabria,Media,All,2010,18011.29,STANDARD
+Cantabria,Media,All,2009,17285.8,STANDARD
+Cantabria,Media,All,2008,17274.75,STANDARD
+Cantabria,Media,Female,2024,18826.64,STANDARD
+Cantabria,Media,Female,2023,19120.02,STANDARD
+Cantabria,Media,Female,2022,18575.82,STANDARD
+Cantabria,Media,Female,2021,16493.5,STANDARD
+Cantabria,Media,Female,2020,15999.07,STANDARD
+Cantabria,Media,Female,2019,15984.7,STANDARD
+Cantabria,Media,Female,2018,15985.16,STANDARD
+Cantabria,Media,Female,2017,14499.55,STANDARD
+Cantabria,Media,Female,2016,14706.51,STANDARD
+Cantabria,Media,Female,2015,14408.69,STANDARD
+Cantabria,Media,Female,2014,13776.11,STANDARD
+Cantabria,Media,Female,2013,14057.52,STANDARD
+Cantabria,Media,Female,2012,14042.62,STANDARD
+Cantabria,Media,Female,2011,14378.19,STANDARD
+Cantabria,Media,Female,2010,14703.43,STANDARD
+Cantabria,Media,Female,2009,14129.23,STANDARD
+Cantabria,Media,Female,2008,14171.52,STANDARD
+Cantabria,Media,Male,2024,25903.37,STANDARD
+Cantabria,Media,Male,2023,25614.88,STANDARD
+Cantabria,Media,Male,2022,23126.76,STANDARD
+Cantabria,Media,Male,2021,23816.79,STANDARD
+Cantabria,Media,Male,2020,22939.69,STANDARD
+Cantabria,Media,Male,2019,22666.18,STANDARD
+Cantabria,Media,Male,2018,21561.62,STANDARD
+Cantabria,Media,Male,2017,20584.15,STANDARD
+Cantabria,Media,Male,2016,20359.76,STANDARD
+Cantabria,Media,Male,2015,20916.41,STANDARD
+Cantabria,Media,Male,2014,21132.59,STANDARD
+Cantabria,Media,Male,2013,20302.29,STANDARD
+Cantabria,Media,Male,2012,20660.24,STANDARD
+Cantabria,Media,Male,2011,20315.36,STANDARD
+Cantabria,Media,Male,2010,21162.86,STANDARD
+Cantabria,Media,Male,2009,20237.03,STANDARD
+Cantabria,Media,Male,2008,19980.04,STANDARD
+Cantabria,Baja,All,2024,21875.37,STANDARD
+Cantabria,Baja,All,2023,21114.99,STANDARD
+Cantabria,Baja,All,2022,21008.2,STANDARD
+Cantabria,Baja,All,2021,20479.99,STANDARD
+Cantabria,Baja,All,2020,19560.79,STANDARD
+Cantabria,Baja,All,2019,19319.2,STANDARD
+Cantabria,Baja,All,2018,19098.9,STANDARD
+Cantabria,Baja,All,2017,19637.54,STANDARD
+Cantabria,Baja,All,2016,18804.58,STANDARD
+Cantabria,Baja,All,2015,18906.0,STANDARD
+Cantabria,Baja,All,2014,17372.28,STANDARD
+Cantabria,Baja,All,2013,17116.16,STANDARD
+Cantabria,Baja,All,2012,17101.48,STANDARD
+Cantabria,Baja,All,2011,17938.15,STANDARD
+Cantabria,Baja,All,2010,17096.9,STANDARD
+Cantabria,Baja,All,2009,17314.4,STANDARD
+Cantabria,Baja,All,2008,17498.91,STANDARD
+Cantabria,Baja,Female,2024,15005.38,LOW_RELIABILITY
+Cantabria,Baja,Female,2023,14628.01,LOW_RELIABILITY
+Cantabria,Baja,Female,2022,13050.03,LOW_RELIABILITY
+Cantabria,Baja,Female,2021,14075.25,LOW_RELIABILITY
+Cantabria,Baja,Female,2020,13881.3,LOW_RELIABILITY
+Cantabria,Baja,Female,2019,13916.22,LOW_RELIABILITY
+Cantabria,Baja,Female,2018,12732.46,LOW_RELIABILITY
+Cantabria,Baja,Female,2017,13590.44,LOW_RELIABILITY
+Cantabria,Baja,Female,2016,13439.68,LOW_RELIABILITY
+Cantabria,Baja,Female,2015,13207.49,LOW_RELIABILITY
+Cantabria,Baja,Female,2014,11854.73,LOW_RELIABILITY
+Cantabria,Baja,Female,2013,12764.7,LOW_RELIABILITY
+Cantabria,Baja,Female,2012,13022.82,LOW_RELIABILITY
+Cantabria,Baja,Female,2011,13122.74,LOW_RELIABILITY
+Cantabria,Baja,Female,2010,12326.71,LOW_RELIABILITY
+Cantabria,Baja,Female,2009,11958.47,STANDARD
+Cantabria,Baja,Female,2008,12329.45,STANDARD
+Cantabria,Baja,Male,2024,25446.82,STANDARD
+Cantabria,Baja,Male,2023,24428.89,STANDARD
+Cantabria,Baja,Male,2022,24935.92,STANDARD
+Cantabria,Baja,Male,2021,23802.39,STANDARD
+Cantabria,Baja,Male,2020,22070.85,STANDARD
+Cantabria,Baja,Male,2019,22069.49,STANDARD
+Cantabria,Baja,Male,2018,22503.4,STANDARD
+Cantabria,Baja,Male,2017,22163.04,STANDARD
+Cantabria,Baja,Male,2016,21470.74,STANDARD
+Cantabria,Baja,Male,2015,21997.58,STANDARD
+Cantabria,Baja,Male,2014,20369.96,STANDARD
+Cantabria,Baja,Male,2013,19461.13,STANDARD
+Cantabria,Baja,Male,2012,19332.78,STANDARD
+Cantabria,Baja,Male,2011,20664.5,STANDARD
+Cantabria,Baja,Male,2010,19725.59,STANDARD
+Cantabria,Baja,Male,2009,19388.59,STANDARD
+Cantabria,Baja,Male,2008,19502.55,STANDARD
+Castilla y León,Todas las ocupaciones,All,2024,26177.28,STANDARD
+Castilla y León,Todas las ocupaciones,All,2023,25227.03,STANDARD
+Castilla y León,Todas las ocupaciones,All,2022,24186.89,STANDARD
+Castilla y León,Todas las ocupaciones,All,2021,23564.33,STANDARD
+Castilla y León,Todas las ocupaciones,All,2020,22948.76,STANDARD
+Castilla y León,Todas las ocupaciones,All,2019,22061.44,STANDARD
+Castilla y León,Todas las ocupaciones,All,2018,22034.53,STANDARD
+Castilla y León,Todas las ocupaciones,All,2017,21846.88,STANDARD
+Castilla y León,Todas las ocupaciones,All,2016,21551.57,STANDARD
+Castilla y León,Todas las ocupaciones,All,2015,21296.1,STANDARD
+Castilla y León,Todas las ocupaciones,All,2014,20524.83,STANDARD
+Castilla y León,Todas las ocupaciones,All,2013,20440.56,STANDARD
+Castilla y León,Todas las ocupaciones,All,2012,20569.14,STANDARD
+Castilla y León,Todas las ocupaciones,All,2011,21029.37,STANDARD
+Castilla y León,Todas las ocupaciones,All,2010,20960.87,STANDARD
+Castilla y León,Todas las ocupaciones,All,2009,21037.13,STANDARD
+Castilla y León,Todas las ocupaciones,All,2008,20218.21,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2024,23646.7,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2023,23104.3,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2022,21773.27,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2021,20795.39,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2020,20314.96,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2019,19414.11,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2018,19056.53,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2017,18796.93,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2016,18662.42,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2015,18523.74,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2014,17682.88,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2013,17429.41,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2012,17552.07,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2011,18193.91,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2010,17683.88,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2009,18249.87,STANDARD
+Castilla y León,Todas las ocupaciones,Female,2008,17573.56,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2024,28609.55,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2023,27360.49,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2022,26548.08,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2021,26263.49,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2020,25549.98,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2019,24665.79,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2018,24714.04,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2017,24782.8,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2016,24445.65,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2015,24135.64,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2014,22904.8,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2013,23379.0,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2012,23473.82,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2011,23482.58,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2010,23640.67,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2009,23116.47,STANDARD
+Castilla y León,Todas las ocupaciones,Male,2008,22117.28,STANDARD
+Castilla y León,Alta,All,2024,35520.81,STANDARD
+Castilla y León,Alta,All,2023,34603.37,STANDARD
+Castilla y León,Alta,All,2022,33992.4,STANDARD
+Castilla y León,Alta,All,2021,33767.09,STANDARD
+Castilla y León,Alta,All,2020,32097.67,STANDARD
+Castilla y León,Alta,All,2019,30191.24,STANDARD
+Castilla y León,Alta,All,2018,30776.11,STANDARD
+Castilla y León,Alta,All,2017,30540.39,STANDARD
+Castilla y León,Alta,All,2016,29669.89,STANDARD
+Castilla y León,Alta,All,2015,29971.01,STANDARD
+Castilla y León,Alta,All,2014,29746.07,STANDARD
+Castilla y León,Alta,All,2013,29190.75,STANDARD
+Castilla y León,Alta,All,2012,28983.18,STANDARD
+Castilla y León,Alta,All,2011,29537.61,STANDARD
+Castilla y León,Alta,All,2010,30678.73,STANDARD
+Castilla y León,Alta,All,2009,30173.57,STANDARD
+Castilla y León,Alta,All,2008,28473.14,STANDARD
+Castilla y León,Alta,Female,2024,33418.16,STANDARD
+Castilla y León,Alta,Female,2023,33105.1,STANDARD
+Castilla y León,Alta,Female,2022,31600.91,STANDARD
+Castilla y León,Alta,Female,2021,31576.07,STANDARD
+Castilla y León,Alta,Female,2020,30487.51,STANDARD
+Castilla y León,Alta,Female,2019,28078.55,STANDARD
+Castilla y León,Alta,Female,2018,28205.2,STANDARD
+Castilla y León,Alta,Female,2017,27383.05,STANDARD
+Castilla y León,Alta,Female,2016,26900.58,STANDARD
+Castilla y León,Alta,Female,2015,27198.98,STANDARD
+Castilla y León,Alta,Female,2014,26568.49,STANDARD
+Castilla y León,Alta,Female,2013,25837.07,STANDARD
+Castilla y León,Alta,Female,2012,25368.04,STANDARD
+Castilla y León,Alta,Female,2011,26248.89,STANDARD
+Castilla y León,Alta,Female,2010,26964.64,STANDARD
+Castilla y León,Alta,Female,2009,27315.73,STANDARD
+Castilla y León,Alta,Female,2008,25923.18,STANDARD
+Castilla y León,Alta,Male,2024,38162.02,STANDARD
+Castilla y León,Alta,Male,2023,36578.88,STANDARD
+Castilla y León,Alta,Male,2022,37185.32,STANDARD
+Castilla y León,Alta,Male,2021,36293.41,STANDARD
+Castilla y León,Alta,Male,2020,33945.59,STANDARD
+Castilla y León,Alta,Male,2019,32640.99,STANDARD
+Castilla y León,Alta,Male,2018,33656.71,STANDARD
+Castilla y León,Alta,Male,2017,33977.45,STANDARD
+Castilla y León,Alta,Male,2016,32892.73,STANDARD
+Castilla y León,Alta,Male,2015,33130.64,STANDARD
+Castilla y León,Alta,Male,2014,33198.72,STANDARD
+Castilla y León,Alta,Male,2013,32850.54,STANDARD
+Castilla y León,Alta,Male,2012,33114.38,STANDARD
+Castilla y León,Alta,Male,2011,32865.78,STANDARD
+Castilla y León,Alta,Male,2010,34231.27,STANDARD
+Castilla y León,Alta,Male,2009,32722.12,STANDARD
+Castilla y León,Alta,Male,2008,30677.51,STANDARD
+Castilla y León,Media,All,2024,22275.16,STANDARD
+Castilla y León,Media,All,2023,21173.07,STANDARD
+Castilla y León,Media,All,2022,20560.13,STANDARD
+Castilla y León,Media,All,2021,19305.45,STANDARD
+Castilla y León,Media,All,2020,18924.35,STANDARD
+Castilla y León,Media,All,2019,18508.16,STANDARD
+Castilla y León,Media,All,2018,18991.75,STANDARD
+Castilla y León,Media,All,2017,17786.83,STANDARD
+Castilla y León,Media,All,2016,17749.29,STANDARD
+Castilla y León,Media,All,2015,17572.6,STANDARD
+Castilla y León,Media,All,2014,16725.96,STANDARD
+Castilla y León,Media,All,2013,17204.45,STANDARD
+Castilla y León,Media,All,2012,17019.52,STANDARD
+Castilla y León,Media,All,2011,17878.46,STANDARD
+Castilla y León,Media,All,2010,17602.53,STANDARD
+Castilla y León,Media,All,2009,17341.61,STANDARD
+Castilla y León,Media,All,2008,17230.53,STANDARD
+Castilla y León,Media,Female,2024,19342.02,STANDARD
+Castilla y León,Media,Female,2023,18681.2,STANDARD
+Castilla y León,Media,Female,2022,17723.92,STANDARD
+Castilla y León,Media,Female,2021,16344.79,STANDARD
+Castilla y León,Media,Female,2020,16004.2,STANDARD
+Castilla y León,Media,Female,2019,15900.5,STANDARD
+Castilla y León,Media,Female,2018,15733.62,STANDARD
+Castilla y León,Media,Female,2017,15018.71,STANDARD
+Castilla y León,Media,Female,2016,15038.93,STANDARD
+Castilla y León,Media,Female,2015,14940.01,STANDARD
+Castilla y León,Media,Female,2014,13845.85,STANDARD
+Castilla y León,Media,Female,2013,14391.3,STANDARD
+Castilla y León,Media,Female,2012,14186.83,STANDARD
+Castilla y León,Media,Female,2011,15227.1,STANDARD
+Castilla y León,Media,Female,2010,14266.68,STANDARD
+Castilla y León,Media,Female,2009,14305.9,STANDARD
+Castilla y León,Media,Female,2008,14420.55,STANDARD
+Castilla y León,Media,Male,2024,25344.57,STANDARD
+Castilla y León,Media,Male,2023,24054.88,STANDARD
+Castilla y León,Media,Male,2022,23697.1,STANDARD
+Castilla y León,Media,Male,2021,22838.24,STANDARD
+Castilla y León,Media,Male,2020,22561.54,STANDARD
+Castilla y León,Media,Male,2019,21712.17,STANDARD
+Castilla y León,Media,Male,2018,22241.61,STANDARD
+Castilla y León,Media,Male,2017,21167.87,STANDARD
+Castilla y León,Media,Male,2016,21059.88,STANDARD
+Castilla y León,Media,Male,2015,20750.68,STANDARD
+Castilla y León,Media,Male,2014,19450.62,STANDARD
+Castilla y León,Media,Male,2013,20492.08,STANDARD
+Castilla y León,Media,Male,2012,20228.4,STANDARD
+Castilla y León,Media,Male,2011,20673.98,STANDARD
+Castilla y León,Media,Male,2010,20980.24,STANDARD
+Castilla y León,Media,Male,2009,20149.45,STANDARD
+Castilla y León,Media,Male,2008,19707.51,STANDARD
+Castilla y León,Baja,All,2024,21774.3,STANDARD
+Castilla y León,Baja,All,2023,21136.24,STANDARD
+Castilla y León,Baja,All,2022,19445.16,STANDARD
+Castilla y León,Baja,All,2021,19080.29,STANDARD
+Castilla y León,Baja,All,2020,18588.84,STANDARD
+Castilla y León,Baja,All,2019,18598.82,STANDARD
+Castilla y León,Baja,All,2018,17668.34,STANDARD
+Castilla y León,Baja,All,2017,17638.1,STANDARD
+Castilla y León,Baja,All,2016,17606.82,STANDARD
+Castilla y León,Baja,All,2015,16896.29,STANDARD
+Castilla y León,Baja,All,2014,16354.21,STANDARD
+Castilla y León,Baja,All,2013,15967.48,STANDARD
+Castilla y León,Baja,All,2012,16487.46,STANDARD
+Castilla y León,Baja,All,2011,16540.63,STANDARD
+Castilla y León,Baja,All,2010,16177.52,STANDARD
+Castilla y León,Baja,All,2009,16458.72,STANDARD
+Castilla y León,Baja,All,2008,16717.27,STANDARD
+Castilla y León,Baja,Female,2024,16177.07,STANDARD
+Castilla y León,Baja,Female,2023,15235.62,STANDARD
+Castilla y León,Baja,Female,2022,14266.24,STANDARD
+Castilla y León,Baja,Female,2021,13500.23,STANDARD
+Castilla y León,Baja,Female,2020,12778.17,STANDARD
+Castilla y León,Baja,Female,2019,13077.25,STANDARD
+Castilla y León,Baja,Female,2018,12251.98,STANDARD
+Castilla y León,Baja,Female,2017,12538.08,STANDARD
+Castilla y León,Baja,Female,2016,12399.78,STANDARD
+Castilla y León,Baja,Female,2015,12528.92,STANDARD
+Castilla y León,Baja,Female,2014,11170.62,STANDARD
+Castilla y León,Baja,Female,2013,11589.38,STANDARD
+Castilla y León,Baja,Female,2012,11975.27,STANDARD
+Castilla y León,Baja,Female,2011,11599.97,STANDARD
+Castilla y León,Baja,Female,2010,11424.76,STANDARD
+Castilla y León,Baja,Female,2009,11624.7,STANDARD
+Castilla y León,Baja,Female,2008,12139.1,STANDARD
+Castilla y León,Baja,Male,2024,24948.95,STANDARD
+Castilla y León,Baja,Male,2023,24153.4,STANDARD
+Castilla y León,Baja,Male,2022,22238.08,STANDARD
+Castilla y León,Baja,Male,2021,22017.15,STANDARD
+Castilla y León,Baja,Male,2020,21632.41,STANDARD
+Castilla y León,Baja,Male,2019,21457.75,STANDARD
+Castilla y León,Baja,Male,2018,20732.89,STANDARD
+Castilla y León,Baja,Male,2017,20379.41,STANDARD
+Castilla y León,Baja,Male,2016,20620.97,STANDARD
+Castilla y León,Baja,Male,2015,19783.68,STANDARD
+Castilla y León,Baja,Male,2014,18927.78,STANDARD
+Castilla y León,Baja,Male,2013,18645.22,STANDARD
+Castilla y León,Baja,Male,2012,18940.71,STANDARD
+Castilla y León,Baja,Male,2011,18839.24,STANDARD
+Castilla y León,Baja,Male,2010,18361.81,STANDARD
+Castilla y León,Baja,Male,2009,18324.33,STANDARD
+Castilla y León,Baja,Male,2008,18468.6,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2024,26062.05,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2023,24885.63,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2022,23751.71,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2021,23234.55,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2020,22575.01,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2019,21908.92,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2018,21756.38,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2017,21033.32,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2016,20825.87,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2015,20670.55,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2014,20644.88,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2013,20630.07,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2012,20536.42,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2011,20664.9,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2010,20363.01,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2009,20228.79,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,All,2008,19736.37,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2024,23766.91,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2023,22608.19,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2022,21312.65,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2021,21154.58,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2020,20761.55,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2019,19939.58,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2018,19088.87,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2017,18327.35,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2016,18213.71,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2015,18097.55,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2014,18157.02,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2013,17481.02,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2012,17527.3,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2011,18001.99,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2010,17913.0,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2009,17709.92,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Female,2008,17562.94,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2024,28023.12,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2023,26766.25,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2022,25813.23,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2021,24897.33,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2020,24029.31,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2019,23494.17,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2018,23960.1,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2017,23160.99,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2016,22871.41,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2015,22765.56,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2014,22719.35,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2013,23316.59,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2012,22810.39,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2011,22771.53,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2010,22292.84,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2009,21980.61,STANDARD
+Castilla - La Mancha,Todas las ocupaciones,Male,2008,21141.95,STANDARD
+Castilla - La Mancha,Alta,All,2024,36968.04,STANDARD
+Castilla - La Mancha,Alta,All,2023,35450.12,STANDARD
+Castilla - La Mancha,Alta,All,2022,33305.22,STANDARD
+Castilla - La Mancha,Alta,All,2021,33874.64,STANDARD
+Castilla - La Mancha,Alta,All,2020,32686.08,STANDARD
+Castilla - La Mancha,Alta,All,2019,30981.5,STANDARD
+Castilla - La Mancha,Alta,All,2018,31660.54,STANDARD
+Castilla - La Mancha,Alta,All,2017,30667.2,STANDARD
+Castilla - La Mancha,Alta,All,2016,29888.05,STANDARD
+Castilla - La Mancha,Alta,All,2015,29225.4,STANDARD
+Castilla - La Mancha,Alta,All,2014,29144.01,STANDARD
+Castilla - La Mancha,Alta,All,2013,30320.68,STANDARD
+Castilla - La Mancha,Alta,All,2012,29967.2,STANDARD
+Castilla - La Mancha,Alta,All,2011,29485.22,STANDARD
+Castilla - La Mancha,Alta,All,2010,29762.43,STANDARD
+Castilla - La Mancha,Alta,All,2009,30343.38,STANDARD
+Castilla - La Mancha,Alta,All,2008,28271.94,STANDARD
+Castilla - La Mancha,Alta,Female,2024,34957.19,STANDARD
+Castilla - La Mancha,Alta,Female,2023,33331.07,STANDARD
+Castilla - La Mancha,Alta,Female,2022,31851.63,STANDARD
+Castilla - La Mancha,Alta,Female,2021,31835.87,STANDARD
+Castilla - La Mancha,Alta,Female,2020,31122.26,STANDARD
+Castilla - La Mancha,Alta,Female,2019,29595.93,STANDARD
+Castilla - La Mancha,Alta,Female,2018,28885.06,STANDARD
+Castilla - La Mancha,Alta,Female,2017,27668.74,STANDARD
+Castilla - La Mancha,Alta,Female,2016,26647.54,STANDARD
+Castilla - La Mancha,Alta,Female,2015,26672.03,STANDARD
+Castilla - La Mancha,Alta,Female,2014,26242.18,STANDARD
+Castilla - La Mancha,Alta,Female,2013,25993.9,STANDARD
+Castilla - La Mancha,Alta,Female,2012,26324.33,STANDARD
+Castilla - La Mancha,Alta,Female,2011,26300.01,STANDARD
+Castilla - La Mancha,Alta,Female,2010,27570.02,STANDARD
+Castilla - La Mancha,Alta,Female,2009,26807.26,STANDARD
+Castilla - La Mancha,Alta,Female,2008,25235.93,STANDARD
+Castilla - La Mancha,Alta,Male,2024,39327.57,STANDARD
+Castilla - La Mancha,Alta,Male,2023,37971.53,STANDARD
+Castilla - La Mancha,Alta,Male,2022,34842.17,STANDARD
+Castilla - La Mancha,Alta,Male,2021,36124.64,STANDARD
+Castilla - La Mancha,Alta,Male,2020,34484.9,STANDARD
+Castilla - La Mancha,Alta,Male,2019,32381.12,STANDARD
+Castilla - La Mancha,Alta,Male,2018,34896.63,STANDARD
+Castilla - La Mancha,Alta,Male,2017,33389.66,STANDARD
+Castilla - La Mancha,Alta,Male,2016,33087.61,STANDARD
+Castilla - La Mancha,Alta,Male,2015,31682.59,STANDARD
+Castilla - La Mancha,Alta,Male,2014,32606.61,STANDARD
+Castilla - La Mancha,Alta,Male,2013,34545.86,STANDARD
+Castilla - La Mancha,Alta,Male,2012,33090.87,STANDARD
+Castilla - La Mancha,Alta,Male,2011,32459.49,STANDARD
+Castilla - La Mancha,Alta,Male,2010,31772.72,STANDARD
+Castilla - La Mancha,Alta,Male,2009,33382.97,STANDARD
+Castilla - La Mancha,Alta,Male,2008,31033.7,STANDARD
+Castilla - La Mancha,Media,All,2024,22586.42,STANDARD
+Castilla - La Mancha,Media,All,2023,21493.8,STANDARD
+Castilla - La Mancha,Media,All,2022,20994.05,STANDARD
+Castilla - La Mancha,Media,All,2021,19589.88,STANDARD
+Castilla - La Mancha,Media,All,2020,19121.85,STANDARD
+Castilla - La Mancha,Media,All,2019,19094.33,STANDARD
+Castilla - La Mancha,Media,All,2018,18672.79,STANDARD
+Castilla - La Mancha,Media,All,2017,17998.54,STANDARD
+Castilla - La Mancha,Media,All,2016,18296.04,STANDARD
+Castilla - La Mancha,Media,All,2015,18307.26,STANDARD
+Castilla - La Mancha,Media,All,2014,17583.76,STANDARD
+Castilla - La Mancha,Media,All,2013,17882.3,STANDARD
+Castilla - La Mancha,Media,All,2012,17790.46,STANDARD
+Castilla - La Mancha,Media,All,2011,18081.43,STANDARD
+Castilla - La Mancha,Media,All,2010,17408.66,STANDARD
+Castilla - La Mancha,Media,All,2009,17195.87,STANDARD
+Castilla - La Mancha,Media,All,2008,17046.27,STANDARD
+Castilla - La Mancha,Media,Female,2024,19299.74,STANDARD
+Castilla - La Mancha,Media,Female,2023,18035.12,STANDARD
+Castilla - La Mancha,Media,Female,2022,17640.95,STANDARD
+Castilla - La Mancha,Media,Female,2021,16446.41,STANDARD
+Castilla - La Mancha,Media,Female,2020,16021.5,STANDARD
+Castilla - La Mancha,Media,Female,2019,16204.38,STANDARD
+Castilla - La Mancha,Media,Female,2018,15254.8,STANDARD
+Castilla - La Mancha,Media,Female,2017,15162.95,STANDARD
+Castilla - La Mancha,Media,Female,2016,15495.32,STANDARD
+Castilla - La Mancha,Media,Female,2015,15583.99,STANDARD
+Castilla - La Mancha,Media,Female,2014,14802.1,STANDARD
+Castilla - La Mancha,Media,Female,2013,15044.49,STANDARD
+Castilla - La Mancha,Media,Female,2012,14596.87,STANDARD
+Castilla - La Mancha,Media,Female,2011,15364.48,STANDARD
+Castilla - La Mancha,Media,Female,2010,14611.57,STANDARD
+Castilla - La Mancha,Media,Female,2009,14513.48,STANDARD
+Castilla - La Mancha,Media,Female,2008,14276.73,STANDARD
+Castilla - La Mancha,Media,Male,2024,25500.74,STANDARD
+Castilla - La Mancha,Media,Male,2023,24478.38,STANDARD
+Castilla - La Mancha,Media,Male,2022,24027.21,STANDARD
+Castilla - La Mancha,Media,Male,2021,22168.26,STANDARD
+Castilla - La Mancha,Media,Male,2020,21497.21,STANDARD
+Castilla - La Mancha,Media,Male,2019,21659.32,STANDARD
+Castilla - La Mancha,Media,Male,2018,21724.63,STANDARD
+Castilla - La Mancha,Media,Male,2017,20566.57,STANDARD
+Castilla - La Mancha,Media,Male,2016,20759.74,STANDARD
+Castilla - La Mancha,Media,Male,2015,20720.17,STANDARD
+Castilla - La Mancha,Media,Male,2014,19911.75,STANDARD
+Castilla - La Mancha,Media,Male,2013,20486.46,STANDARD
+Castilla - La Mancha,Media,Male,2012,20455.83,STANDARD
+Castilla - La Mancha,Media,Male,2011,20504.92,STANDARD
+Castilla - La Mancha,Media,Male,2010,19919.41,STANDARD
+Castilla - La Mancha,Media,Male,2009,19353.98,STANDARD
+Castilla - La Mancha,Media,Male,2008,19015.64,STANDARD
+Castilla - La Mancha,Baja,All,2024,20731.56,STANDARD
+Castilla - La Mancha,Baja,All,2023,19625.93,STANDARD
+Castilla - La Mancha,Baja,All,2022,19359.4,STANDARD
+Castilla - La Mancha,Baja,All,2021,18279.49,STANDARD
+Castilla - La Mancha,Baja,All,2020,17593.6,STANDARD
+Castilla - La Mancha,Baja,All,2019,16962.36,STANDARD
+Castilla - La Mancha,Baja,All,2018,17210.11,STANDARD
+Castilla - La Mancha,Baja,All,2017,15901.18,STANDARD
+Castilla - La Mancha,Baja,All,2016,16019.94,STANDARD
+Castilla - La Mancha,Baja,All,2015,15654.78,STANDARD
+Castilla - La Mancha,Baja,All,2014,16057.87,STANDARD
+Castilla - La Mancha,Baja,All,2013,15562.47,STANDARD
+Castilla - La Mancha,Baja,All,2012,15260.95,STANDARD
+Castilla - La Mancha,Baja,All,2011,16007.61,STANDARD
+Castilla - La Mancha,Baja,All,2010,15756.69,STANDARD
+Castilla - La Mancha,Baja,All,2009,15628.71,STANDARD
+Castilla - La Mancha,Baja,All,2008,15794.86,STANDARD
+Castilla - La Mancha,Baja,Female,2024,16443.68,STANDARD
+Castilla - La Mancha,Baja,Female,2023,15287.75,STANDARD
+Castilla - La Mancha,Baja,Female,2022,15505.6,STANDARD
+Castilla - La Mancha,Baja,Female,2021,14672.3,STANDARD
+Castilla - La Mancha,Baja,Female,2020,14074.69,STANDARD
+Castilla - La Mancha,Baja,Female,2019,13499.46,STANDARD
+Castilla - La Mancha,Baja,Female,2018,12646.51,STANDARD
+Castilla - La Mancha,Baja,Female,2017,11987.58,STANDARD
+Castilla - La Mancha,Baja,Female,2016,12101.46,STANDARD
+Castilla - La Mancha,Baja,Female,2015,11493.64,STANDARD
+Castilla - La Mancha,Baja,Female,2014,11169.53,STANDARD
+Castilla - La Mancha,Baja,Female,2013,11803.76,STANDARD
+Castilla - La Mancha,Baja,Female,2012,11859.38,STANDARD
+Castilla - La Mancha,Baja,Female,2011,12257.2,STANDARD
+Castilla - La Mancha,Baja,Female,2010,11890.5,STANDARD
+Castilla - La Mancha,Baja,Female,2009,12203.9,STANDARD
+Castilla - La Mancha,Baja,Female,2008,12659.73,STANDARD
+Castilla - La Mancha,Baja,Male,2024,23156.3,STANDARD
+Castilla - La Mancha,Baja,Male,2023,21851.4,STANDARD
+Castilla - La Mancha,Baja,Male,2022,21648.41,STANDARD
+Castilla - La Mancha,Baja,Male,2021,20249.75,STANDARD
+Castilla - La Mancha,Baja,Male,2020,19670.24,STANDARD
+Castilla - La Mancha,Baja,Male,2019,18835.25,STANDARD
+Castilla - La Mancha,Baja,Male,2018,19437.77,STANDARD
+Castilla - La Mancha,Baja,Male,2017,17986.33,STANDARD
+Castilla - La Mancha,Baja,Male,2016,18009.23,STANDARD
+Castilla - La Mancha,Baja,Male,2015,18080.78,STANDARD
+Castilla - La Mancha,Baja,Male,2014,18721.65,STANDARD
+Castilla - La Mancha,Baja,Male,2013,18020.77,STANDARD
+Castilla - La Mancha,Baja,Male,2012,17129.97,STANDARD
+Castilla - La Mancha,Baja,Male,2011,18001.73,STANDARD
+Castilla - La Mancha,Baja,Male,2010,17779.63,STANDARD
+Castilla - La Mancha,Baja,Male,2009,17047.13,STANDARD
+Castilla - La Mancha,Baja,Male,2008,16938.6,STANDARD
+Cataluña,Todas las ocupaciones,All,2024,31730.05,STANDARD
+Cataluña,Todas las ocupaciones,All,2023,29978.69,STANDARD
+Cataluña,Todas las ocupaciones,All,2022,28774.55,STANDARD
+Cataluña,Todas las ocupaciones,All,2021,28145.02,STANDARD
+Cataluña,Todas las ocupaciones,All,2020,27100.11,STANDARD
+Cataluña,Todas las ocupaciones,All,2019,25968.2,STANDARD
+Cataluña,Todas las ocupaciones,All,2018,25552.84,STANDARD
+Cataluña,Todas las ocupaciones,All,2017,25180.45,STANDARD
+Cataluña,Todas las ocupaciones,All,2016,24454.64,STANDARD
+Cataluña,Todas las ocupaciones,All,2015,24321.57,STANDARD
+Cataluña,Todas las ocupaciones,All,2014,23927.17,STANDARD
+Cataluña,Todas las ocupaciones,All,2013,24253.73,STANDARD
+Cataluña,Todas las ocupaciones,All,2012,24436.39,STANDARD
+Cataluña,Todas las ocupaciones,All,2011,24499.32,STANDARD
+Cataluña,Todas las ocupaciones,All,2010,24449.19,STANDARD
+Cataluña,Todas las ocupaciones,All,2009,23851.31,STANDARD
+Cataluña,Todas las ocupaciones,All,2008,23375.54,STANDARD
+Cataluña,Todas las ocupaciones,Female,2024,29030.09,STANDARD
+Cataluña,Todas las ocupaciones,Female,2023,27240.93,STANDARD
+Cataluña,Todas las ocupaciones,Female,2022,25659.03,STANDARD
+Cataluña,Todas las ocupaciones,Female,2021,25015.94,STANDARD
+Cataluña,Todas las ocupaciones,Female,2020,24096.69,STANDARD
+Cataluña,Todas las ocupaciones,Female,2019,22988.22,STANDARD
+Cataluña,Todas las ocupaciones,Female,2018,22289.9,STANDARD
+Cataluña,Todas las ocupaciones,Female,2017,21801.47,STANDARD
+Cataluña,Todas las ocupaciones,Female,2016,21110.34,STANDARD
+Cataluña,Todas las ocupaciones,Female,2015,20946.56,STANDARD
+Cataluña,Todas las ocupaciones,Female,2014,20324.88,STANDARD
+Cataluña,Todas las ocupaciones,Female,2013,20740.55,STANDARD
+Cataluña,Todas las ocupaciones,Female,2012,20931.07,STANDARD
+Cataluña,Todas las ocupaciones,Female,2011,20799.94,STANDARD
+Cataluña,Todas las ocupaciones,Female,2010,21042.14,STANDARD
+Cataluña,Todas las ocupaciones,Female,2009,20467.14,STANDARD
+Cataluña,Todas las ocupaciones,Female,2008,19928.48,STANDARD
+Cataluña,Todas las ocupaciones,Male,2024,34437.73,STANDARD
+Cataluña,Todas las ocupaciones,Male,2023,32721.58,STANDARD
+Cataluña,Todas las ocupaciones,Male,2022,31878.42,STANDARD
+Cataluña,Todas las ocupaciones,Male,2021,31212.67,STANDARD
+Cataluña,Todas las ocupaciones,Male,2020,30003.62,STANDARD
+Cataluña,Todas las ocupaciones,Male,2019,28965.38,STANDARD
+Cataluña,Todas las ocupaciones,Male,2018,28640.23,STANDARD
+Cataluña,Todas las ocupaciones,Male,2017,28323.31,STANDARD
+Cataluña,Todas las ocupaciones,Male,2016,27572.76,STANDARD
+Cataluña,Todas las ocupaciones,Male,2015,27514.06,STANDARD
+Cataluña,Todas las ocupaciones,Male,2014,27447.71,STANDARD
+Cataluña,Todas las ocupaciones,Male,2013,27684.3,STANDARD
+Cataluña,Todas las ocupaciones,Male,2012,27836.4,STANDARD
+Cataluña,Todas las ocupaciones,Male,2011,28025.61,STANDARD
+Cataluña,Todas las ocupaciones,Male,2010,27601.02,STANDARD
+Cataluña,Todas las ocupaciones,Male,2009,26901.3,STANDARD
+Cataluña,Todas las ocupaciones,Male,2008,26353.89,STANDARD
+Cataluña,Alta,All,2024,42789.91,STANDARD
+Cataluña,Alta,All,2023,40471.97,STANDARD
+Cataluña,Alta,All,2022,38785.57,STANDARD
+Cataluña,Alta,All,2021,38507.03,STANDARD
+Cataluña,Alta,All,2020,36891.57,STANDARD
+Cataluña,Alta,All,2019,35013.82,STANDARD
+Cataluña,Alta,All,2018,34514.36,STANDARD
+Cataluña,Alta,All,2017,33870.88,STANDARD
+Cataluña,Alta,All,2016,33095.84,STANDARD
+Cataluña,Alta,All,2015,32918.96,STANDARD
+Cataluña,Alta,All,2014,32708.2,STANDARD
+Cataluña,Alta,All,2013,33497.14,STANDARD
+Cataluña,Alta,All,2012,33460.8,STANDARD
+Cataluña,Alta,All,2011,32977.21,STANDARD
+Cataluña,Alta,All,2010,33704.06,STANDARD
+Cataluña,Alta,All,2009,32772.66,STANDARD
+Cataluña,Alta,All,2008,32662.22,STANDARD
+Cataluña,Alta,Female,2024,39226.85,STANDARD
+Cataluña,Alta,Female,2023,37340.6,STANDARD
+Cataluña,Alta,Female,2022,35522.56,STANDARD
+Cataluña,Alta,Female,2021,34602.77,STANDARD
+Cataluña,Alta,Female,2020,33339.04,STANDARD
+Cataluña,Alta,Female,2019,31485.9,STANDARD
+Cataluña,Alta,Female,2018,31156.53,STANDARD
+Cataluña,Alta,Female,2017,29992.68,STANDARD
+Cataluña,Alta,Female,2016,29275.79,STANDARD
+Cataluña,Alta,Female,2015,29058.1,STANDARD
+Cataluña,Alta,Female,2014,28418.83,STANDARD
+Cataluña,Alta,Female,2013,29513.23,STANDARD
+Cataluña,Alta,Female,2012,29314.38,STANDARD
+Cataluña,Alta,Female,2011,28594.49,STANDARD
+Cataluña,Alta,Female,2010,29220.24,STANDARD
+Cataluña,Alta,Female,2009,28921.95,STANDARD
+Cataluña,Alta,Female,2008,28569.63,STANDARD
+Cataluña,Alta,Male,2024,47160.91,STANDARD
+Cataluña,Alta,Male,2023,44137.22,STANDARD
+Cataluña,Alta,Male,2022,42419.17,STANDARD
+Cataluña,Alta,Male,2021,42834.85,STANDARD
+Cataluña,Alta,Male,2020,40816.89,STANDARD
+Cataluña,Alta,Male,2019,39078.11,STANDARD
+Cataluña,Alta,Male,2018,37971.19,STANDARD
+Cataluña,Alta,Male,2017,37847.84,STANDARD
+Cataluña,Alta,Male,2016,36935.82,STANDARD
+Cataluña,Alta,Male,2015,36779.38,STANDARD
+Cataluña,Alta,Male,2014,37685.47,STANDARD
+Cataluña,Alta,Male,2013,37256.97,STANDARD
+Cataluña,Alta,Male,2012,37485.3,STANDARD
+Cataluña,Alta,Male,2011,37104.44,STANDARD
+Cataluña,Alta,Male,2010,38335.4,STANDARD
+Cataluña,Alta,Male,2009,36288.88,STANDARD
+Cataluña,Alta,Male,2008,36313.83,STANDARD
+Cataluña,Media,All,2024,25726.95,STANDARD
+Cataluña,Media,All,2023,24361.37,STANDARD
+Cataluña,Media,All,2022,23570.9,STANDARD
+Cataluña,Media,All,2021,22469.76,STANDARD
+Cataluña,Media,All,2020,21826.44,STANDARD
+Cataluña,Media,All,2019,21325.23,STANDARD
+Cataluña,Media,All,2018,21270.78,STANDARD
+Cataluña,Media,All,2017,20614.7,STANDARD
+Cataluña,Media,All,2016,20140.67,STANDARD
+Cataluña,Media,All,2015,20343.23,STANDARD
+Cataluña,Media,All,2014,19416.34,STANDARD
+Cataluña,Media,All,2013,19729.26,STANDARD
+Cataluña,Media,All,2012,19966.65,STANDARD
+Cataluña,Media,All,2011,20105.14,STANDARD
+Cataluña,Media,All,2010,19918.59,STANDARD
+Cataluña,Media,All,2009,19962.71,STANDARD
+Cataluña,Media,All,2008,19516.18,STANDARD
+Cataluña,Media,Female,2024,22889.15,STANDARD
+Cataluña,Media,Female,2023,21379.93,STANDARD
+Cataluña,Media,Female,2022,20406.87,STANDARD
+Cataluña,Media,Female,2021,19505.75,STANDARD
+Cataluña,Media,Female,2020,18902.23,STANDARD
+Cataluña,Media,Female,2019,18448.35,STANDARD
+Cataluña,Media,Female,2018,18089.93,STANDARD
+Cataluña,Media,Female,2017,17346.34,STANDARD
+Cataluña,Media,Female,2016,17064.07,STANDARD
+Cataluña,Media,Female,2015,17407.6,STANDARD
+Cataluña,Media,Female,2014,15935.4,STANDARD
+Cataluña,Media,Female,2013,16997.39,STANDARD
+Cataluña,Media,Female,2012,17131.5,STANDARD
+Cataluña,Media,Female,2011,17184.37,STANDARD
+Cataluña,Media,Female,2010,16949.55,STANDARD
+Cataluña,Media,Female,2009,16935.5,STANDARD
+Cataluña,Media,Female,2008,16472.97,STANDARD
+Cataluña,Media,Male,2024,28767.79,STANDARD
+Cataluña,Media,Male,2023,27741.81,STANDARD
+Cataluña,Media,Male,2022,27182.82,STANDARD
+Cataluña,Media,Male,2021,25830.24,STANDARD
+Cataluña,Media,Male,2020,25220.97,STANDARD
+Cataluña,Media,Male,2019,24688.05,STANDARD
+Cataluña,Media,Male,2018,24856.59,STANDARD
+Cataluña,Media,Male,2017,23953.06,STANDARD
+Cataluña,Media,Male,2016,23387.44,STANDARD
+Cataluña,Media,Male,2015,23509.18,STANDARD
+Cataluña,Media,Male,2014,23085.25,STANDARD
+Cataluña,Media,Male,2013,22969.4,STANDARD
+Cataluña,Media,Male,2012,23154.49,STANDARD
+Cataluña,Media,Male,2011,23495.45,STANDARD
+Cataluña,Media,Male,2010,22902.55,STANDARD
+Cataluña,Media,Male,2009,23305.08,STANDARD
+Cataluña,Media,Male,2008,22753.73,STANDARD
+Cataluña,Baja,All,2024,22804.15,STANDARD
+Cataluña,Baja,All,2023,21476.7,STANDARD
+Cataluña,Baja,All,2022,21049.79,STANDARD
+Cataluña,Baja,All,2021,19959.72,STANDARD
+Cataluña,Baja,All,2020,20139.62,STANDARD
+Cataluña,Baja,All,2019,19493.64,STANDARD
+Cataluña,Baja,All,2018,19522.29,STANDARD
+Cataluña,Baja,All,2017,18718.8,STANDARD
+Cataluña,Baja,All,2016,18048.28,STANDARD
+Cataluña,Baja,All,2015,17978.42,STANDARD
+Cataluña,Baja,All,2014,18128.68,STANDARD
+Cataluña,Baja,All,2013,17734.41,STANDARD
+Cataluña,Baja,All,2012,17726.44,STANDARD
+Cataluña,Baja,All,2011,18269.9,STANDARD
+Cataluña,Baja,All,2010,17638.09,STANDARD
+Cataluña,Baja,All,2009,18228.57,STANDARD
+Cataluña,Baja,All,2008,17986.36,STANDARD
+Cataluña,Baja,Female,2024,17539.82,STANDARD
+Cataluña,Baja,Female,2023,16120.64,STANDARD
+Cataluña,Baja,Female,2022,15449.57,STANDARD
+Cataluña,Baja,Female,2021,14911.0,STANDARD
+Cataluña,Baja,Female,2020,14950.28,STANDARD
+Cataluña,Baja,Female,2019,14649.05,STANDARD
+Cataluña,Baja,Female,2018,14175.36,STANDARD
+Cataluña,Baja,Female,2017,14204.79,STANDARD
+Cataluña,Baja,Female,2016,13435.69,STANDARD
+Cataluña,Baja,Female,2015,13176.25,STANDARD
+Cataluña,Baja,Female,2014,12710.68,STANDARD
+Cataluña,Baja,Female,2013,13027.31,STANDARD
+Cataluña,Baja,Female,2012,13192.41,STANDARD
+Cataluña,Baja,Female,2011,13396.56,STANDARD
+Cataluña,Baja,Female,2010,13119.51,STANDARD
+Cataluña,Baja,Female,2009,13741.98,STANDARD
+Cataluña,Baja,Female,2008,13404.05,STANDARD
+Cataluña,Baja,Male,2024,25926.8,STANDARD
+Cataluña,Baja,Male,2023,24472.38,STANDARD
+Cataluña,Baja,Male,2022,24362.7,STANDARD
+Cataluña,Baja,Male,2021,22789.51,STANDARD
+Cataluña,Baja,Male,2020,22780.55,STANDARD
+Cataluña,Baja,Male,2019,22247.48,STANDARD
+Cataluña,Baja,Male,2018,22426.36,STANDARD
+Cataluña,Baja,Male,2017,21547.53,STANDARD
+Cataluña,Baja,Male,2016,20952.72,STANDARD
+Cataluña,Baja,Male,2015,21123.04,STANDARD
+Cataluña,Baja,Male,2014,21326.96,STANDARD
+Cataluña,Baja,Male,2013,20932.66,STANDARD
+Cataluña,Baja,Male,2012,20836.97,STANDARD
+Cataluña,Baja,Male,2011,21263.23,STANDARD
+Cataluña,Baja,Male,2010,20418.44,STANDARD
+Cataluña,Baja,Male,2009,20578.39,STANDARD
+Cataluña,Baja,Male,2008,20256.62,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2024,26816.98,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2023,25632.37,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2022,24510.34,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2021,23448.29,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2020,22856.7,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2019,22045.66,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2018,22121.05,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2017,21362.39,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2016,21168.81,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2015,20935.41,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2014,20639.58,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2013,20878.02,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2012,21223.72,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2011,21316.34,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2010,20707.24,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2009,20489.79,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,All,2008,19793.62,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2024,24208.4,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2023,23205.68,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2022,22135.35,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2021,20670.5,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2020,20165.73,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2019,19314.58,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2018,19235.72,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2017,18523.81,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2016,18349.52,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2015,17811.38,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2014,17511.66,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2013,17918.36,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2012,17870.88,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2011,18052.49,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2010,17776.59,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2009,17426.72,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Female,2008,16929.69,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2024,29356.69,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2023,27933.36,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2022,26683.85,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2021,25914.86,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2020,25239.04,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2019,24499.53,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2018,24537.07,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2017,23867.74,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2016,23672.18,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2015,23919.14,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2014,23479.71,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2013,23651.4,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2012,24289.23,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2011,24171.87,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2010,23331.71,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2009,22951.64,STANDARD
+Comunitat Valenciana,Todas las ocupaciones,Male,2008,22039.14,STANDARD
+Comunitat Valenciana,Alta,All,2024,37927.0,STANDARD
+Comunitat Valenciana,Alta,All,2023,36239.24,STANDARD
+Comunitat Valenciana,Alta,All,2022,34963.71,STANDARD
+Comunitat Valenciana,Alta,All,2021,33399.7,STANDARD
+Comunitat Valenciana,Alta,All,2020,32577.67,STANDARD
+Comunitat Valenciana,Alta,All,2019,30711.98,STANDARD
+Comunitat Valenciana,Alta,All,2018,30835.78,STANDARD
+Comunitat Valenciana,Alta,All,2017,30648.77,STANDARD
+Comunitat Valenciana,Alta,All,2016,30497.97,STANDARD
+Comunitat Valenciana,Alta,All,2015,30114.28,STANDARD
+Comunitat Valenciana,Alta,All,2014,29215.81,STANDARD
+Comunitat Valenciana,Alta,All,2013,29609.07,STANDARD
+Comunitat Valenciana,Alta,All,2012,29889.71,STANDARD
+Comunitat Valenciana,Alta,All,2011,30906.64,STANDARD
+Comunitat Valenciana,Alta,All,2010,29207.83,STANDARD
+Comunitat Valenciana,Alta,All,2009,29196.86,STANDARD
+Comunitat Valenciana,Alta,All,2008,27871.96,STANDARD
+Comunitat Valenciana,Alta,Female,2024,35769.91,STANDARD
+Comunitat Valenciana,Alta,Female,2023,34404.19,STANDARD
+Comunitat Valenciana,Alta,Female,2022,33232.82,STANDARD
+Comunitat Valenciana,Alta,Female,2021,31021.03,STANDARD
+Comunitat Valenciana,Alta,Female,2020,30058.89,STANDARD
+Comunitat Valenciana,Alta,Female,2019,28706.53,STANDARD
+Comunitat Valenciana,Alta,Female,2018,28480.71,STANDARD
+Comunitat Valenciana,Alta,Female,2017,27359.95,STANDARD
+Comunitat Valenciana,Alta,Female,2016,27556.83,STANDARD
+Comunitat Valenciana,Alta,Female,2015,26778.75,STANDARD
+Comunitat Valenciana,Alta,Female,2014,25986.71,STANDARD
+Comunitat Valenciana,Alta,Female,2013,26347.27,STANDARD
+Comunitat Valenciana,Alta,Female,2012,25995.67,STANDARD
+Comunitat Valenciana,Alta,Female,2011,26876.6,STANDARD
+Comunitat Valenciana,Alta,Female,2010,26006.77,STANDARD
+Comunitat Valenciana,Alta,Female,2009,25472.89,STANDARD
+Comunitat Valenciana,Alta,Female,2008,24300.03,STANDARD
+Comunitat Valenciana,Alta,Male,2024,40218.25,STANDARD
+Comunitat Valenciana,Alta,Male,2023,38307.39,STANDARD
+Comunitat Valenciana,Alta,Male,2022,36774.83,STANDARD
+Comunitat Valenciana,Alta,Male,2021,35742.9,STANDARD
+Comunitat Valenciana,Alta,Male,2020,35087.02,STANDARD
+Comunitat Valenciana,Alta,Male,2019,32673.26,STANDARD
+Comunitat Valenciana,Alta,Male,2018,32941.55,STANDARD
+Comunitat Valenciana,Alta,Male,2017,33855.67,STANDARD
+Comunitat Valenciana,Alta,Male,2016,33302.17,STANDARD
+Comunitat Valenciana,Alta,Male,2015,33447.09,STANDARD
+Comunitat Valenciana,Alta,Male,2014,32300.69,STANDARD
+Comunitat Valenciana,Alta,Male,2013,32783.22,STANDARD
+Comunitat Valenciana,Alta,Male,2012,33582.13,STANDARD
+Comunitat Valenciana,Alta,Male,2011,34392.94,STANDARD
+Comunitat Valenciana,Alta,Male,2010,32167.94,STANDARD
+Comunitat Valenciana,Alta,Male,2009,32413.33,STANDARD
+Comunitat Valenciana,Alta,Male,2008,31020.48,STANDARD
+Comunitat Valenciana,Media,All,2024,22086.77,STANDARD
+Comunitat Valenciana,Media,All,2023,21548.07,STANDARD
+Comunitat Valenciana,Media,All,2022,20263.76,STANDARD
+Comunitat Valenciana,Media,All,2021,19250.96,STANDARD
+Comunitat Valenciana,Media,All,2020,18757.33,STANDARD
+Comunitat Valenciana,Media,All,2019,18734.87,STANDARD
+Comunitat Valenciana,Media,All,2018,18760.01,STANDARD
+Comunitat Valenciana,Media,All,2017,17562.52,STANDARD
+Comunitat Valenciana,Media,All,2016,17591.08,STANDARD
+Comunitat Valenciana,Media,All,2015,17566.77,STANDARD
+Comunitat Valenciana,Media,All,2014,17148.78,STANDARD
+Comunitat Valenciana,Media,All,2013,17234.12,STANDARD
+Comunitat Valenciana,Media,All,2012,17377.64,STANDARD
+Comunitat Valenciana,Media,All,2011,17332.13,STANDARD
+Comunitat Valenciana,Media,All,2010,17540.29,STANDARD
+Comunitat Valenciana,Media,All,2009,16950.55,STANDARD
+Comunitat Valenciana,Media,All,2008,16893.17,STANDARD
+Comunitat Valenciana,Media,Female,2024,19308.96,STANDARD
+Comunitat Valenciana,Media,Female,2023,18433.21,STANDARD
+Comunitat Valenciana,Media,Female,2022,17584.09,STANDARD
+Comunitat Valenciana,Media,Female,2021,16282.23,STANDARD
+Comunitat Valenciana,Media,Female,2020,15975.72,STANDARD
+Comunitat Valenciana,Media,Female,2019,15826.94,STANDARD
+Comunitat Valenciana,Media,Female,2018,15899.16,STANDARD
+Comunitat Valenciana,Media,Female,2017,14937.77,STANDARD
+Comunitat Valenciana,Media,Female,2016,14991.72,STANDARD
+Comunitat Valenciana,Media,Female,2015,14803.03,STANDARD
+Comunitat Valenciana,Media,Female,2014,14232.91,STANDARD
+Comunitat Valenciana,Media,Female,2013,14731.99,STANDARD
+Comunitat Valenciana,Media,Female,2012,14460.76,STANDARD
+Comunitat Valenciana,Media,Female,2011,14725.4,STANDARD
+Comunitat Valenciana,Media,Female,2010,14997.07,STANDARD
+Comunitat Valenciana,Media,Female,2009,14317.54,STANDARD
+Comunitat Valenciana,Media,Female,2008,14366.65,STANDARD
+Comunitat Valenciana,Media,Male,2024,25271.35,STANDARD
+Comunitat Valenciana,Media,Male,2023,24844.84,STANDARD
+Comunitat Valenciana,Media,Male,2022,23136.16,STANDARD
+Comunitat Valenciana,Media,Male,2021,22336.0,STANDARD
+Comunitat Valenciana,Media,Male,2020,21635.39,STANDARD
+Comunitat Valenciana,Media,Male,2019,21714.84,STANDARD
+Comunitat Valenciana,Media,Male,2018,21493.0,STANDARD
+Comunitat Valenciana,Media,Male,2017,20159.07,STANDARD
+Comunitat Valenciana,Media,Male,2016,20273.62,STANDARD
+Comunitat Valenciana,Media,Male,2015,20656.98,STANDARD
+Comunitat Valenciana,Media,Male,2014,20279.85,STANDARD
+Comunitat Valenciana,Media,Male,2013,19996.17,STANDARD
+Comunitat Valenciana,Media,Male,2012,20479.38,STANDARD
+Comunitat Valenciana,Media,Male,2011,20209.98,STANDARD
+Comunitat Valenciana,Media,Male,2010,20064.01,STANDARD
+Comunitat Valenciana,Media,Male,2009,19511.95,STANDARD
+Comunitat Valenciana,Media,Male,2008,19303.27,STANDARD
+Comunitat Valenciana,Baja,All,2024,20327.39,STANDARD
+Comunitat Valenciana,Baja,All,2023,19320.85,STANDARD
+Comunitat Valenciana,Baja,All,2022,19067.57,STANDARD
+Comunitat Valenciana,Baja,All,2021,17926.41,STANDARD
+Comunitat Valenciana,Baja,All,2020,17423.93,STANDARD
+Comunitat Valenciana,Baja,All,2019,16998.25,STANDARD
+Comunitat Valenciana,Baja,All,2018,17517.41,STANDARD
+Comunitat Valenciana,Baja,All,2017,16162.34,STANDARD
+Comunitat Valenciana,Baja,All,2016,15905.56,STANDARD
+Comunitat Valenciana,Baja,All,2015,15735.42,STANDARD
+Comunitat Valenciana,Baja,All,2014,15861.44,STANDARD
+Comunitat Valenciana,Baja,All,2013,15783.04,STANDARD
+Comunitat Valenciana,Baja,All,2012,15825.34,STANDARD
+Comunitat Valenciana,Baja,All,2011,15964.3,STANDARD
+Comunitat Valenciana,Baja,All,2010,15409.47,STANDARD
+Comunitat Valenciana,Baja,All,2009,15721.84,STANDARD
+Comunitat Valenciana,Baja,All,2008,16135.54,STANDARD
+Comunitat Valenciana,Baja,Female,2024,15279.8,STANDARD
+Comunitat Valenciana,Baja,Female,2023,14614.92,STANDARD
+Comunitat Valenciana,Baja,Female,2022,14060.58,STANDARD
+Comunitat Valenciana,Baja,Female,2021,12977.03,STANDARD
+Comunitat Valenciana,Baja,Female,2020,12631.56,STANDARD
+Comunitat Valenciana,Baja,Female,2019,12227.24,STANDARD
+Comunitat Valenciana,Baja,Female,2018,12494.43,STANDARD
+Comunitat Valenciana,Baja,Female,2017,12143.34,STANDARD
+Comunitat Valenciana,Baja,Female,2016,11529.5,STANDARD
+Comunitat Valenciana,Baja,Female,2015,11220.65,STANDARD
+Comunitat Valenciana,Baja,Female,2014,11474.44,STANDARD
+Comunitat Valenciana,Baja,Female,2013,11371.08,STANDARD
+Comunitat Valenciana,Baja,Female,2012,11574.66,STANDARD
+Comunitat Valenciana,Baja,Female,2011,11930.67,STANDARD
+Comunitat Valenciana,Baja,Female,2010,11341.89,STANDARD
+Comunitat Valenciana,Baja,Female,2009,11170.85,STANDARD
+Comunitat Valenciana,Baja,Female,2008,11850.18,STANDARD
+Comunitat Valenciana,Baja,Male,2024,23283.4,STANDARD
+Comunitat Valenciana,Baja,Male,2023,22092.36,STANDARD
+Comunitat Valenciana,Baja,Male,2022,21806.19,STANDARD
+Comunitat Valenciana,Baja,Male,2021,20610.05,STANDARD
+Comunitat Valenciana,Baja,Male,2020,20047.29,STANDARD
+Comunitat Valenciana,Baja,Male,2019,19971.86,STANDARD
+Comunitat Valenciana,Baja,Male,2018,20337.53,STANDARD
+Comunitat Valenciana,Baja,Male,2017,18660.69,STANDARD
+Comunitat Valenciana,Baja,Male,2016,18550.79,STANDARD
+Comunitat Valenciana,Baja,Male,2015,18761.05,STANDARD
+Comunitat Valenciana,Baja,Male,2014,18529.76,STANDARD
+Comunitat Valenciana,Baja,Male,2013,18598.6,STANDARD
+Comunitat Valenciana,Baja,Male,2012,18548.75,STANDARD
+Comunitat Valenciana,Baja,Male,2011,18221.93,STANDARD
+Comunitat Valenciana,Baja,Male,2010,18241.33,STANDARD
+Comunitat Valenciana,Baja,Male,2009,17868.77,STANDARD
+Comunitat Valenciana,Baja,Male,2008,17999.25,STANDARD
+Extremadura,Todas las ocupaciones,All,2024,24979.44,STANDARD
+Extremadura,Todas las ocupaciones,All,2023,23684.22,STANDARD
+Extremadura,Todas las ocupaciones,All,2022,21922.73,STANDARD
+Extremadura,Todas las ocupaciones,All,2021,21393.01,STANDARD
+Extremadura,Todas las ocupaciones,All,2020,20479.3,STANDARD
+Extremadura,Todas las ocupaciones,All,2019,19940.68,STANDARD
+Extremadura,Todas las ocupaciones,All,2018,19947.8,STANDARD
+Extremadura,Todas las ocupaciones,All,2017,19672.4,STANDARD
+Extremadura,Todas las ocupaciones,All,2016,19475.2,STANDARD
+Extremadura,Todas las ocupaciones,All,2015,19564.49,STANDARD
+Extremadura,Todas las ocupaciones,All,2014,19180.57,STANDARD
+Extremadura,Todas las ocupaciones,All,2013,19129.72,STANDARD
+Extremadura,Todas las ocupaciones,All,2012,19721.35,STANDARD
+Extremadura,Todas las ocupaciones,All,2011,19879.46,STANDARD
+Extremadura,Todas las ocupaciones,All,2010,19480.55,STANDARD
+Extremadura,Todas las ocupaciones,All,2009,19099.56,STANDARD
+Extremadura,Todas las ocupaciones,All,2008,18264.9,STANDARD
+Extremadura,Todas las ocupaciones,Female,2024,23296.85,STANDARD
+Extremadura,Todas las ocupaciones,Female,2023,22181.88,STANDARD
+Extremadura,Todas las ocupaciones,Female,2022,20637.14,STANDARD
+Extremadura,Todas las ocupaciones,Female,2021,19833.03,STANDARD
+Extremadura,Todas las ocupaciones,Female,2020,18791.05,STANDARD
+Extremadura,Todas las ocupaciones,Female,2019,18012.58,STANDARD
+Extremadura,Todas las ocupaciones,Female,2018,17972.63,STANDARD
+Extremadura,Todas las ocupaciones,Female,2017,17722.29,STANDARD
+Extremadura,Todas las ocupaciones,Female,2016,17360.28,STANDARD
+Extremadura,Todas las ocupaciones,Female,2015,17304.65,STANDARD
+Extremadura,Todas las ocupaciones,Female,2014,17413.85,STANDARD
+Extremadura,Todas las ocupaciones,Female,2013,16304.55,STANDARD
+Extremadura,Todas las ocupaciones,Female,2012,17401.9,STANDARD
+Extremadura,Todas las ocupaciones,Female,2011,18060.8,STANDARD
+Extremadura,Todas las ocupaciones,Female,2010,17876.85,STANDARD
+Extremadura,Todas las ocupaciones,Female,2009,17549.86,STANDARD
+Extremadura,Todas las ocupaciones,Female,2008,16623.4,STANDARD
+Extremadura,Todas las ocupaciones,Male,2024,26660.75,STANDARD
+Extremadura,Todas las ocupaciones,Male,2023,25179.79,STANDARD
+Extremadura,Todas las ocupaciones,Male,2022,23170.92,STANDARD
+Extremadura,Todas las ocupaciones,Male,2021,22794.52,STANDARD
+Extremadura,Todas las ocupaciones,Male,2020,22071.78,STANDARD
+Extremadura,Todas las ocupaciones,Male,2019,21823.73,STANDARD
+Extremadura,Todas las ocupaciones,Male,2018,21794.57,STANDARD
+Extremadura,Todas las ocupaciones,Male,2017,21585.18,STANDARD
+Extremadura,Todas las ocupaciones,Male,2016,21554.75,STANDARD
+Extremadura,Todas las ocupaciones,Male,2015,21813.81,STANDARD
+Extremadura,Todas las ocupaciones,Male,2014,20829.72,STANDARD
+Extremadura,Todas las ocupaciones,Male,2013,21780.9,STANDARD
+Extremadura,Todas las ocupaciones,Male,2012,21585.3,STANDARD
+Extremadura,Todas las ocupaciones,Male,2011,21318.32,STANDARD
+Extremadura,Todas las ocupaciones,Male,2010,20787.03,STANDARD
+Extremadura,Todas las ocupaciones,Male,2009,20207.93,STANDARD
+Extremadura,Todas las ocupaciones,Male,2008,19390.41,STANDARD
+Extremadura,Alta,All,2024,36445.81,STANDARD
+Extremadura,Alta,All,2023,35232.49,STANDARD
+Extremadura,Alta,All,2022,31774.95,STANDARD
+Extremadura,Alta,All,2021,32222.28,STANDARD
+Extremadura,Alta,All,2020,29995.87,STANDARD
+Extremadura,Alta,All,2019,29618.26,STANDARD
+Extremadura,Alta,All,2018,28714.97,STANDARD
+Extremadura,Alta,All,2017,28423.76,STANDARD
+Extremadura,Alta,All,2016,29142.97,STANDARD
+Extremadura,Alta,All,2015,28299.44,STANDARD
+Extremadura,Alta,All,2014,28125.89,STANDARD
+Extremadura,Alta,All,2013,29783.93,STANDARD
+Extremadura,Alta,All,2012,29703.02,STANDARD
+Extremadura,Alta,All,2011,29194.42,STANDARD
+Extremadura,Alta,All,2010,28418.22,STANDARD
+Extremadura,Alta,All,2009,26598.71,STANDARD
+Extremadura,Alta,All,2008,25816.31,STANDARD
+Extremadura,Alta,Female,2024,35327.19,STANDARD
+Extremadura,Alta,Female,2023,34395.18,STANDARD
+Extremadura,Alta,Female,2022,31212.82,STANDARD
+Extremadura,Alta,Female,2021,30983.01,STANDARD
+Extremadura,Alta,Female,2020,28502.76,STANDARD
+Extremadura,Alta,Female,2019,28252.34,STANDARD
+Extremadura,Alta,Female,2018,27258.72,STANDARD
+Extremadura,Alta,Female,2017,27099.71,STANDARD
+Extremadura,Alta,Female,2016,27268.42,STANDARD
+Extremadura,Alta,Female,2015,25784.79,STANDARD
+Extremadura,Alta,Female,2014,25940.11,STANDARD
+Extremadura,Alta,Female,2013,26650.52,STANDARD
+Extremadura,Alta,Female,2012,27220.71,STANDARD
+Extremadura,Alta,Female,2011,27833.91,STANDARD
+Extremadura,Alta,Female,2010,26446.0,STANDARD
+Extremadura,Alta,Female,2009,24648.13,STANDARD
+Extremadura,Alta,Female,2008,23851.43,STANDARD
+Extremadura,Alta,Male,2024,37867.78,STANDARD
+Extremadura,Alta,Male,2023,36279.4,STANDARD
+Extremadura,Alta,Male,2022,32494.81,STANDARD
+Extremadura,Alta,Male,2021,33695.57,STANDARD
+Extremadura,Alta,Male,2020,31721.8,STANDARD
+Extremadura,Alta,Male,2019,31093.59,STANDARD
+Extremadura,Alta,Male,2018,30498.91,STANDARD
+Extremadura,Alta,Male,2017,29827.62,STANDARD
+Extremadura,Alta,Male,2016,31039.2,STANDARD
+Extremadura,Alta,Male,2015,30912.68,STANDARD
+Extremadura,Alta,Male,2014,30611.89,STANDARD
+Extremadura,Alta,Male,2013,32422.55,STANDARD
+Extremadura,Alta,Male,2012,31772.05,STANDARD
+Extremadura,Alta,Male,2011,30407.04,STANDARD
+Extremadura,Alta,Male,2010,30521.39,STANDARD
+Extremadura,Alta,Male,2009,28332.68,STANDARD
+Extremadura,Alta,Male,2008,27472.4,STANDARD
+Extremadura,Media,All,2024,19543.97,STANDARD
+Extremadura,Media,All,2023,18620.91,STANDARD
+Extremadura,Media,All,2022,17723.78,STANDARD
+Extremadura,Media,All,2021,17200.41,STANDARD
+Extremadura,Media,All,2020,16633.85,STANDARD
+Extremadura,Media,All,2019,16700.5,STANDARD
+Extremadura,Media,All,2018,16420.84,STANDARD
+Extremadura,Media,All,2017,16034.23,STANDARD
+Extremadura,Media,All,2016,15970.62,STANDARD
+Extremadura,Media,All,2015,15801.17,STANDARD
+Extremadura,Media,All,2014,15117.83,STANDARD
+Extremadura,Media,All,2013,16081.85,STANDARD
+Extremadura,Media,All,2012,16309.31,STANDARD
+Extremadura,Media,All,2011,16831.45,STANDARD
+Extremadura,Media,All,2010,15703.35,STANDARD
+Extremadura,Media,All,2009,16526.2,STANDARD
+Extremadura,Media,All,2008,16090.7,STANDARD
+Extremadura,Media,Female,2024,16717.57,STANDARD
+Extremadura,Media,Female,2023,15959.97,STANDARD
+Extremadura,Media,Female,2022,15210.32,STANDARD
+Extremadura,Media,Female,2021,14377.21,STANDARD
+Extremadura,Media,Female,2020,14203.7,STANDARD
+Extremadura,Media,Female,2019,14368.92,STANDARD
+Extremadura,Media,Female,2018,13367.32,STANDARD
+Extremadura,Media,Female,2017,13518.5,STANDARD
+Extremadura,Media,Female,2016,13640.24,STANDARD
+Extremadura,Media,Female,2015,13589.39,STANDARD
+Extremadura,Media,Female,2014,13134.07,STANDARD
+Extremadura,Media,Female,2013,13603.56,STANDARD
+Extremadura,Media,Female,2012,13948.45,STANDARD
+Extremadura,Media,Female,2011,14496.7,STANDARD
+Extremadura,Media,Female,2010,13699.39,STANDARD
+Extremadura,Media,Female,2009,14732.18,STANDARD
+Extremadura,Media,Female,2008,13944.92,STANDARD
+Extremadura,Media,Male,2024,22690.43,STANDARD
+Extremadura,Media,Male,2023,21652.68,STANDARD
+Extremadura,Media,Male,2022,20353.86,STANDARD
+Extremadura,Media,Male,2021,19791.3,STANDARD
+Extremadura,Media,Male,2020,19119.35,STANDARD
+Extremadura,Media,Male,2019,19182.72,STANDARD
+Extremadura,Media,Male,2018,19531.34,STANDARD
+Extremadura,Media,Male,2017,18904.96,STANDARD
+Extremadura,Media,Male,2016,18648.78,STANDARD
+Extremadura,Media,Male,2015,18464.9,STANDARD
+Extremadura,Media,Male,2014,17134.4,STANDARD
+Extremadura,Media,Male,2013,18800.24,STANDARD
+Extremadura,Media,Male,2012,18472.37,STANDARD
+Extremadura,Media,Male,2011,18885.49,STANDARD
+Extremadura,Media,Male,2010,17357.43,STANDARD
+Extremadura,Media,Male,2009,17890.44,STANDARD
+Extremadura,Media,Male,2008,17870.0,STANDARD
+Extremadura,Baja,All,2024,18342.54,STANDARD
+Extremadura,Baja,All,2023,17212.01,STANDARD
+Extremadura,Baja,All,2022,16146.68,STANDARD
+Extremadura,Baja,All,2021,15443.74,STANDARD
+Extremadura,Baja,All,2020,15252.03,STANDARD
+Extremadura,Baja,All,2019,14743.11,STANDARD
+Extremadura,Baja,All,2018,15593.35,STANDARD
+Extremadura,Baja,All,2017,14078.61,STANDARD
+Extremadura,Baja,All,2016,13578.36,STANDARD
+Extremadura,Baja,All,2015,13537.15,STANDARD
+Extremadura,Baja,All,2014,13772.12,STANDARD
+Extremadura,Baja,All,2013,13486.12,STANDARD
+Extremadura,Baja,All,2012,14166.33,STANDARD
+Extremadura,Baja,All,2011,14269.24,STANDARD
+Extremadura,Baja,All,2010,14555.85,STANDARD
+Extremadura,Baja,All,2009,14442.66,STANDARD
+Extremadura,Baja,All,2008,14148.44,STANDARD
+Extremadura,Baja,Female,2024,13850.9,LOW_RELIABILITY
+Extremadura,Baja,Female,2023,13240.27,STANDARD
+Extremadura,Baja,Female,2022,12147.95,LOW_RELIABILITY
+Extremadura,Baja,Female,2021,12292.3,LOW_RELIABILITY
+Extremadura,Baja,Female,2020,12300.57,LOW_RELIABILITY
+Extremadura,Baja,Female,2019,11671.66,STANDARD
+Extremadura,Baja,Female,2018,12283.8,LOW_RELIABILITY
+Extremadura,Baja,Female,2017,11018.7,LOW_RELIABILITY
+Extremadura,Baja,Female,2016,10760.59,LOW_RELIABILITY
+Extremadura,Baja,Female,2015,10317.44,LOW_RELIABILITY
+Extremadura,Baja,Female,2014,10227.47,LOW_RELIABILITY
+Extremadura,Baja,Female,2013,10780.75,LOW_RELIABILITY
+Extremadura,Baja,Female,2012,11285.3,STANDARD
+Extremadura,Baja,Female,2011,11038.04,LOW_RELIABILITY
+Extremadura,Baja,Female,2010,11003.06,LOW_RELIABILITY
+Extremadura,Baja,Female,2009,11471.33,STANDARD
+Extremadura,Baja,Female,2008,11673.94,STANDARD
+Extremadura,Baja,Male,2024,20812.06,STANDARD
+Extremadura,Baja,Male,2023,19343.37,STANDARD
+Extremadura,Baja,Male,2022,18276.23,STANDARD
+Extremadura,Baja,Male,2021,17256.16,STANDARD
+Extremadura,Baja,Male,2020,16959.1,STANDARD
+Extremadura,Baja,Male,2019,16946.94,STANDARD
+Extremadura,Baja,Male,2018,17333.41,STANDARD
+Extremadura,Baja,Male,2017,16019.14,STANDARD
+Extremadura,Baja,Male,2016,15442.54,STANDARD
+Extremadura,Baja,Male,2015,15440.8,STANDARD
+Extremadura,Baja,Male,2014,15680.7,STANDARD
+Extremadura,Baja,Male,2013,15524.72,STANDARD
+Extremadura,Baja,Male,2012,15784.01,STANDARD
+Extremadura,Baja,Male,2011,15965.66,STANDARD
+Extremadura,Baja,Male,2010,16457.59,STANDARD
+Extremadura,Baja,Male,2009,15831.43,STANDARD
+Extremadura,Baja,Male,2008,15042.93,STANDARD
+Galicia,Todas las ocupaciones,All,2024,26547.27,STANDARD
+Galicia,Todas las ocupaciones,All,2023,25279.15,STANDARD
+Galicia,Todas las ocupaciones,All,2022,24169.68,STANDARD
+Galicia,Todas las ocupaciones,All,2021,23305.86,STANDARD
+Galicia,Todas las ocupaciones,All,2020,22834.66,STANDARD
+Galicia,Todas las ocupaciones,All,2019,22177.4,STANDARD
+Galicia,Todas las ocupaciones,All,2018,22244.59,STANDARD
+Galicia,Todas las ocupaciones,All,2017,21605.88,STANDARD
+Galicia,Todas las ocupaciones,All,2016,21082.12,STANDARD
+Galicia,Todas las ocupaciones,All,2015,20624.55,STANDARD
+Galicia,Todas las ocupaciones,All,2014,20195.89,STANDARD
+Galicia,Todas las ocupaciones,All,2013,19824.66,STANDARD
+Galicia,Todas las ocupaciones,All,2012,19389.2,STANDARD
+Galicia,Todas las ocupaciones,All,2011,19970.29,STANDARD
+Galicia,Todas las ocupaciones,All,2010,20241.99,STANDARD
+Galicia,Todas las ocupaciones,All,2009,19806.66,STANDARD
+Galicia,Todas las ocupaciones,All,2008,19156.41,STANDARD
+Galicia,Todas las ocupaciones,Female,2024,24551.26,STANDARD
+Galicia,Todas las ocupaciones,Female,2023,23153.78,STANDARD
+Galicia,Todas las ocupaciones,Female,2022,21912.75,STANDARD
+Galicia,Todas las ocupaciones,Female,2021,20904.37,STANDARD
+Galicia,Todas las ocupaciones,Female,2020,20446.53,STANDARD
+Galicia,Todas las ocupaciones,Female,2019,19818.26,STANDARD
+Galicia,Todas las ocupaciones,Female,2018,19543.17,STANDARD
+Galicia,Todas las ocupaciones,Female,2017,18833.53,STANDARD
+Galicia,Todas las ocupaciones,Female,2016,18294.47,STANDARD
+Galicia,Todas las ocupaciones,Female,2015,18093.26,STANDARD
+Galicia,Todas las ocupaciones,Female,2014,17797.03,STANDARD
+Galicia,Todas las ocupaciones,Female,2013,17258.21,STANDARD
+Galicia,Todas las ocupaciones,Female,2012,16727.15,STANDARD
+Galicia,Todas las ocupaciones,Female,2011,17291.96,STANDARD
+Galicia,Todas las ocupaciones,Female,2010,17691.11,STANDARD
+Galicia,Todas las ocupaciones,Female,2009,17342.32,STANDARD
+Galicia,Todas las ocupaciones,Female,2008,16646.42,STANDARD
+Galicia,Todas las ocupaciones,Male,2024,28637.65,STANDARD
+Galicia,Todas las ocupaciones,Male,2023,27479.85,STANDARD
+Galicia,Todas las ocupaciones,Male,2022,26626.89,STANDARD
+Galicia,Todas las ocupaciones,Male,2021,25794.19,STANDARD
+Galicia,Todas las ocupaciones,Male,2020,25276.16,STANDARD
+Galicia,Todas las ocupaciones,Male,2019,24542.83,STANDARD
+Galicia,Todas las ocupaciones,Male,2018,24826.91,STANDARD
+Galicia,Todas las ocupaciones,Male,2017,24321.64,STANDARD
+Galicia,Todas las ocupaciones,Male,2016,23774.21,STANDARD
+Galicia,Todas las ocupaciones,Male,2015,23189.76,STANDARD
+Galicia,Todas las ocupaciones,Male,2014,22505.05,STANDARD
+Galicia,Todas las ocupaciones,Male,2013,22522.55,STANDARD
+Galicia,Todas las ocupaciones,Male,2012,22059.69,STANDARD
+Galicia,Todas las ocupaciones,Male,2011,22381.85,STANDARD
+Galicia,Todas las ocupaciones,Male,2010,22626.21,STANDARD
+Galicia,Todas las ocupaciones,Male,2009,21829.8,STANDARD
+Galicia,Todas las ocupaciones,Male,2008,21105.6,STANDARD
+Galicia,Alta,All,2024,37054.84,STANDARD
+Galicia,Alta,All,2023,35300.62,STANDARD
+Galicia,Alta,All,2022,33748.83,STANDARD
+Galicia,Alta,All,2021,33416.51,STANDARD
+Galicia,Alta,All,2020,32544.02,STANDARD
+Galicia,Alta,All,2019,30828.29,STANDARD
+Galicia,Alta,All,2018,33374.73,STANDARD
+Galicia,Alta,All,2017,30330.66,STANDARD
+Galicia,Alta,All,2016,29396.11,STANDARD
+Galicia,Alta,All,2015,28856.19,STANDARD
+Galicia,Alta,All,2014,28922.96,STANDARD
+Galicia,Alta,All,2013,27847.54,STANDARD
+Galicia,Alta,All,2012,27809.11,STANDARD
+Galicia,Alta,All,2011,28738.77,STANDARD
+Galicia,Alta,All,2010,29509.02,STANDARD
+Galicia,Alta,All,2009,28285.86,STANDARD
+Galicia,Alta,All,2008,27000.5,STANDARD
+Galicia,Alta,Female,2024,35615.29,STANDARD
+Galicia,Alta,Female,2023,33431.86,STANDARD
+Galicia,Alta,Female,2022,31810.15,STANDARD
+Galicia,Alta,Female,2021,30911.19,STANDARD
+Galicia,Alta,Female,2020,30380.22,STANDARD
+Galicia,Alta,Female,2019,28565.64,STANDARD
+Galicia,Alta,Female,2018,29913.32,STANDARD
+Galicia,Alta,Female,2017,27755.67,STANDARD
+Galicia,Alta,Female,2016,26579.29,STANDARD
+Galicia,Alta,Female,2015,26622.45,STANDARD
+Galicia,Alta,Female,2014,26630.92,STANDARD
+Galicia,Alta,Female,2013,24848.63,STANDARD
+Galicia,Alta,Female,2012,24395.69,STANDARD
+Galicia,Alta,Female,2011,25382.24,STANDARD
+Galicia,Alta,Female,2010,26466.88,STANDARD
+Galicia,Alta,Female,2009,25789.01,STANDARD
+Galicia,Alta,Female,2008,24242.39,STANDARD
+Galicia,Alta,Male,2024,38887.22,STANDARD
+Galicia,Alta,Male,2023,37874.7,STANDARD
+Galicia,Alta,Male,2022,36109.31,STANDARD
+Galicia,Alta,Male,2021,36473.63,STANDARD
+Galicia,Alta,Male,2020,34975.17,STANDARD
+Galicia,Alta,Male,2019,33370.85,STANDARD
+Galicia,Alta,Male,2018,37255.88,STANDARD
+Galicia,Alta,Male,2017,33007.83,STANDARD
+Galicia,Alta,Male,2016,32164.82,STANDARD
+Galicia,Alta,Male,2015,31038.0,STANDARD
+Galicia,Alta,Male,2014,31403.04,STANDARD
+Galicia,Alta,Male,2013,31345.64,STANDARD
+Galicia,Alta,Male,2012,31432.41,STANDARD
+Galicia,Alta,Male,2011,32186.77,STANDARD
+Galicia,Alta,Male,2010,32745.53,STANDARD
+Galicia,Alta,Male,2009,30544.45,STANDARD
+Galicia,Alta,Male,2008,29654.04,STANDARD
+Galicia,Media,All,2024,22176.28,STANDARD
+Galicia,Media,All,2023,21135.48,STANDARD
+Galicia,Media,All,2022,20069.19,STANDARD
+Galicia,Media,All,2021,18957.48,STANDARD
+Galicia,Media,All,2020,18557.14,STANDARD
+Galicia,Media,All,2019,18449.78,STANDARD
+Galicia,Media,All,2018,17875.62,STANDARD
+Galicia,Media,All,2017,17929.12,STANDARD
+Galicia,Media,All,2016,17286.62,STANDARD
+Galicia,Media,All,2015,17127.22,STANDARD
+Galicia,Media,All,2014,16591.15,STANDARD
+Galicia,Media,All,2013,16825.33,STANDARD
+Galicia,Media,All,2012,16070.31,STANDARD
+Galicia,Media,All,2011,16574.42,STANDARD
+Galicia,Media,All,2010,16743.53,STANDARD
+Galicia,Media,All,2009,16513.37,STANDARD
+Galicia,Media,All,2008,16369.61,STANDARD
+Galicia,Media,Female,2024,19452.75,STANDARD
+Galicia,Media,Female,2023,18204.31,STANDARD
+Galicia,Media,Female,2022,17669.65,STANDARD
+Galicia,Media,Female,2021,16286.6,STANDARD
+Galicia,Media,Female,2020,16004.59,STANDARD
+Galicia,Media,Female,2019,16040.73,STANDARD
+Galicia,Media,Female,2018,15337.33,STANDARD
+Galicia,Media,Female,2017,15186.38,STANDARD
+Galicia,Media,Female,2016,14670.36,STANDARD
+Galicia,Media,Female,2015,14903.54,STANDARD
+Galicia,Media,Female,2014,13937.78,STANDARD
+Galicia,Media,Female,2013,14426.68,STANDARD
+Galicia,Media,Female,2012,13827.45,STANDARD
+Galicia,Media,Female,2011,13802.72,STANDARD
+Galicia,Media,Female,2010,14149.68,STANDARD
+Galicia,Media,Female,2009,13807.6,STANDARD
+Galicia,Media,Female,2008,13467.61,STANDARD
+Galicia,Media,Male,2024,25320.83,STANDARD
+Galicia,Media,Male,2023,24260.46,STANDARD
+Galicia,Media,Male,2022,23177.61,STANDARD
+Galicia,Media,Male,2021,21935.97,STANDARD
+Galicia,Media,Male,2020,21655.59,STANDARD
+Galicia,Media,Male,2019,21317.02,STANDARD
+Galicia,Media,Male,2018,20656.46,STANDARD
+Galicia,Media,Male,2017,20886.07,STANDARD
+Galicia,Media,Male,2016,20154.9,STANDARD
+Galicia,Media,Male,2015,19794.67,STANDARD
+Galicia,Media,Male,2014,19314.44,STANDARD
+Galicia,Media,Male,2013,19670.22,STANDARD
+Galicia,Media,Male,2012,18618.39,STANDARD
+Galicia,Media,Male,2011,19276.44,STANDARD
+Galicia,Media,Male,2010,19437.59,STANDARD
+Galicia,Media,Male,2009,18961.0,STANDARD
+Galicia,Media,Male,2008,18834.82,STANDARD
+Galicia,Baja,All,2024,20735.07,STANDARD
+Galicia,Baja,All,2023,19715.44,STANDARD
+Galicia,Baja,All,2022,19212.15,STANDARD
+Galicia,Baja,All,2021,17737.87,STANDARD
+Galicia,Baja,All,2020,17558.13,STANDARD
+Galicia,Baja,All,2019,17613.35,STANDARD
+Galicia,Baja,All,2018,17389.54,STANDARD
+Galicia,Baja,All,2017,16310.99,STANDARD
+Galicia,Baja,All,2016,16106.09,STANDARD
+Galicia,Baja,All,2015,15959.0,STANDARD
+Galicia,Baja,All,2014,15506.87,STANDARD
+Galicia,Baja,All,2013,15316.33,STANDARD
+Galicia,Baja,All,2012,15428.38,STANDARD
+Galicia,Baja,All,2011,15306.5,STANDARD
+Galicia,Baja,All,2010,15506.16,STANDARD
+Galicia,Baja,All,2009,15279.85,STANDARD
+Galicia,Baja,All,2008,15307.43,STANDARD
+Galicia,Baja,Female,2024,16435.69,STANDARD
+Galicia,Baja,Female,2023,15112.35,STANDARD
+Galicia,Baja,Female,2022,15024.11,STANDARD
+Galicia,Baja,Female,2021,13651.74,STANDARD
+Galicia,Baja,Female,2020,13419.45,STANDARD
+Galicia,Baja,Female,2019,13565.67,STANDARD
+Galicia,Baja,Female,2018,13030.95,STANDARD
+Galicia,Baja,Female,2017,12087.82,STANDARD
+Galicia,Baja,Female,2016,12476.66,STANDARD
+Galicia,Baja,Female,2015,12164.6,STANDARD
+Galicia,Baja,Female,2014,12136.34,STANDARD
+Galicia,Baja,Female,2013,11794.6,STANDARD
+Galicia,Baja,Female,2012,12166.42,STANDARD
+Galicia,Baja,Female,2011,12402.85,STANDARD
+Galicia,Baja,Female,2010,12263.5,STANDARD
+Galicia,Baja,Female,2009,12170.18,STANDARD
+Galicia,Baja,Female,2008,11917.7,STANDARD
+Galicia,Baja,Male,2024,23321.15,STANDARD
+Galicia,Baja,Male,2023,22592.41,STANDARD
+Galicia,Baja,Male,2022,21851.16,STANDARD
+Galicia,Baja,Male,2021,20379.17,STANDARD
+Galicia,Baja,Male,2020,19943.44,STANDARD
+Galicia,Baja,Male,2019,20001.74,STANDARD
+Galicia,Baja,Male,2018,19730.38,STANDARD
+Galicia,Baja,Male,2017,19336.11,STANDARD
+Galicia,Baja,Male,2016,18678.23,STANDARD
+Galicia,Baja,Male,2015,18733.33,STANDARD
+Galicia,Baja,Male,2014,17879.54,STANDARD
+Galicia,Baja,Male,2013,17837.45,STANDARD
+Galicia,Baja,Male,2012,17733.77,STANDARD
+Galicia,Baja,Male,2011,17160.03,STANDARD
+Galicia,Baja,Male,2010,17589.87,STANDARD
+Galicia,Baja,Male,2009,17022.7,STANDARD
+Galicia,Baja,Male,2008,16963.23,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2024,34410.01,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2023,32219.6,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2022,31230.73,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2021,29512.58,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2020,28829.06,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2019,27817.76,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2018,27010.93,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2017,27089.12,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2016,26330.14,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2015,26448.04,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2014,26570.35,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2013,26215.36,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2012,26044.39,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2011,25845.2,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2010,25988.95,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2009,25860.65,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,All,2008,25269.61,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2024,31048.41,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2023,29250.2,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2022,28123.47,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2021,26578.07,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2020,25900.29,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2019,24873.79,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2018,23925.99,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2017,24029.31,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2016,23371.33,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2015,23470.06,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2014,23326.94,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2013,22959.28,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2012,22841.15,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2011,22585.38,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2010,22721.17,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2009,22048.25,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Female,2008,21787.75,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2024,37634.49,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2023,35052.21,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2022,34113.4,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2021,32213.88,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2020,31495.31,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2019,30530.89,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2018,29816.34,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2017,29910.43,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2016,29111.2,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2015,29314.09,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2014,29734.23,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2013,29224.3,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2012,29116.2,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2011,28896.67,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2010,29016.28,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2009,29333.06,STANDARD
+"Madrid, Comunidad de",Todas las ocupaciones,Male,2008,28228.42,STANDARD
+"Madrid, Comunidad de",Alta,All,2024,46478.66,STANDARD
+"Madrid, Comunidad de",Alta,All,2023,43431.6,STANDARD
+"Madrid, Comunidad de",Alta,All,2022,42250.67,STANDARD
+"Madrid, Comunidad de",Alta,All,2021,40281.24,STANDARD
+"Madrid, Comunidad de",Alta,All,2020,39056.35,STANDARD
+"Madrid, Comunidad de",Alta,All,2019,38184.52,STANDARD
+"Madrid, Comunidad de",Alta,All,2018,37804.33,STANDARD
+"Madrid, Comunidad de",Alta,All,2017,37525.26,STANDARD
+"Madrid, Comunidad de",Alta,All,2016,36341.31,STANDARD
+"Madrid, Comunidad de",Alta,All,2015,36466.07,STANDARD
+"Madrid, Comunidad de",Alta,All,2014,36801.56,STANDARD
+"Madrid, Comunidad de",Alta,All,2013,36672.54,STANDARD
+"Madrid, Comunidad de",Alta,All,2012,36053.22,STANDARD
+"Madrid, Comunidad de",Alta,All,2011,35959.6,STANDARD
+"Madrid, Comunidad de",Alta,All,2010,36204.46,STANDARD
+"Madrid, Comunidad de",Alta,All,2009,36024.67,STANDARD
+"Madrid, Comunidad de",Alta,All,2008,34857.48,STANDARD
+"Madrid, Comunidad de",Alta,Female,2024,42089.85,STANDARD
+"Madrid, Comunidad de",Alta,Female,2023,39712.27,STANDARD
+"Madrid, Comunidad de",Alta,Female,2022,37991.51,STANDARD
+"Madrid, Comunidad de",Alta,Female,2021,36604.35,STANDARD
+"Madrid, Comunidad de",Alta,Female,2020,35005.28,STANDARD
+"Madrid, Comunidad de",Alta,Female,2019,34040.7,STANDARD
+"Madrid, Comunidad de",Alta,Female,2018,33902.58,STANDARD
+"Madrid, Comunidad de",Alta,Female,2017,33256.47,STANDARD
+"Madrid, Comunidad de",Alta,Female,2016,32419.23,STANDARD
+"Madrid, Comunidad de",Alta,Female,2015,32252.18,STANDARD
+"Madrid, Comunidad de",Alta,Female,2014,32325.71,STANDARD
+"Madrid, Comunidad de",Alta,Female,2013,32534.85,STANDARD
+"Madrid, Comunidad de",Alta,Female,2012,32203.62,STANDARD
+"Madrid, Comunidad de",Alta,Female,2011,31761.85,STANDARD
+"Madrid, Comunidad de",Alta,Female,2010,31783.39,STANDARD
+"Madrid, Comunidad de",Alta,Female,2009,30940.65,STANDARD
+"Madrid, Comunidad de",Alta,Female,2008,30132.82,STANDARD
+"Madrid, Comunidad de",Alta,Male,2024,50904.98,STANDARD
+"Madrid, Comunidad de",Alta,Male,2023,47180.44,STANDARD
+"Madrid, Comunidad de",Alta,Male,2022,46437.32,STANDARD
+"Madrid, Comunidad de",Alta,Male,2021,43884.9,STANDARD
+"Madrid, Comunidad de",Alta,Male,2020,43071.05,STANDARD
+"Madrid, Comunidad de",Alta,Male,2019,42214.51,STANDARD
+"Madrid, Comunidad de",Alta,Male,2018,41496.58,STANDARD
+"Madrid, Comunidad de",Alta,Male,2017,41659.65,STANDARD
+"Madrid, Comunidad de",Alta,Male,2016,40172.85,STANDARD
+"Madrid, Comunidad de",Alta,Male,2015,40833.55,STANDARD
+"Madrid, Comunidad de",Alta,Male,2014,41416.23,STANDARD
+"Madrid, Comunidad de",Alta,Male,2013,40557.47,STANDARD
+"Madrid, Comunidad de",Alta,Male,2012,39679.17,STANDARD
+"Madrid, Comunidad de",Alta,Male,2011,39754.97,STANDARD
+"Madrid, Comunidad de",Alta,Male,2010,40463.86,STANDARD
+"Madrid, Comunidad de",Alta,Male,2009,40688.07,STANDARD
+"Madrid, Comunidad de",Alta,Male,2008,39012.4,STANDARD
+"Madrid, Comunidad de",Media,All,2024,25468.1,STANDARD
+"Madrid, Comunidad de",Media,All,2023,24031.34,STANDARD
+"Madrid, Comunidad de",Media,All,2022,23370.5,STANDARD
+"Madrid, Comunidad de",Media,All,2021,21920.78,STANDARD
+"Madrid, Comunidad de",Media,All,2020,21350.7,STANDARD
+"Madrid, Comunidad de",Media,All,2019,21017.98,STANDARD
+"Madrid, Comunidad de",Media,All,2018,20454.04,STANDARD
+"Madrid, Comunidad de",Media,All,2017,19799.11,STANDARD
+"Madrid, Comunidad de",Media,All,2016,19281.74,STANDARD
+"Madrid, Comunidad de",Media,All,2015,19389.12,STANDARD
+"Madrid, Comunidad de",Media,All,2014,19540.87,STANDARD
+"Madrid, Comunidad de",Media,All,2013,18848.89,STANDARD
+"Madrid, Comunidad de",Media,All,2012,18872.27,STANDARD
+"Madrid, Comunidad de",Media,All,2011,19400.44,STANDARD
+"Madrid, Comunidad de",Media,All,2010,19713.67,STANDARD
+"Madrid, Comunidad de",Media,All,2009,18705.07,STANDARD
+"Madrid, Comunidad de",Media,All,2008,19033.65,STANDARD
+"Madrid, Comunidad de",Media,Female,2024,22805.77,STANDARD
+"Madrid, Comunidad de",Media,Female,2023,21544.6,STANDARD
+"Madrid, Comunidad de",Media,Female,2022,21131.64,STANDARD
+"Madrid, Comunidad de",Media,Female,2021,19391.2,STANDARD
+"Madrid, Comunidad de",Media,Female,2020,18974.36,STANDARD
+"Madrid, Comunidad de",Media,Female,2019,18805.39,STANDARD
+"Madrid, Comunidad de",Media,Female,2018,17978.26,STANDARD
+"Madrid, Comunidad de",Media,Female,2017,17650.09,STANDARD
+"Madrid, Comunidad de",Media,Female,2016,16881.2,STANDARD
+"Madrid, Comunidad de",Media,Female,2015,17081.2,STANDARD
+"Madrid, Comunidad de",Media,Female,2014,17286.23,STANDARD
+"Madrid, Comunidad de",Media,Female,2013,16542.8,STANDARD
+"Madrid, Comunidad de",Media,Female,2012,16696.16,STANDARD
+"Madrid, Comunidad de",Media,Female,2011,17355.54,STANDARD
+"Madrid, Comunidad de",Media,Female,2010,17413.84,STANDARD
+"Madrid, Comunidad de",Media,Female,2009,16152.13,STANDARD
+"Madrid, Comunidad de",Media,Female,2008,16519.05,STANDARD
+"Madrid, Comunidad de",Media,Male,2024,28192.64,STANDARD
+"Madrid, Comunidad de",Media,Male,2023,26537.78,STANDARD
+"Madrid, Comunidad de",Media,Male,2022,25615.3,STANDARD
+"Madrid, Comunidad de",Media,Male,2021,24295.86,STANDARD
+"Madrid, Comunidad de",Media,Male,2020,23560.61,STANDARD
+"Madrid, Comunidad de",Media,Male,2019,23216.55,STANDARD
+"Madrid, Comunidad de",Media,Male,2018,22883.78,STANDARD
+"Madrid, Comunidad de",Media,Male,2017,21918.9,STANDARD
+"Madrid, Comunidad de",Media,Male,2016,21721.53,STANDARD
+"Madrid, Comunidad de",Media,Male,2015,21697.16,STANDARD
+"Madrid, Comunidad de",Media,Male,2014,21728.48,STANDARD
+"Madrid, Comunidad de",Media,Male,2013,21123.04,STANDARD
+"Madrid, Comunidad de",Media,Male,2012,21129.25,STANDARD
+"Madrid, Comunidad de",Media,Male,2011,21550.86,STANDARD
+"Madrid, Comunidad de",Media,Male,2010,21882.69,STANDARD
+"Madrid, Comunidad de",Media,Male,2009,21244.71,STANDARD
+"Madrid, Comunidad de",Media,Male,2008,21449.37,STANDARD
+"Madrid, Comunidad de",Baja,All,2024,21256.03,STANDARD
+"Madrid, Comunidad de",Baja,All,2023,20413.95,STANDARD
+"Madrid, Comunidad de",Baja,All,2022,19010.13,STANDARD
+"Madrid, Comunidad de",Baja,All,2021,18270.05,STANDARD
+"Madrid, Comunidad de",Baja,All,2020,18370.71,STANDARD
+"Madrid, Comunidad de",Baja,All,2019,18105.05,STANDARD
+"Madrid, Comunidad de",Baja,All,2018,16882.56,STANDARD
+"Madrid, Comunidad de",Baja,All,2017,16647.9,STANDARD
+"Madrid, Comunidad de",Baja,All,2016,16100.06,STANDARD
+"Madrid, Comunidad de",Baja,All,2015,16499.64,STANDARD
+"Madrid, Comunidad de",Baja,All,2014,16263.59,STANDARD
+"Madrid, Comunidad de",Baja,All,2013,16654.78,STANDARD
+"Madrid, Comunidad de",Baja,All,2012,17066.44,STANDARD
+"Madrid, Comunidad de",Baja,All,2011,16368.09,STANDARD
+"Madrid, Comunidad de",Baja,All,2010,16904.08,STANDARD
+"Madrid, Comunidad de",Baja,All,2009,17105.52,STANDARD
+"Madrid, Comunidad de",Baja,All,2008,17414.32,STANDARD
+"Madrid, Comunidad de",Baja,Female,2024,16460.76,STANDARD
+"Madrid, Comunidad de",Baja,Female,2023,15786.92,STANDARD
+"Madrid, Comunidad de",Baja,Female,2022,14191.14,STANDARD
+"Madrid, Comunidad de",Baja,Female,2021,14041.09,STANDARD
+"Madrid, Comunidad de",Baja,Female,2020,14387.54,STANDARD
+"Madrid, Comunidad de",Baja,Female,2019,14613.63,STANDARD
+"Madrid, Comunidad de",Baja,Female,2018,12533.37,STANDARD
+"Madrid, Comunidad de",Baja,Female,2017,12610.57,STANDARD
+"Madrid, Comunidad de",Baja,Female,2016,12910.7,STANDARD
+"Madrid, Comunidad de",Baja,Female,2015,13024.58,STANDARD
+"Madrid, Comunidad de",Baja,Female,2014,12296.94,STANDARD
+"Madrid, Comunidad de",Baja,Female,2013,12558.57,STANDARD
+"Madrid, Comunidad de",Baja,Female,2012,12936.88,STANDARD
+"Madrid, Comunidad de",Baja,Female,2011,12422.73,STANDARD
+"Madrid, Comunidad de",Baja,Female,2010,12709.88,STANDARD
+"Madrid, Comunidad de",Baja,Female,2009,12767.38,STANDARD
+"Madrid, Comunidad de",Baja,Female,2008,13095.4,STANDARD
+"Madrid, Comunidad de",Baja,Male,2024,24480.97,STANDARD
+"Madrid, Comunidad de",Baja,Male,2023,23545.16,STANDARD
+"Madrid, Comunidad de",Baja,Male,2022,22055.0,STANDARD
+"Madrid, Comunidad de",Baja,Male,2021,21300.5,STANDARD
+"Madrid, Comunidad de",Baja,Male,2020,20991.74,STANDARD
+"Madrid, Comunidad de",Baja,Male,2019,20414.53,STANDARD
+"Madrid, Comunidad de",Baja,Male,2018,19778.74,STANDARD
+"Madrid, Comunidad de",Baja,Male,2017,19323.56,STANDARD
+"Madrid, Comunidad de",Baja,Male,2016,18279.86,STANDARD
+"Madrid, Comunidad de",Baja,Male,2015,18953.06,STANDARD
+"Madrid, Comunidad de",Baja,Male,2014,19610.33,STANDARD
+"Madrid, Comunidad de",Baja,Male,2013,19714.52,STANDARD
+"Madrid, Comunidad de",Baja,Male,2012,20406.85,STANDARD
+"Madrid, Comunidad de",Baja,Male,2011,19312.99,STANDARD
+"Madrid, Comunidad de",Baja,Male,2010,20214.54,STANDARD
+"Madrid, Comunidad de",Baja,Male,2009,20133.79,STANDARD
+"Madrid, Comunidad de",Baja,Male,2008,19792.23,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2024,26349.36,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2023,25329.87,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2022,23851.69,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2021,23281.39,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2020,22919.62,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2019,22123.99,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2018,21510.59,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2017,21309.22,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2016,21242.5,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2015,20928.98,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2014,20717.07,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2013,20449.83,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2012,20682.01,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2011,21077.49,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2010,20863.37,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2009,20430.4,STANDARD
+"Murcia, Región de",Todas las ocupaciones,All,2008,18911.75,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2024,23395.07,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2023,22474.77,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2022,20956.37,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2021,20189.83,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2020,20007.14,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2019,19431.25,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2018,18598.64,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2017,18048.37,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2016,18033.05,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2015,17540.27,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2014,17500.99,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2013,16957.29,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2012,17457.52,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2011,18053.61,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2010,17838.28,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2009,17384.95,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Female,2008,16020.2,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2024,29006.96,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2023,27799.19,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2022,26240.66,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2021,25674.66,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2020,25227.26,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2019,24289.41,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2018,23670.24,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2017,24009.22,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2016,23947.99,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2015,23773.09,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2014,23419.03,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2013,23428.23,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2012,23487.03,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2011,23460.47,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2010,23482.48,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2009,22628.62,STANDARD
+"Murcia, Región de",Todas las ocupaciones,Male,2008,21174.93,STANDARD
+"Murcia, Región de",Alta,All,2024,39354.76,STANDARD
+"Murcia, Región de",Alta,All,2023,36589.13,STANDARD
+"Murcia, Región de",Alta,All,2022,35912.1,STANDARD
+"Murcia, Región de",Alta,All,2021,33851.47,STANDARD
+"Murcia, Región de",Alta,All,2020,32990.69,STANDARD
+"Murcia, Región de",Alta,All,2019,31546.07,STANDARD
+"Murcia, Región de",Alta,All,2018,30786.55,STANDARD
+"Murcia, Región de",Alta,All,2017,30800.86,STANDARD
+"Murcia, Región de",Alta,All,2016,31934.09,STANDARD
+"Murcia, Región de",Alta,All,2015,31507.56,STANDARD
+"Murcia, Región de",Alta,All,2014,29890.31,STANDARD
+"Murcia, Región de",Alta,All,2013,30854.29,STANDARD
+"Murcia, Región de",Alta,All,2012,30415.12,STANDARD
+"Murcia, Región de",Alta,All,2011,32160.99,STANDARD
+"Murcia, Región de",Alta,All,2010,31071.53,STANDARD
+"Murcia, Región de",Alta,All,2009,29736.08,STANDARD
+"Murcia, Región de",Alta,All,2008,27455.23,STANDARD
+"Murcia, Región de",Alta,Female,2024,36399.16,STANDARD
+"Murcia, Región de",Alta,Female,2023,34214.96,STANDARD
+"Murcia, Región de",Alta,Female,2022,32804.02,STANDARD
+"Murcia, Región de",Alta,Female,2021,30296.6,STANDARD
+"Murcia, Región de",Alta,Female,2020,30560.5,STANDARD
+"Murcia, Región de",Alta,Female,2019,29416.02,STANDARD
+"Murcia, Región de",Alta,Female,2018,28670.53,STANDARD
+"Murcia, Región de",Alta,Female,2017,28361.05,STANDARD
+"Murcia, Región de",Alta,Female,2016,28427.75,STANDARD
+"Murcia, Región de",Alta,Female,2015,28039.71,STANDARD
+"Murcia, Región de",Alta,Female,2014,26029.38,STANDARD
+"Murcia, Región de",Alta,Female,2013,27015.22,STANDARD
+"Murcia, Región de",Alta,Female,2012,26464.04,STANDARD
+"Murcia, Región de",Alta,Female,2011,28331.01,STANDARD
+"Murcia, Región de",Alta,Female,2010,27481.43,STANDARD
+"Murcia, Región de",Alta,Female,2009,27017.3,STANDARD
+"Murcia, Región de",Alta,Female,2008,24912.14,STANDARD
+"Murcia, Región de",Alta,Male,2024,42380.31,STANDARD
+"Murcia, Región de",Alta,Male,2023,38935.44,STANDARD
+"Murcia, Región de",Alta,Male,2022,38524.59,STANDARD
+"Murcia, Región de",Alta,Male,2021,36921.28,STANDARD
+"Murcia, Región de",Alta,Male,2020,35029.87,STANDARD
+"Murcia, Región de",Alta,Male,2019,33424.55,STANDARD
+"Murcia, Región de",Alta,Male,2018,32600.5,STANDARD
+"Murcia, Región de",Alta,Male,2017,32692.57,STANDARD
+"Murcia, Región de",Alta,Male,2016,34983.13,STANDARD
+"Murcia, Región de",Alta,Male,2015,34638.07,STANDARD
+"Murcia, Región de",Alta,Male,2014,33376.86,STANDARD
+"Murcia, Región de",Alta,Male,2013,33970.73,STANDARD
+"Murcia, Región de",Alta,Male,2012,34167.92,STANDARD
+"Murcia, Región de",Alta,Male,2011,35371.54,STANDARD
+"Murcia, Región de",Alta,Male,2010,34162.07,STANDARD
+"Murcia, Región de",Alta,Male,2009,31905.88,STANDARD
+"Murcia, Región de",Alta,Male,2008,29467.37,STANDARD
+"Murcia, Región de",Media,All,2024,21710.1,STANDARD
+"Murcia, Región de",Media,All,2023,21146.62,STANDARD
+"Murcia, Región de",Media,All,2022,19532.18,STANDARD
+"Murcia, Región de",Media,All,2021,19165.96,STANDARD
+"Murcia, Región de",Media,All,2020,19054.59,STANDARD
+"Murcia, Región de",Media,All,2019,18105.58,STANDARD
+"Murcia, Región de",Media,All,2018,17900.76,STANDARD
+"Murcia, Región de",Media,All,2017,17258.93,STANDARD
+"Murcia, Región de",Media,All,2016,16891.75,STANDARD
+"Murcia, Región de",Media,All,2015,17145.5,STANDARD
+"Murcia, Región de",Media,All,2014,16955.96,STANDARD
+"Murcia, Región de",Media,All,2013,17107.91,STANDARD
+"Murcia, Región de",Media,All,2012,16818.93,STANDARD
+"Murcia, Región de",Media,All,2011,16872.82,STANDARD
+"Murcia, Región de",Media,All,2010,17554.05,STANDARD
+"Murcia, Región de",Media,All,2009,17045.19,STANDARD
+"Murcia, Región de",Media,All,2008,15855.76,STANDARD
+"Murcia, Región de",Media,Female,2024,18462.93,STANDARD
+"Murcia, Región de",Media,Female,2023,17836.44,STANDARD
+"Murcia, Región de",Media,Female,2022,17131.89,STANDARD
+"Murcia, Región de",Media,Female,2021,16309.67,STANDARD
+"Murcia, Región de",Media,Female,2020,16124.78,STANDARD
+"Murcia, Región de",Media,Female,2019,15148.71,STANDARD
+"Murcia, Región de",Media,Female,2018,14801.52,STANDARD
+"Murcia, Región de",Media,Female,2017,14246.68,STANDARD
+"Murcia, Región de",Media,Female,2016,14001.44,STANDARD
+"Murcia, Región de",Media,Female,2015,13775.52,STANDARD
+"Murcia, Región de",Media,Female,2014,14188.16,STANDARD
+"Murcia, Región de",Media,Female,2013,14148.06,STANDARD
+"Murcia, Región de",Media,Female,2012,14010.08,STANDARD
+"Murcia, Región de",Media,Female,2011,14169.89,STANDARD
+"Murcia, Región de",Media,Female,2010,14762.84,STANDARD
+"Murcia, Región de",Media,Female,2009,13668.73,STANDARD
+"Murcia, Región de",Media,Female,2008,13078.82,STANDARD
+"Murcia, Región de",Media,Male,2024,25040.75,STANDARD
+"Murcia, Región de",Media,Male,2023,24492.58,STANDARD
+"Murcia, Región de",Media,Male,2022,22000.41,STANDARD
+"Murcia, Región de",Media,Male,2021,21710.47,STANDARD
+"Murcia, Región de",Media,Male,2020,21752.59,STANDARD
+"Murcia, Región de",Media,Male,2019,20923.96,STANDARD
+"Murcia, Región de",Media,Male,2018,20346.47,STANDARD
+"Murcia, Región de",Media,Male,2017,20363.84,STANDARD
+"Murcia, Región de",Media,Male,2016,19784.35,STANDARD
+"Murcia, Región de",Media,Male,2015,20576.76,STANDARD
+"Murcia, Región de",Media,Male,2014,19766.37,STANDARD
+"Murcia, Región de",Media,Male,2013,20182.07,STANDARD
+"Murcia, Región de",Media,Male,2012,19741.93,STANDARD
+"Murcia, Región de",Media,Male,2011,19437.59,STANDARD
+"Murcia, Región de",Media,Male,2010,20359.54,STANDARD
+"Murcia, Región de",Media,Male,2009,20266.03,STANDARD
+"Murcia, Región de",Media,Male,2008,18716.65,STANDARD
+"Murcia, Región de",Baja,All,2024,19271.36,STANDARD
+"Murcia, Región de",Baja,All,2023,18893.28,STANDARD
+"Murcia, Región de",Baja,All,2022,18424.34,STANDARD
+"Murcia, Región de",Baja,All,2021,18073.29,STANDARD
+"Murcia, Región de",Baja,All,2020,17554.23,STANDARD
+"Murcia, Región de",Baja,All,2019,17788.33,STANDARD
+"Murcia, Región de",Baja,All,2018,17284.89,STANDARD
+"Murcia, Región de",Baja,All,2017,16519.5,STANDARD
+"Murcia, Región de",Baja,All,2016,15659.69,STANDARD
+"Murcia, Región de",Baja,All,2015,15865.98,STANDARD
+"Murcia, Región de",Baja,All,2014,15463.92,STANDARD
+"Murcia, Región de",Baja,All,2013,14756.53,STANDARD
+"Murcia, Región de",Baja,All,2012,15198.84,STANDARD
+"Murcia, Región de",Baja,All,2011,15607.42,STANDARD
+"Murcia, Región de",Baja,All,2010,14742.87,STANDARD
+"Murcia, Región de",Baja,All,2009,16424.94,STANDARD
+"Murcia, Región de",Baja,All,2008,15844.03,STANDARD
+"Murcia, Región de",Baja,Female,2024,14419.81,STANDARD
+"Murcia, Región de",Baja,Female,2023,13633.42,STANDARD
+"Murcia, Región de",Baja,Female,2022,13402.42,STANDARD
+"Murcia, Región de",Baja,Female,2021,13141.47,STANDARD
+"Murcia, Región de",Baja,Female,2020,12493.46,STANDARD
+"Murcia, Región de",Baja,Female,2019,13294.48,STANDARD
+"Murcia, Región de",Baja,Female,2018,11335.68,STANDARD
+"Murcia, Región de",Baja,Female,2017,11910.97,STANDARD
+"Murcia, Región de",Baja,Female,2016,11366.67,STANDARD
+"Murcia, Región de",Baja,Female,2015,11329.9,STANDARD
+"Murcia, Región de",Baja,Female,2014,10816.67,STANDARD
+"Murcia, Región de",Baja,Female,2013,10430.44,STANDARD
+"Murcia, Región de",Baja,Female,2012,10359.35,STANDARD
+"Murcia, Región de",Baja,Female,2011,11698.32,STANDARD
+"Murcia, Región de",Baja,Female,2010,11445.72,STANDARD
+"Murcia, Región de",Baja,Female,2009,12206.67,STANDARD
+"Murcia, Región de",Baja,Female,2008,11802.48,STANDARD
+"Murcia, Región de",Baja,Male,2024,22047.46,STANDARD
+"Murcia, Región de",Baja,Male,2023,21593.94,STANDARD
+"Murcia, Región de",Baja,Male,2022,20809.42,STANDARD
+"Murcia, Región de",Baja,Male,2021,20458.61,STANDARD
+"Murcia, Región de",Baja,Male,2020,20130.98,STANDARD
+"Murcia, Región de",Baja,Male,2019,19859.6,STANDARD
+"Murcia, Región de",Baja,Male,2018,20314.17,STANDARD
+"Murcia, Región de",Baja,Male,2017,19201.19,STANDARD
+"Murcia, Región de",Baja,Male,2016,18121.09,STANDARD
+"Murcia, Región de",Baja,Male,2015,18309.15,STANDARD
+"Murcia, Región de",Baja,Male,2014,17900.52,STANDARD
+"Murcia, Región de",Baja,Male,2013,17435.88,STANDARD
+"Murcia, Región de",Baja,Male,2012,17729.7,STANDARD
+"Murcia, Región de",Baja,Male,2011,17514.63,STANDARD
+"Murcia, Región de",Baja,Male,2010,16821.3,STANDARD
+"Murcia, Región de",Baja,Male,2009,17907.47,STANDARD
+"Murcia, Región de",Baja,Male,2008,17494.98,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2024,32605.28,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2023,31199.66,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2022,29189.52,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2021,28459.37,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2020,27995.96,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2019,27493.93,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2018,26364.75,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2017,26329.79,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2016,25468.38,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2015,24863.98,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2014,24700.78,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2013,23836.93,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2012,23784.38,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2011,24384.92,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2010,23824.88,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2009,23657.71,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,All,2008,23342.74,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2024,28776.99,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2023,27461.86,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2022,26033.3,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2021,24809.14,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2020,24047.13,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2019,23728.82,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2018,22697.59,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2017,21898.57,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2016,20946.0,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2015,20563.08,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2014,20163.1,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2013,19364.43,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2012,19462.13,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2011,19977.24,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2010,19927.15,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2009,19487.55,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Female,2008,19212.76,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2024,36143.04,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2023,34623.18,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2022,31959.85,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2021,31643.22,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2020,31317.91,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2019,30564.9,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2018,29546.12,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2017,29699.1,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2016,29098.99,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2015,28727.37,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2014,28659.74,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2013,27848.15,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2012,27632.8,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2011,27834.48,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2010,26982.49,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2009,26755.77,STANDARD
+"Navarra, Comunidad Foral de",Todas las ocupaciones,Male,2008,26635.75,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2024,42941.12,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2023,40805.16,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2022,38765.8,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2021,38692.25,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2020,37673.91,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2019,36139.4,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2018,34719.94,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2017,34589.89,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2016,33877.57,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2015,33339.23,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2014,32121.03,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2013,32575.8,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2012,31313.79,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2011,31486.98,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2010,31306.01,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2009,31083.34,STANDARD
+"Navarra, Comunidad Foral de",Alta,All,2008,29913.18,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2024,38944.14,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2023,37074.86,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2022,35493.33,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2021,34387.58,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2020,32854.88,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2019,31570.34,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2018,31081.63,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2017,29236.64,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2016,28050.42,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2015,28587.4,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2014,26914.82,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2013,27939.93,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2012,26669.08,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2011,26989.6,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2010,27110.45,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2009,26402.34,STANDARD
+"Navarra, Comunidad Foral de",Alta,Female,2008,25699.2,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2024,47689.32,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2023,45129.55,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2022,42370.66,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2021,43357.1,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2020,42500.62,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2019,40678.27,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2018,38711.79,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2017,39774.27,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2016,39586.09,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2015,38458.77,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2014,37936.47,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2013,36704.76,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2012,35701.09,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2011,35262.3,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2010,35630.77,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2009,35653.76,STANDARD
+"Navarra, Comunidad Foral de",Alta,Male,2008,34268.89,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2024,27448.5,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2023,25915.86,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2022,24086.31,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2021,23443.13,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2020,23362.71,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2019,23129.84,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2018,22360.04,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2017,22649.28,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2016,21741.14,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2015,21354.17,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2014,20809.67,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2013,20721.2,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2012,20920.88,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2011,21938.29,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2010,20931.98,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2009,20845.79,STANDARD
+"Navarra, Comunidad Foral de",Media,All,2008,21168.65,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2024,22725.96,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2023,21653.94,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2022,20813.9,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2021,19759.45,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2020,20002.72,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2019,19838.53,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2018,18593.6,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2017,18126.47,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2016,17975.57,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2015,17297.88,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2014,16575.78,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2013,16661.24,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2012,16997.29,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2011,17510.58,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2010,16511.28,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2009,16475.27,STANDARD
+"Navarra, Comunidad Foral de",Media,Female,2008,16865.42,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2024,32215.02,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2023,30429.32,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2022,27329.31,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2021,27202.45,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2020,26661.08,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2019,26311.5,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2018,26299.41,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2017,26614.37,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2016,25192.43,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2015,25596.35,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2014,24518.38,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2013,25001.73,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2012,24747.8,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2011,25813.97,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2010,24413.96,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2009,24667.66,STANDARD
+"Navarra, Comunidad Foral de",Media,Male,2008,24994.23,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2024,26567.4,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2023,26170.09,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2022,24076.11,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2021,22729.89,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2020,22573.36,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2019,22515.64,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2018,22688.96,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2017,21448.58,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2016,21266.51,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2015,20691.76,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2014,19999.37,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2013,20114.29,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2012,19778.96,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2011,20309.69,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2010,18800.65,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2009,19971.86,STANDARD
+"Navarra, Comunidad Foral de",Baja,All,2008,19838.15,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2024,21021.25,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2023,20157.98,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2022,17992.92,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2021,16796.75,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2020,16247.45,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2019,16680.32,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2018,16577.1,LOW_RELIABILITY
+"Navarra, Comunidad Foral de",Baja,Female,2017,15717.16,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2016,15068.69,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2015,14396.52,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2014,13382.43,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2013,14736.89,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2012,14444.85,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2011,15264.91,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2010,13904.05,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2009,14136.56,STANDARD
+"Navarra, Comunidad Foral de",Baja,Female,2008,13945.9,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2024,29602.35,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2023,29233.56,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2022,27186.86,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2021,25592.38,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2020,25807.58,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2019,25399.64,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2018,25518.28,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2017,24033.62,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2016,24392.95,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2015,24053.81,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2014,23989.26,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2013,23619.25,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2012,23518.8,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2011,23299.83,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2010,21849.88,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2009,22261.51,STANDARD
+"Navarra, Comunidad Foral de",Baja,Male,2008,22734.63,STANDARD
+País Vasco,Todas las ocupaciones,All,2024,35170.28,STANDARD
+País Vasco,Todas las ocupaciones,All,2023,33504.92,STANDARD
+País Vasco,Todas las ocupaciones,All,2022,32313.73,STANDARD
+País Vasco,Todas las ocupaciones,All,2021,31063.68,STANDARD
+País Vasco,Todas las ocupaciones,All,2020,30224.16,STANDARD
+País Vasco,Todas las ocupaciones,All,2019,29476.21,STANDARD
+País Vasco,Todas las ocupaciones,All,2018,28470.94,STANDARD
+País Vasco,Todas las ocupaciones,All,2017,28204.49,STANDARD
+País Vasco,Todas las ocupaciones,All,2016,27480.71,STANDARD
+País Vasco,Todas las ocupaciones,All,2015,27571.31,STANDARD
+País Vasco,Todas las ocupaciones,All,2014,27786.57,STANDARD
+País Vasco,Todas las ocupaciones,All,2013,26915.07,STANDARD
+País Vasco,Todas las ocupaciones,All,2012,26535.61,STANDARD
+País Vasco,Todas las ocupaciones,All,2011,26370.36,STANDARD
+País Vasco,Todas las ocupaciones,All,2010,26593.7,STANDARD
+País Vasco,Todas las ocupaciones,All,2009,26162.45,STANDARD
+País Vasco,Todas las ocupaciones,All,2008,25547.13,STANDARD
+País Vasco,Todas las ocupaciones,Female,2024,32300.14,STANDARD
+País Vasco,Todas las ocupaciones,Female,2023,31038.84,STANDARD
+País Vasco,Todas las ocupaciones,Female,2022,29314.69,STANDARD
+País Vasco,Todas las ocupaciones,Female,2021,28084.16,STANDARD
+País Vasco,Todas las ocupaciones,Female,2020,27125.9,STANDARD
+País Vasco,Todas las ocupaciones,Female,2019,26197.62,STANDARD
+País Vasco,Todas las ocupaciones,Female,2018,24757.18,STANDARD
+País Vasco,Todas las ocupaciones,Female,2017,24165.97,STANDARD
+País Vasco,Todas las ocupaciones,Female,2016,23428.18,STANDARD
+País Vasco,Todas las ocupaciones,Female,2015,23537.06,STANDARD
+País Vasco,Todas las ocupaciones,Female,2014,23781.55,STANDARD
+País Vasco,Todas las ocupaciones,Female,2013,22687.39,STANDARD
+País Vasco,Todas las ocupaciones,Female,2012,22313.41,STANDARD
+País Vasco,Todas las ocupaciones,Female,2011,22449.59,STANDARD
+País Vasco,Todas las ocupaciones,Female,2010,22706.1,STANDARD
+País Vasco,Todas las ocupaciones,Female,2009,22502.47,STANDARD
+País Vasco,Todas las ocupaciones,Female,2008,21766.07,STANDARD
+País Vasco,Todas las ocupaciones,Male,2024,37550.07,STANDARD
+País Vasco,Todas las ocupaciones,Male,2023,35600.45,STANDARD
+País Vasco,Todas las ocupaciones,Male,2022,35095.67,STANDARD
+País Vasco,Todas las ocupaciones,Male,2021,33706.34,STANDARD
+País Vasco,Todas las ocupaciones,Male,2020,33040.1,STANDARD
+País Vasco,Todas las ocupaciones,Male,2019,32529.17,STANDARD
+País Vasco,Todas las ocupaciones,Male,2018,31970.3,STANDARD
+País Vasco,Todas las ocupaciones,Male,2017,31618.97,STANDARD
+País Vasco,Todas las ocupaciones,Male,2016,31001.21,STANDARD
+País Vasco,Todas las ocupaciones,Male,2015,31088.99,STANDARD
+País Vasco,Todas las ocupaciones,Male,2014,31271.0,STANDARD
+País Vasco,Todas las ocupaciones,Male,2013,30312.55,STANDARD
+País Vasco,Todas las ocupaciones,Male,2012,30084.89,STANDARD
+País Vasco,Todas las ocupaciones,Male,2011,29492.66,STANDARD
+País Vasco,Todas las ocupaciones,Male,2010,29708.66,STANDARD
+País Vasco,Todas las ocupaciones,Male,2009,28889.92,STANDARD
+País Vasco,Todas las ocupaciones,Male,2008,28264.0,STANDARD
+País Vasco,Alta,All,2024,46212.86,STANDARD
+País Vasco,Alta,All,2023,44076.65,STANDARD
+País Vasco,Alta,All,2022,43209.79,STANDARD
+País Vasco,Alta,All,2021,40836.06,STANDARD
+País Vasco,Alta,All,2020,39766.84,STANDARD
+País Vasco,Alta,All,2019,38232.63,STANDARD
+País Vasco,Alta,All,2018,37689.77,STANDARD
+País Vasco,Alta,All,2017,37014.11,STANDARD
+País Vasco,Alta,All,2016,37152.41,STANDARD
+País Vasco,Alta,All,2015,36249.56,STANDARD
+País Vasco,Alta,All,2014,36212.66,STANDARD
+País Vasco,Alta,All,2013,38012.19,STANDARD
+País Vasco,Alta,All,2012,36697.83,STANDARD
+País Vasco,Alta,All,2011,34888.72,STANDARD
+País Vasco,Alta,All,2010,35317.23,STANDARD
+País Vasco,Alta,All,2009,34125.14,STANDARD
+País Vasco,Alta,All,2008,32833.36,STANDARD
+País Vasco,Alta,Female,2024,44266.91,STANDARD
+País Vasco,Alta,Female,2023,42205.08,STANDARD
+País Vasco,Alta,Female,2022,40273.52,STANDARD
+País Vasco,Alta,Female,2021,38287.0,STANDARD
+País Vasco,Alta,Female,2020,36804.78,STANDARD
+País Vasco,Alta,Female,2019,35794.03,STANDARD
+País Vasco,Alta,Female,2018,34305.81,STANDARD
+País Vasco,Alta,Female,2017,33814.32,STANDARD
+País Vasco,Alta,Female,2016,33564.44,STANDARD
+País Vasco,Alta,Female,2015,32514.86,STANDARD
+País Vasco,Alta,Female,2014,32372.08,STANDARD
+País Vasco,Alta,Female,2013,33985.66,STANDARD
+País Vasco,Alta,Female,2012,32053.83,STANDARD
+País Vasco,Alta,Female,2011,31287.56,STANDARD
+País Vasco,Alta,Female,2010,31553.32,STANDARD
+País Vasco,Alta,Female,2009,30561.5,STANDARD
+País Vasco,Alta,Female,2008,29469.71,STANDARD
+País Vasco,Alta,Male,2024,48241.48,STANDARD
+País Vasco,Alta,Male,2023,46126.92,STANDARD
+País Vasco,Alta,Male,2022,46658.64,STANDARD
+País Vasco,Alta,Male,2021,43539.82,STANDARD
+País Vasco,Alta,Male,2020,42982.85,STANDARD
+País Vasco,Alta,Male,2019,40849.03,STANDARD
+País Vasco,Alta,Male,2018,42028.08,STANDARD
+País Vasco,Alta,Male,2017,40042.88,STANDARD
+País Vasco,Alta,Male,2016,40708.36,STANDARD
+País Vasco,Alta,Male,2015,39960.85,STANDARD
+País Vasco,Alta,Male,2014,40366.78,STANDARD
+País Vasco,Alta,Male,2013,41023.24,STANDARD
+País Vasco,Alta,Male,2012,40529.77,STANDARD
+País Vasco,Alta,Male,2011,37915.91,STANDARD
+País Vasco,Alta,Male,2010,38626.57,STANDARD
+País Vasco,Alta,Male,2009,37442.95,STANDARD
+País Vasco,Alta,Male,2008,35659.9,STANDARD
+País Vasco,Media,All,2024,28399.39,STANDARD
+País Vasco,Media,All,2023,27404.82,STANDARD
+País Vasco,Media,All,2022,26164.71,STANDARD
+País Vasco,Media,All,2021,25145.23,STANDARD
+País Vasco,Media,All,2020,24537.13,STANDARD
+País Vasco,Media,All,2019,24363.29,STANDARD
+País Vasco,Media,All,2018,23463.67,STANDARD
+País Vasco,Media,All,2017,23308.4,STANDARD
+País Vasco,Media,All,2016,22657.1,STANDARD
+País Vasco,Media,All,2015,22955.32,STANDARD
+País Vasco,Media,All,2014,23010.08,STANDARD
+País Vasco,Media,All,2013,21797.93,STANDARD
+País Vasco,Media,All,2012,22073.79,STANDARD
+País Vasco,Media,All,2011,22470.77,STANDARD
+País Vasco,Media,All,2010,21996.03,STANDARD
+País Vasco,Media,All,2009,21886.73,STANDARD
+País Vasco,Media,All,2008,21862.43,STANDARD
+País Vasco,Media,Female,2024,24468.56,STANDARD
+País Vasco,Media,Female,2023,24056.39,STANDARD
+País Vasco,Media,Female,2022,22947.12,STANDARD
+País Vasco,Media,Female,2021,21800.1,STANDARD
+País Vasco,Media,Female,2020,21112.26,STANDARD
+País Vasco,Media,Female,2019,20445.54,STANDARD
+País Vasco,Media,Female,2018,19007.34,STANDARD
+País Vasco,Media,Female,2017,18762.49,STANDARD
+País Vasco,Media,Female,2016,18428.21,STANDARD
+País Vasco,Media,Female,2015,19061.49,STANDARD
+País Vasco,Media,Female,2014,18277.3,STANDARD
+País Vasco,Media,Female,2013,18635.01,STANDARD
+País Vasco,Media,Female,2012,18693.62,STANDARD
+País Vasco,Media,Female,2011,18766.47,STANDARD
+País Vasco,Media,Female,2010,18019.12,STANDARD
+País Vasco,Media,Female,2009,17737.29,STANDARD
+País Vasco,Media,Female,2008,17881.87,STANDARD
+País Vasco,Media,Male,2024,32002.67,STANDARD
+País Vasco,Media,Male,2023,30529.66,STANDARD
+País Vasco,Media,Male,2022,29564.51,STANDARD
+País Vasco,Media,Male,2021,28845.69,STANDARD
+País Vasco,Media,Male,2020,28506.37,STANDARD
+País Vasco,Media,Male,2019,28938.5,STANDARD
+País Vasco,Media,Male,2018,27893.02,STANDARD
+País Vasco,Media,Male,2017,27714.23,STANDARD
+País Vasco,Media,Male,2016,26851.36,STANDARD
+País Vasco,Media,Male,2015,26877.57,STANDARD
+País Vasco,Media,Male,2014,27329.55,STANDARD
+País Vasco,Media,Male,2013,24983.75,STANDARD
+País Vasco,Media,Male,2012,25489.32,STANDARD
+País Vasco,Media,Male,2011,25874.22,STANDARD
+País Vasco,Media,Male,2010,25513.97,STANDARD
+País Vasco,Media,Male,2009,25207.44,STANDARD
+País Vasco,Media,Male,2008,25123.18,STANDARD
+País Vasco,Baja,All,2024,27727.75,STANDARD
+País Vasco,Baja,All,2023,26247.62,STANDARD
+País Vasco,Baja,All,2022,25875.52,STANDARD
+País Vasco,Baja,All,2021,24469.18,STANDARD
+País Vasco,Baja,All,2020,23519.14,STANDARD
+País Vasco,Baja,All,2019,23610.61,STANDARD
+País Vasco,Baja,All,2018,23226.38,STANDARD
+País Vasco,Baja,All,2017,22233.22,STANDARD
+País Vasco,Baja,All,2016,22049.56,STANDARD
+País Vasco,Baja,All,2015,22761.12,STANDARD
+País Vasco,Baja,All,2014,21394.31,STANDARD
+País Vasco,Baja,All,2013,21740.13,STANDARD
+País Vasco,Baja,All,2012,21085.83,STANDARD
+País Vasco,Baja,All,2011,21474.95,STANDARD
+País Vasco,Baja,All,2010,20790.57,STANDARD
+País Vasco,Baja,All,2009,21124.24,STANDARD
+País Vasco,Baja,All,2008,21730.26,STANDARD
+País Vasco,Baja,Female,2024,18835.16,STANDARD
+País Vasco,Baja,Female,2023,17720.64,STANDARD
+País Vasco,Baja,Female,2022,17850.91,STANDARD
+País Vasco,Baja,Female,2021,16631.35,STANDARD
+País Vasco,Baja,Female,2020,16387.13,STANDARD
+País Vasco,Baja,Female,2019,16890.14,STANDARD
+País Vasco,Baja,Female,2018,15207.98,STANDARD
+País Vasco,Baja,Female,2017,15194.42,STANDARD
+País Vasco,Baja,Female,2016,15157.51,STANDARD
+País Vasco,Baja,Female,2015,15500.63,STANDARD
+País Vasco,Baja,Female,2014,14363.78,STANDARD
+País Vasco,Baja,Female,2013,15231.24,STANDARD
+País Vasco,Baja,Female,2012,15187.25,STANDARD
+País Vasco,Baja,Female,2011,15252.4,STANDARD
+País Vasco,Baja,Female,2010,14874.91,STANDARD
+País Vasco,Baja,Female,2009,14371.31,STANDARD
+País Vasco,Baja,Female,2008,15257.72,STANDARD
+País Vasco,Baja,Male,2024,31642.47,STANDARD
+País Vasco,Baja,Male,2023,29911.82,STANDARD
+País Vasco,Baja,Male,2022,29598.93,STANDARD
+País Vasco,Baja,Male,2021,27676.77,STANDARD
+País Vasco,Baja,Male,2020,26475.82,STANDARD
+País Vasco,Baja,Male,2019,26757.8,STANDARD
+País Vasco,Baja,Male,2018,27170.38,STANDARD
+País Vasco,Baja,Male,2017,25912.81,STANDARD
+País Vasco,Baja,Male,2016,25742.93,STANDARD
+País Vasco,Baja,Male,2015,26531.13,STANDARD
+País Vasco,Baja,Male,2014,25005.59,STANDARD
+País Vasco,Baja,Male,2013,25335.19,STANDARD
+País Vasco,Baja,Male,2012,24484.66,STANDARD
+País Vasco,Baja,Male,2011,24783.65,STANDARD
+País Vasco,Baja,Male,2010,23924.36,STANDARD
+País Vasco,Baja,Male,2009,23939.34,STANDARD
+País Vasco,Baja,Male,2008,24405.97,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2024,27855.4,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2023,26319.06,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2022,24903.38,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2021,23716.88,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2020,23292.63,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2019,22877.13,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2018,22641.17,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2017,22234.21,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2016,21999.02,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2015,21756.79,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2014,21954.1,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2013,20628.81,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2012,20346.24,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2011,20996.76,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2010,21035.86,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2009,21179.93,STANDARD
+"Rioja, La",Todas las ocupaciones,All,2008,20674.16,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2024,25840.18,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2023,24307.34,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2022,22264.39,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2021,21135.77,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2020,20959.44,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2019,20377.23,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2018,19770.93,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2017,19353.55,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2016,19047.2,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2015,18762.15,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2014,18959.85,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2013,17435.56,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2012,17486.66,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2011,18328.41,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2010,18131.05,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2009,18702.22,STANDARD
+"Rioja, La",Todas las ocupaciones,Female,2008,18364.2,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2024,30027.67,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2023,28482.01,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2022,27741.6,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2021,26488.06,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2020,25664.88,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2019,25342.99,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2018,25593.27,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2017,24820.49,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2016,24653.37,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2015,24532.64,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2014,24814.25,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2013,23641.12,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2012,23097.08,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2011,23512.09,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2010,23641.44,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2009,23240.0,STANDARD
+"Rioja, La",Todas las ocupaciones,Male,2008,22549.68,STANDARD
+"Rioja, La",Alta,All,2024,38136.92,STANDARD
+"Rioja, La",Alta,All,2023,35642.92,STANDARD
+"Rioja, La",Alta,All,2022,34031.9,STANDARD
+"Rioja, La",Alta,All,2021,33164.58,STANDARD
+"Rioja, La",Alta,All,2020,32529.32,STANDARD
+"Rioja, La",Alta,All,2019,32119.52,STANDARD
+"Rioja, La",Alta,All,2018,32622.22,STANDARD
+"Rioja, La",Alta,All,2017,31143.85,STANDARD
+"Rioja, La",Alta,All,2016,30515.83,STANDARD
+"Rioja, La",Alta,All,2015,30805.42,STANDARD
+"Rioja, La",Alta,All,2014,30915.35,STANDARD
+"Rioja, La",Alta,All,2013,29910.26,STANDARD
+"Rioja, La",Alta,All,2012,28266.33,STANDARD
+"Rioja, La",Alta,All,2011,29691.42,STANDARD
+"Rioja, La",Alta,All,2010,29722.92,STANDARD
+"Rioja, La",Alta,All,2009,28988.24,STANDARD
+"Rioja, La",Alta,All,2008,28793.45,STANDARD
+"Rioja, La",Alta,Female,2024,36572.98,STANDARD
+"Rioja, La",Alta,Female,2023,34160.94,STANDARD
+"Rioja, La",Alta,Female,2022,32463.3,STANDARD
+"Rioja, La",Alta,Female,2021,30693.62,STANDARD
+"Rioja, La",Alta,Female,2020,30670.14,STANDARD
+"Rioja, La",Alta,Female,2019,30543.61,STANDARD
+"Rioja, La",Alta,Female,2018,29199.31,STANDARD
+"Rioja, La",Alta,Female,2017,28325.74,STANDARD
+"Rioja, La",Alta,Female,2016,27068.5,STANDARD
+"Rioja, La",Alta,Female,2015,28114.16,STANDARD
+"Rioja, La",Alta,Female,2014,28226.79,STANDARD
+"Rioja, La",Alta,Female,2013,25162.46,STANDARD
+"Rioja, La",Alta,Female,2012,25030.25,STANDARD
+"Rioja, La",Alta,Female,2011,26897.78,STANDARD
+"Rioja, La",Alta,Female,2010,25945.88,STANDARD
+"Rioja, La",Alta,Female,2009,26236.72,STANDARD
+"Rioja, La",Alta,Female,2008,26615.09,STANDARD
+"Rioja, La",Alta,Male,2024,40332.4,STANDARD
+"Rioja, La",Alta,Male,2023,37724.88,STANDARD
+"Rioja, La",Alta,Male,2022,36100.78,STANDARD
+"Rioja, La",Alta,Male,2021,36716.26,STANDARD
+"Rioja, La",Alta,Male,2020,34986.37,STANDARD
+"Rioja, La",Alta,Male,2019,33884.96,STANDARD
+"Rioja, La",Alta,Male,2018,36697.68,STANDARD
+"Rioja, La",Alta,Male,2017,34283.51,STANDARD
+"Rioja, La",Alta,Male,2016,34311.22,STANDARD
+"Rioja, La",Alta,Male,2015,33733.28,STANDARD
+"Rioja, La",Alta,Male,2014,33624.54,STANDARD
+"Rioja, La",Alta,Male,2013,34718.53,STANDARD
+"Rioja, La",Alta,Male,2012,31659.91,STANDARD
+"Rioja, La",Alta,Male,2011,32810.35,STANDARD
+"Rioja, La",Alta,Male,2010,33924.91,STANDARD
+"Rioja, La",Alta,Male,2009,31744.23,STANDARD
+"Rioja, La",Alta,Male,2008,31070.22,STANDARD
+"Rioja, La",Media,All,2024,23072.5,STANDARD
+"Rioja, La",Media,All,2023,22158.82,STANDARD
+"Rioja, La",Media,All,2022,21228.46,STANDARD
+"Rioja, La",Media,All,2021,19728.23,STANDARD
+"Rioja, La",Media,All,2020,19380.44,STANDARD
+"Rioja, La",Media,All,2019,19321.95,STANDARD
+"Rioja, La",Media,All,2018,19254.54,STANDARD
+"Rioja, La",Media,All,2017,18346.28,STANDARD
+"Rioja, La",Media,All,2016,18693.65,STANDARD
+"Rioja, La",Media,All,2015,18461.52,STANDARD
+"Rioja, La",Media,All,2014,17874.38,STANDARD
+"Rioja, La",Media,All,2013,16964.09,STANDARD
+"Rioja, La",Media,All,2012,17031.57,STANDARD
+"Rioja, La",Media,All,2011,17719.91,STANDARD
+"Rioja, La",Media,All,2010,18073.34,STANDARD
+"Rioja, La",Media,All,2009,18184.44,STANDARD
+"Rioja, La",Media,All,2008,17974.9,STANDARD
+"Rioja, La",Media,Female,2024,20226.24,STANDARD
+"Rioja, La",Media,Female,2023,19222.0,STANDARD
+"Rioja, La",Media,Female,2022,17706.34,STANDARD
+"Rioja, La",Media,Female,2021,16652.84,STANDARD
+"Rioja, La",Media,Female,2020,16435.0,STANDARD
+"Rioja, La",Media,Female,2019,16799.28,STANDARD
+"Rioja, La",Media,Female,2018,16951.6,STANDARD
+"Rioja, La",Media,Female,2017,15344.78,STANDARD
+"Rioja, La",Media,Female,2016,15883.04,STANDARD
+"Rioja, La",Media,Female,2015,15333.82,STANDARD
+"Rioja, La",Media,Female,2014,14787.63,STANDARD
+"Rioja, La",Media,Female,2013,14650.04,STANDARD
+"Rioja, La",Media,Female,2012,14381.09,STANDARD
+"Rioja, La",Media,Female,2011,14926.56,STANDARD
+"Rioja, La",Media,Female,2010,15444.6,STANDARD
+"Rioja, La",Media,Female,2009,15533.49,STANDARD
+"Rioja, La",Media,Female,2008,15106.18,STANDARD
+"Rioja, La",Media,Male,2024,26332.05,STANDARD
+"Rioja, La",Media,Male,2023,25674.75,STANDARD
+"Rioja, La",Media,Male,2022,25284.22,STANDARD
+"Rioja, La",Media,Male,2021,23250.71,STANDARD
+"Rioja, La",Media,Male,2020,22597.54,STANDARD
+"Rioja, La",Media,Male,2019,22153.55,STANDARD
+"Rioja, La",Media,Male,2018,21928.3,STANDARD
+"Rioja, La",Media,Male,2017,21200.45,STANDARD
+"Rioja, La",Media,Male,2016,21373.75,STANDARD
+"Rioja, La",Media,Male,2015,21709.63,STANDARD
+"Rioja, La",Media,Male,2014,21695.23,STANDARD
+"Rioja, La",Media,Male,2013,19384.88,STANDARD
+"Rioja, La",Media,Male,2012,20089.9,STANDARD
+"Rioja, La",Media,Male,2011,20622.74,STANDARD
+"Rioja, La",Media,Male,2010,20548.22,STANDARD
+"Rioja, La",Media,Male,2009,20745.2,STANDARD
+"Rioja, La",Media,Male,2008,20724.2,STANDARD
+"Rioja, La",Baja,All,2024,20973.68,STANDARD
+"Rioja, La",Baja,All,2023,19954.14,STANDARD
+"Rioja, La",Baja,All,2022,18711.17,STANDARD
+"Rioja, La",Baja,All,2021,18478.36,STANDARD
+"Rioja, La",Baja,All,2020,17954.69,STANDARD
+"Rioja, La",Baja,All,2019,17634.09,STANDARD
+"Rioja, La",Baja,All,2018,18328.4,STANDARD
+"Rioja, La",Baja,All,2017,17374.19,STANDARD
+"Rioja, La",Baja,All,2016,17061.69,STANDARD
+"Rioja, La",Baja,All,2015,16575.5,STANDARD
+"Rioja, La",Baja,All,2014,17213.57,STANDARD
+"Rioja, La",Baja,All,2013,15847.99,STANDARD
+"Rioja, La",Baja,All,2012,16142.9,STANDARD
+"Rioja, La",Baja,All,2011,16687.52,STANDARD
+"Rioja, La",Baja,All,2010,16398.24,STANDARD
+"Rioja, La",Baja,All,2009,16879.89,STANDARD
+"Rioja, La",Baja,All,2008,16683.86,STANDARD
+"Rioja, La",Baja,Female,2024,15352.51,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2023,14656.79,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2022,13134.49,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2021,13120.42,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2020,12621.58,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2019,11913.35,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2018,12785.84,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2017,12083.9,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2016,12251.57,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2015,11103.82,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2014,12927.73,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2013,12025.02,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2012,12251.86,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2011,12690.73,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2010,11851.31,LOW_RELIABILITY
+"Rioja, La",Baja,Female,2009,12959.78,STANDARD
+"Rioja, La",Baja,Female,2008,12815.04,STANDARD
+"Rioja, La",Baja,Male,2024,24486.83,STANDARD
+"Rioja, La",Baja,Male,2023,23038.51,STANDARD
+"Rioja, La",Baja,Male,2022,22550.4,STANDARD
+"Rioja, La",Baja,Male,2021,21854.55,STANDARD
+"Rioja, La",Baja,Male,2020,21200.55,STANDARD
+"Rioja, La",Baja,Male,2019,21407.91,STANDARD
+"Rioja, La",Baja,Male,2018,21899.58,STANDARD
+"Rioja, La",Baja,Male,2017,20617.27,STANDARD
+"Rioja, La",Baja,Male,2016,20032.77,STANDARD
+"Rioja, La",Baja,Male,2015,19812.57,STANDARD
+"Rioja, La",Baja,Male,2014,19506.98,STANDARD
+"Rioja, La",Baja,Male,2013,18514.84,STANDARD
+"Rioja, La",Baja,Male,2012,18466.89,STANDARD
+"Rioja, La",Baja,Male,2011,19213.32,STANDARD
+"Rioja, La",Baja,Male,2010,19213.87,STANDARD
+"Rioja, La",Baja,Male,2009,18773.83,STANDARD
+"Rioja, La",Baja,Male,2008,18489.64,STANDARD

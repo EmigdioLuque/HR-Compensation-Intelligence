@@ -1,0 +1,970 @@
+economic_activity,gender,year,annual_salary,quality_flag
+B_S Todas las secciones,All,2024,29540.26,STANDARD
+B_S Todas las secciones,All,2023,28049.94,STANDARD
+B_S Todas las secciones,All,2022,26948.87,STANDARD
+B_S Todas las secciones,All,2021,25896.82,STANDARD
+B_S Todas las secciones,All,2020,25165.51,STANDARD
+B_S Todas las secciones,All,2019,24395.98,STANDARD
+B_S Todas las secciones,All,2018,24009.12,STANDARD
+B_S Todas las secciones,All,2017,23646.5,STANDARD
+B_S Todas las secciones,All,2016,23156.34,STANDARD
+B_S Todas las secciones,All,2015,23106.3,STANDARD
+B_S Todas las secciones,All,2014,22858.17,STANDARD
+B_S Todas las secciones,All,2013,22697.86,STANDARD
+B_S Todas las secciones,All,2012,22726.44,STANDARD
+B_S Todas las secciones,All,2011,22899.35,STANDARD
+B_S Todas las secciones,All,2010,22790.2,STANDARD
+B_S Todas las secciones,All,2009,22511.47,STANDARD
+B_S Todas las secciones,All,2008,21883.42,STANDARD
+B_S Todas las secciones,Female,2024,26904.9,STANDARD
+B_S Todas las secciones,Female,2023,25591.31,STANDARD
+B_S Todas las secciones,Female,2022,24359.82,STANDARD
+B_S Todas las secciones,Female,2021,23175.95,STANDARD
+B_S Todas las secciones,Female,2020,22467.48,STANDARD
+B_S Todas las secciones,Female,2019,21682.02,STANDARD
+B_S Todas las secciones,Female,2018,21011.89,STANDARD
+B_S Todas las secciones,Female,2017,20607.85,STANDARD
+B_S Todas las secciones,Female,2016,20131.41,STANDARD
+B_S Todas las secciones,Female,2015,20051.58,STANDARD
+B_S Todas las secciones,Female,2014,19744.82,STANDARD
+B_S Todas las secciones,Female,2013,19514.58,STANDARD
+B_S Todas las secciones,Female,2012,19537.33,STANDARD
+B_S Todas las secciones,Female,2011,19767.59,STANDARD
+B_S Todas las secciones,Female,2010,19735.22,STANDARD
+B_S Todas las secciones,Female,2009,19502.02,STANDARD
+B_S Todas las secciones,Female,2008,18910.62,STANDARD
+B_S Todas las secciones,Male,2024,32057.55,STANDARD
+B_S Todas las secciones,Male,2023,30372.49,STANDARD
+B_S Todas las secciones,Male,2022,29381.84,STANDARD
+B_S Todas las secciones,Male,2021,28388.69,STANDARD
+B_S Todas las secciones,Male,2020,27642.52,STANDARD
+B_S Todas las secciones,Male,2019,26934.38,STANDARD
+B_S Todas las secciones,Male,2018,26738.19,STANDARD
+B_S Todas las secciones,Male,2017,26391.84,STANDARD
+B_S Todas las secciones,Male,2016,25924.43,STANDARD
+B_S Todas las secciones,Male,2015,25992.76,STANDARD
+B_S Todas las secciones,Male,2014,25727.24,STANDARD
+B_S Todas las secciones,Male,2013,25675.17,STANDARD
+B_S Todas las secciones,Male,2012,25682.05,STANDARD
+B_S Todas las secciones,Male,2011,25667.89,STANDARD
+B_S Todas las secciones,Male,2010,25479.74,STANDARD
+B_S Todas las secciones,Male,2009,25001.05,STANDARD
+B_S Todas las secciones,Male,2008,24203.33,STANDARD
+B Industrias extractivas,All,2024,41951.74,STANDARD
+B Industrias extractivas,All,2023,38869.23,STANDARD
+B Industrias extractivas,All,2022,36308.58,STANDARD
+B Industrias extractivas,All,2021,34866.39,STANDARD
+B Industrias extractivas,All,2020,34424.68,STANDARD
+B Industrias extractivas,All,2019,34159.42,STANDARD
+B Industrias extractivas,All,2018,33990.57,STANDARD
+B Industrias extractivas,All,2017,32555.75,STANDARD
+B Industrias extractivas,All,2016,32400.69,STANDARD
+B Industrias extractivas,All,2015,32494.07,STANDARD
+B Industrias extractivas,All,2014,32971.21,STANDARD
+B Industrias extractivas,All,2013,31389.5,STANDARD
+B Industrias extractivas,All,2012,30236.84,STANDARD
+B Industrias extractivas,All,2011,29223.47,STANDARD
+B Industrias extractivas,All,2010,28373.35,STANDARD
+B Industrias extractivas,All,2009,27051.36,STANDARD
+B Industrias extractivas,All,2008,26647.03,STANDARD
+B Industrias extractivas,Female,2024,51101.45,LOW_RELIABILITY
+B Industrias extractivas,Female,2023,45189.94,LOW_RELIABILITY
+B Industrias extractivas,Female,2022,42851.51,LOW_RELIABILITY
+B Industrias extractivas,Female,2021,41919.95,LOW_RELIABILITY
+B Industrias extractivas,Female,2020,40804.11,LOW_RELIABILITY
+B Industrias extractivas,Female,2019,39732.29,LOW_RELIABILITY
+B Industrias extractivas,Female,2018,38900.71,LOW_RELIABILITY
+B Industrias extractivas,Female,2017,35259.06,LOW_RELIABILITY
+B Industrias extractivas,Female,2016,35133.36,LOW_RELIABILITY
+B Industrias extractivas,Female,2015,36885.69,LOW_RELIABILITY
+B Industrias extractivas,Female,2014,38303.3,LOW_RELIABILITY
+B Industrias extractivas,Female,2013,29485.44,LOW_RELIABILITY
+B Industrias extractivas,Female,2012,27562.19,LOW_RELIABILITY
+B Industrias extractivas,Female,2011,25943.52,LOW_RELIABILITY
+B Industrias extractivas,Female,2010,24728.07,LOW_RELIABILITY
+B Industrias extractivas,Female,2009,26213.08,LOW_RELIABILITY
+B Industrias extractivas,Female,2008,23057.4,LOW_RELIABILITY
+B Industrias extractivas,Male,2024,40224.17,STANDARD
+B Industrias extractivas,Male,2023,37724.88,STANDARD
+B Industrias extractivas,Male,2022,35064.02,STANDARD
+B Industrias extractivas,Male,2021,33557.99,STANDARD
+B Industrias extractivas,Male,2020,33198.8,STANDARD
+B Industrias extractivas,Male,2019,33116.69,STANDARD
+B Industrias extractivas,Male,2018,33095.45,STANDARD
+B Industrias extractivas,Male,2017,32127.49,STANDARD
+B Industrias extractivas,Male,2016,31968.68,STANDARD
+B Industrias extractivas,Male,2015,31770.89,STANDARD
+B Industrias extractivas,Male,2014,32130.12,STANDARD
+B Industrias extractivas,Male,2013,31714.85,STANDARD
+B Industrias extractivas,Male,2012,30628.55,STANDARD
+B Industrias extractivas,Male,2011,29602.06,STANDARD
+B Industrias extractivas,Male,2010,28713.18,STANDARD
+B Industrias extractivas,Male,2009,27123.0,STANDARD
+B Industrias extractivas,Male,2008,26981.1,STANDARD
+C Industria manufacturera,All,2024,32881.61,STANDARD
+C Industria manufacturera,All,2023,31064.13,STANDARD
+C Industria manufacturera,All,2022,30000.69,STANDARD
+C Industria manufacturera,All,2021,28585.65,STANDARD
+C Industria manufacturera,All,2020,27875.98,STANDARD
+C Industria manufacturera,All,2019,27604.74,STANDARD
+C Industria manufacturera,All,2018,27640.12,STANDARD
+C Industria manufacturera,All,2017,27214.3,STANDARD
+C Industria manufacturera,All,2016,26698.42,STANDARD
+C Industria manufacturera,All,2015,26543.77,STANDARD
+C Industria manufacturera,All,2014,26476.73,STANDARD
+C Industria manufacturera,All,2013,26042.43,STANDARD
+C Industria manufacturera,All,2012,25510.48,STANDARD
+C Industria manufacturera,All,2011,25308.11,STANDARD
+C Industria manufacturera,All,2010,24863.7,STANDARD
+C Industria manufacturera,All,2009,23907.49,STANDARD
+C Industria manufacturera,All,2008,23615.61,STANDARD
+C Industria manufacturera,Female,2024,29118.1,STANDARD
+C Industria manufacturera,Female,2023,27028.65,STANDARD
+C Industria manufacturera,Female,2022,25932.76,STANDARD
+C Industria manufacturera,Female,2021,24456.75,STANDARD
+C Industria manufacturera,Female,2020,23765.8,STANDARD
+C Industria manufacturera,Female,2019,23339.25,STANDARD
+C Industria manufacturera,Female,2018,23091.83,STANDARD
+C Industria manufacturera,Female,2017,22857.78,STANDARD
+C Industria manufacturera,Female,2016,22261.93,STANDARD
+C Industria manufacturera,Female,2015,22001.02,STANDARD
+C Industria manufacturera,Female,2014,21923.13,STANDARD
+C Industria manufacturera,Female,2013,21464.92,STANDARD
+C Industria manufacturera,Female,2012,20975.22,STANDARD
+C Industria manufacturera,Female,2011,20683.04,STANDARD
+C Industria manufacturera,Female,2010,20584.23,STANDARD
+C Industria manufacturera,Female,2009,19727.98,STANDARD
+C Industria manufacturera,Female,2008,19072.72,STANDARD
+C Industria manufacturera,Male,2024,34336.38,STANDARD
+C Industria manufacturera,Male,2023,32604.23,STANDARD
+C Industria manufacturera,Male,2022,31544.67,STANDARD
+C Industria manufacturera,Male,2021,30102.28,STANDARD
+C Industria manufacturera,Male,2020,29383.74,STANDARD
+C Industria manufacturera,Male,2019,29188.87,STANDARD
+C Industria manufacturera,Male,2018,29288.25,STANDARD
+C Industria manufacturera,Male,2017,28741.18,STANDARD
+C Industria manufacturera,Male,2016,28256.2,STANDARD
+C Industria manufacturera,Male,2015,28129.88,STANDARD
+C Industria manufacturera,Male,2014,28086.91,STANDARD
+C Industria manufacturera,Male,2013,27657.92,STANDARD
+C Industria manufacturera,Male,2012,27110.11,STANDARD
+C Industria manufacturera,Male,2011,26923.02,STANDARD
+C Industria manufacturera,Male,2010,26355.18,STANDARD
+C Industria manufacturera,Male,2009,25341.93,STANDARD
+C Industria manufacturera,Male,2008,25233.51,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2024,57931.81,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2023,54447.96,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2022,55470.69,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2021,52985.83,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2020,53775.71,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2019,52162.53,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2018,51237.33,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2017,52014.79,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2016,50992.09,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2015,51919.72,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2014,51034.67,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2013,52827.56,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2012,52324.67,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2011,50371.41,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2010,48803.35,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2009,50536.7,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",All,2008,48578.65,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2024,50357.48,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2023,47681.37,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2022,49546.23,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2021,45462.89,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2020,45975.8,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2019,45012.17,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2018,44395.92,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2017,44656.93,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2016,44147.19,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2015,43674.19,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2014,43473.8,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2013,44341.93,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2012,44634.43,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2011,44662.78,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2010,41782.57,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2009,42200.77,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Female,2008,41504.03,LOW_RELIABILITY
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2024,61154.83,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2023,57221.12,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2022,57488.36,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2021,55829.66,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2020,56481.61,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2019,54357.93,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2018,53379.93,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2017,54199.45,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2016,52959.98,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2015,54024.87,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2014,53084.89,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2013,55348.54,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2012,54195.64,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2011,51612.34,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2010,50426.25,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2009,52190.69,STANDARD
+"D Suministro de energía eléctrica, gas, vapor y aire acondicionado",Male,2008,50177.13,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2024,32362.61,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2023,30957.29,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2022,30444.93,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2021,29277.93,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2020,27854.25,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2019,27486.42,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2018,27289.63,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2017,26937.32,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2016,26319.91,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2015,26340.27,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2014,25959.23,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2013,25291.38,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2012,25188.51,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2011,25570.26,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2010,24972.27,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2009,23617.24,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",All,2008,22590.49,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2024,30047.33,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2023,28399.96,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2022,28501.84,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2021,26520.12,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2020,25020.33,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2019,24622.26,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2018,24302.84,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2017,24010.74,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2016,23184.64,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2015,22616.21,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2014,22345.48,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2013,21693.7,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2012,21670.86,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2011,21065.6,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2010,20981.76,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2009,19280.18,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Female,2008,18508.17,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2024,32944.02,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2023,31618.62,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2022,30972.7,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2021,29983.61,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2020,28548.11,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2019,28214.35,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2018,28074.77,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2017,27628.19,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2016,27154.16,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2015,27340.59,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2014,26846.4,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2013,26208.7,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2012,26070.16,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2011,26724.73,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2010,26020.4,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2009,24745.68,STANDARD
+"E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Male,2008,23720.73,STANDARD
+F Construcción,All,2024,26965.09,STANDARD
+F Construcción,All,2023,25469.87,STANDARD
+F Construcción,All,2022,25149.41,STANDARD
+F Construcción,All,2021,24136.94,STANDARD
+F Construcción,All,2020,23104.64,STANDARD
+F Construcción,All,2019,22789.3,STANDARD
+F Construcción,All,2018,22971.05,STANDARD
+F Construcción,All,2017,22607.96,STANDARD
+F Construcción,All,2016,22163.46,STANDARD
+F Construcción,All,2015,22660.82,STANDARD
+F Construcción,All,2014,22608.41,STANDARD
+F Construcción,All,2013,22720.53,STANDARD
+F Construcción,All,2012,22686.24,STANDARD
+F Construcción,All,2011,22541.0,STANDARD
+F Construcción,All,2010,21962.13,STANDARD
+F Construcción,All,2009,21774.7,STANDARD
+F Construcción,All,2008,20706.74,STANDARD
+F Construcción,Female,2024,25817.08,STANDARD
+F Construcción,Female,2023,25326.53,STANDARD
+F Construcción,Female,2022,26258.91,STANDARD
+F Construcción,Female,2021,22640.24,STANDARD
+F Construcción,Female,2020,21188.0,STANDARD
+F Construcción,Female,2019,21388.78,STANDARD
+F Construcción,Female,2018,21919.0,STANDARD
+F Construcción,Female,2017,20588.67,STANDARD
+F Construcción,Female,2016,20361.67,STANDARD
+F Construcción,Female,2015,20060.54,STANDARD
+F Construcción,Female,2014,21483.17,STANDARD
+F Construcción,Female,2013,20636.21,STANDARD
+F Construcción,Female,2012,21441.66,STANDARD
+F Construcción,Female,2011,21029.69,STANDARD
+F Construcción,Female,2010,20189.84,STANDARD
+F Construcción,Female,2009,20011.47,STANDARD
+F Construcción,Female,2008,19873.24,STANDARD
+F Construcción,Male,2024,27131.83,STANDARD
+F Construcción,Male,2023,25489.41,STANDARD
+F Construcción,Male,2022,25001.32,STANDARD
+F Construcción,Male,2021,24361.97,STANDARD
+F Construcción,Male,2020,23402.34,STANDARD
+F Construcción,Male,2019,22997.41,STANDARD
+F Construcción,Male,2018,23118.32,STANDARD
+F Construcción,Male,2017,22927.3,STANDARD
+F Construcción,Male,2016,22460.86,STANDARD
+F Construcción,Male,2015,23113.93,STANDARD
+F Construcción,Male,2014,22783.0,STANDARD
+F Construcción,Male,2013,23067.15,STANDARD
+F Construcción,Male,2012,22910.95,STANDARD
+F Construcción,Male,2011,22783.96,STANDARD
+F Construcción,Male,2010,22239.83,STANDARD
+F Construcción,Male,2009,22067.19,STANDARD
+F Construcción,Male,2008,20844.73,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2024,25778.97,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2023,24137.4,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2022,23209.55,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2021,22215.28,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2020,21393.49,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2019,21120.76,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2018,21006.17,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2017,20608.77,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2016,19781.4,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2015,19651.05,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2014,19771.86,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2013,19069.16,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2012,19473.68,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2011,19444.62,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2010,19008.19,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2009,19498.77,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",All,2008,18545.85,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2024,22673.6,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2023,21130.85,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2022,20084.02,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2021,19026.11,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2020,18243.62,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2019,17981.78,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2018,17741.19,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2017,17377.72,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2016,16726.51,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2015,16481.34,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2014,16528.98,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2013,16297.15,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2012,16446.74,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2011,16140.67,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2010,15964.03,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2009,16074.16,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Female,2008,15253.79,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2024,28938.65,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2023,27243.61,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2022,26378.32,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2021,25298.04,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2020,24411.89,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2019,24237.93,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2018,24277.23,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2017,23829.7,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2016,22826.01,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2015,22903.7,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2014,22987.94,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2013,22043.76,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2012,22702.32,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2011,22924.26,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2010,22386.69,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2009,22843.08,STANDARD
+"G Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Male,2008,21673.4,STANDARD
+H Transporte y almacenamiento,All,2024,28910.3,STANDARD
+H Transporte y almacenamiento,All,2023,27687.67,STANDARD
+H Transporte y almacenamiento,All,2022,27354.39,STANDARD
+H Transporte y almacenamiento,All,2021,25545.48,STANDARD
+H Transporte y almacenamiento,All,2020,25033.4,STANDARD
+H Transporte y almacenamiento,All,2019,24368.8,STANDARD
+H Transporte y almacenamiento,All,2018,24653.86,STANDARD
+H Transporte y almacenamiento,All,2017,24079.84,STANDARD
+H Transporte y almacenamiento,All,2016,23611.32,STANDARD
+H Transporte y almacenamiento,All,2015,23937.81,STANDARD
+H Transporte y almacenamiento,All,2014,23604.85,STANDARD
+H Transporte y almacenamiento,All,2013,23525.42,STANDARD
+H Transporte y almacenamiento,All,2012,23454.25,STANDARD
+H Transporte y almacenamiento,All,2011,23346.59,STANDARD
+H Transporte y almacenamiento,All,2010,22990.76,STANDARD
+H Transporte y almacenamiento,All,2009,22196.86,STANDARD
+H Transporte y almacenamiento,All,2008,21823.95,STANDARD
+H Transporte y almacenamiento,Female,2024,28972.27,STANDARD
+H Transporte y almacenamiento,Female,2023,28081.06,STANDARD
+H Transporte y almacenamiento,Female,2022,26569.15,STANDARD
+H Transporte y almacenamiento,Female,2021,24286.3,STANDARD
+H Transporte y almacenamiento,Female,2020,24082.98,STANDARD
+H Transporte y almacenamiento,Female,2019,22868.25,STANDARD
+H Transporte y almacenamiento,Female,2018,22595.67,STANDARD
+H Transporte y almacenamiento,Female,2017,22210.81,STANDARD
+H Transporte y almacenamiento,Female,2016,22176.39,STANDARD
+H Transporte y almacenamiento,Female,2015,22039.75,STANDARD
+H Transporte y almacenamiento,Female,2014,21991.84,STANDARD
+H Transporte y almacenamiento,Female,2013,21844.42,STANDARD
+H Transporte y almacenamiento,Female,2012,21580.65,STANDARD
+H Transporte y almacenamiento,Female,2011,21663.87,STANDARD
+H Transporte y almacenamiento,Female,2010,20835.77,STANDARD
+H Transporte y almacenamiento,Female,2009,19262.12,STANDARD
+H Transporte y almacenamiento,Female,2008,18506.62,STANDARD
+H Transporte y almacenamiento,Male,2024,28889.39,STANDARD
+H Transporte y almacenamiento,Male,2023,27560.34,STANDARD
+H Transporte y almacenamiento,Male,2022,27598.32,STANDARD
+H Transporte y almacenamiento,Male,2021,25939.1,STANDARD
+H Transporte y almacenamiento,Male,2020,25336.12,STANDARD
+H Transporte y almacenamiento,Male,2019,24852.57,STANDARD
+H Transporte y almacenamiento,Male,2018,25274.9,STANDARD
+H Transporte y almacenamiento,Male,2017,24618.8,STANDARD
+H Transporte y almacenamiento,Male,2016,24010.1,STANDARD
+H Transporte y almacenamiento,Male,2015,24497.46,STANDARD
+H Transporte y almacenamiento,Male,2014,24069.79,STANDARD
+H Transporte y almacenamiento,Male,2013,24022.66,STANDARD
+H Transporte y almacenamiento,Male,2012,23998.5,STANDARD
+H Transporte y almacenamiento,Male,2011,23820.98,STANDARD
+H Transporte y almacenamiento,Male,2010,23616.48,STANDARD
+H Transporte y almacenamiento,Male,2009,23073.94,STANDARD
+H Transporte y almacenamiento,Male,2008,22873.71,STANDARD
+I Hostelería,All,2024,17653.42,STANDARD
+I Hostelería,All,2023,16985.78,STANDARD
+I Hostelería,All,2022,16274.71,STANDARD
+I Hostelería,All,2021,14632.81,STANDARD
+I Hostelería,All,2020,14136.95,STANDARD
+I Hostelería,All,2019,14561.75,STANDARD
+I Hostelería,All,2018,14345.3,STANDARD
+I Hostelería,All,2017,14540.14,STANDARD
+I Hostelería,All,2016,14125.34,STANDARD
+I Hostelería,All,2015,13977.06,STANDARD
+I Hostelería,All,2014,13636.04,STANDARD
+I Hostelería,All,2013,13851.08,STANDARD
+I Hostelería,All,2012,13867.02,STANDARD
+I Hostelería,All,2011,14234.54,STANDARD
+I Hostelería,All,2010,14629.55,STANDARD
+I Hostelería,All,2009,13996.7,STANDARD
+I Hostelería,All,2008,13957.49,STANDARD
+I Hostelería,Female,2024,16222.08,STANDARD
+I Hostelería,Female,2023,15676.28,STANDARD
+I Hostelería,Female,2022,15022.32,STANDARD
+I Hostelería,Female,2021,13388.55,STANDARD
+I Hostelería,Female,2020,12874.08,STANDARD
+I Hostelería,Female,2019,13410.37,STANDARD
+I Hostelería,Female,2018,12808.88,STANDARD
+I Hostelería,Female,2017,13161.33,STANDARD
+I Hostelería,Female,2016,12608.92,STANDARD
+I Hostelería,Female,2015,12563.08,STANDARD
+I Hostelería,Female,2014,12311.78,STANDARD
+I Hostelería,Female,2013,12536.29,STANDARD
+I Hostelería,Female,2012,12694.16,STANDARD
+I Hostelería,Female,2011,12645.88,STANDARD
+I Hostelería,Female,2010,12825.48,STANDARD
+I Hostelería,Female,2009,12518.34,STANDARD
+I Hostelería,Female,2008,12404.49,STANDARD
+I Hostelería,Male,2024,19526.77,STANDARD
+I Hostelería,Male,2023,18701.7,STANDARD
+I Hostelería,Male,2022,17921.24,STANDARD
+I Hostelería,Male,2021,16229.88,STANDARD
+I Hostelería,Male,2020,15767.95,STANDARD
+I Hostelería,Male,2019,16134.55,STANDARD
+I Hostelería,Male,2018,16271.82,STANDARD
+I Hostelería,Male,2017,16138.88,STANDARD
+I Hostelería,Male,2016,15907.9,STANDARD
+I Hostelería,Male,2015,15751.27,STANDARD
+I Hostelería,Male,2014,15368.45,STANDARD
+I Hostelería,Male,2013,15552.49,STANDARD
+I Hostelería,Male,2012,15518.31,STANDARD
+I Hostelería,Male,2011,16216.7,STANDARD
+I Hostelería,Male,2010,16891.74,STANDARD
+I Hostelería,Male,2009,15940.32,STANDARD
+I Hostelería,Male,2008,15885.32,STANDARD
+J Información y comunicaciones,All,2024,42741.94,STANDARD
+J Información y comunicaciones,All,2023,39674.43,STANDARD
+J Información y comunicaciones,All,2022,37438.55,STANDARD
+J Información y comunicaciones,All,2021,36630.48,STANDARD
+J Información y comunicaciones,All,2020,35663.8,STANDARD
+J Información y comunicaciones,All,2019,34641.28,STANDARD
+J Información y comunicaciones,All,2018,33117.64,STANDARD
+J Información y comunicaciones,All,2017,33664.26,STANDARD
+J Información y comunicaciones,All,2016,32448.31,STANDARD
+J Información y comunicaciones,All,2015,33046.23,STANDARD
+J Información y comunicaciones,All,2014,32754.21,STANDARD
+J Información y comunicaciones,All,2013,33137.17,STANDARD
+J Información y comunicaciones,All,2012,32522.11,STANDARD
+J Información y comunicaciones,All,2011,32491.04,STANDARD
+J Información y comunicaciones,All,2010,32425.68,STANDARD
+J Información y comunicaciones,All,2009,31551.65,STANDARD
+J Información y comunicaciones,All,2008,30628.48,STANDARD
+J Información y comunicaciones,Female,2024,38807.08,STANDARD
+J Información y comunicaciones,Female,2023,36392.76,STANDARD
+J Información y comunicaciones,Female,2022,34306.95,STANDARD
+J Información y comunicaciones,Female,2021,33225.56,STANDARD
+J Información y comunicaciones,Female,2020,32227.73,STANDARD
+J Información y comunicaciones,Female,2019,30898.57,STANDARD
+J Información y comunicaciones,Female,2018,29099.47,STANDARD
+J Información y comunicaciones,Female,2017,30015.53,STANDARD
+J Información y comunicaciones,Female,2016,28834.47,STANDARD
+J Información y comunicaciones,Female,2015,28935.74,STANDARD
+J Información y comunicaciones,Female,2014,29223.97,STANDARD
+J Información y comunicaciones,Female,2013,28651.29,STANDARD
+J Información y comunicaciones,Female,2012,28166.28,STANDARD
+J Información y comunicaciones,Female,2011,28464.25,STANDARD
+J Información y comunicaciones,Female,2010,28610.13,STANDARD
+J Información y comunicaciones,Female,2009,26716.32,STANDARD
+J Información y comunicaciones,Female,2008,26573.64,STANDARD
+J Información y comunicaciones,Male,2024,45054.3,STANDARD
+J Información y comunicaciones,Male,2023,41536.56,STANDARD
+J Información y comunicaciones,Male,2022,39135.1,STANDARD
+J Información y comunicaciones,Male,2021,38514.17,STANDARD
+J Información y comunicaciones,Male,2020,37580.51,STANDARD
+J Información y comunicaciones,Male,2019,36746.41,STANDARD
+J Información y comunicaciones,Male,2018,35411.23,STANDARD
+J Información y comunicaciones,Male,2017,35768.78,STANDARD
+J Información y comunicaciones,Male,2016,34475.06,STANDARD
+J Información y comunicaciones,Male,2015,35417.86,STANDARD
+J Información y comunicaciones,Male,2014,34740.6,STANDARD
+J Información y comunicaciones,Male,2013,35756.26,STANDARD
+J Información y comunicaciones,Male,2012,35196.03,STANDARD
+J Información y comunicaciones,Male,2011,34990.87,STANDARD
+J Información y comunicaciones,Male,2010,34726.99,STANDARD
+J Información y comunicaciones,Male,2009,34513.44,STANDARD
+J Información y comunicaciones,Male,2008,33090.09,STANDARD
+K Actividades financieras y de seguros,All,2024,51862.9,STANDARD
+K Actividades financieras y de seguros,All,2023,48922.8,STANDARD
+K Actividades financieras y de seguros,All,2022,47239.53,STANDARD
+K Actividades financieras y de seguros,All,2021,46122.24,STANDARD
+K Actividades financieras y de seguros,All,2020,45921.78,STANDARD
+K Actividades financieras y de seguros,All,2019,44302.71,STANDARD
+K Actividades financieras y de seguros,All,2018,45034.53,STANDARD
+K Actividades financieras y de seguros,All,2017,43773.58,STANDARD
+K Actividades financieras y de seguros,All,2016,42684.65,STANDARD
+K Actividades financieras y de seguros,All,2015,41547.07,STANDARD
+K Actividades financieras y de seguros,All,2014,40696.06,STANDARD
+K Actividades financieras y de seguros,All,2013,39607.49,STANDARD
+K Actividades financieras y de seguros,All,2012,41905.6,STANDARD
+K Actividades financieras y de seguros,All,2011,41124.22,STANDARD
+K Actividades financieras y de seguros,All,2010,41638.7,STANDARD
+K Actividades financieras y de seguros,All,2009,41863.11,STANDARD
+K Actividades financieras y de seguros,All,2008,41619.07,STANDARD
+K Actividades financieras y de seguros,Female,2024,46725.49,STANDARD
+K Actividades financieras y de seguros,Female,2023,44032.07,STANDARD
+K Actividades financieras y de seguros,Female,2022,42214.85,STANDARD
+K Actividades financieras y de seguros,Female,2021,40990.22,STANDARD
+K Actividades financieras y de seguros,Female,2020,40159.77,STANDARD
+K Actividades financieras y de seguros,Female,2019,39100.52,STANDARD
+K Actividades financieras y de seguros,Female,2018,39662.45,STANDARD
+K Actividades financieras y de seguros,Female,2017,38521.06,STANDARD
+K Actividades financieras y de seguros,Female,2016,36939.55,STANDARD
+K Actividades financieras y de seguros,Female,2015,36455.79,STANDARD
+K Actividades financieras y de seguros,Female,2014,35829.24,STANDARD
+K Actividades financieras y de seguros,Female,2013,33941.56,STANDARD
+K Actividades financieras y de seguros,Female,2012,36421.03,STANDARD
+K Actividades financieras y de seguros,Female,2011,35428.15,STANDARD
+K Actividades financieras y de seguros,Female,2010,35922.39,STANDARD
+K Actividades financieras y de seguros,Female,2009,34772.53,STANDARD
+K Actividades financieras y de seguros,Female,2008,34946.34,STANDARD
+K Actividades financieras y de seguros,Male,2024,58783.66,STANDARD
+K Actividades financieras y de seguros,Male,2023,55401.96,STANDARD
+K Actividades financieras y de seguros,Male,2022,53969.55,STANDARD
+K Actividades financieras y de seguros,Male,2021,52714.92,STANDARD
+K Actividades financieras y de seguros,Male,2020,52920.77,STANDARD
+K Actividades financieras y de seguros,Male,2019,50830.71,STANDARD
+K Actividades financieras y de seguros,Male,2018,51843.11,STANDARD
+K Actividades financieras y de seguros,Male,2017,50049.17,STANDARD
+K Actividades financieras y de seguros,Male,2016,49257.63,STANDARD
+K Actividades financieras y de seguros,Male,2015,47533.67,STANDARD
+K Actividades financieras y de seguros,Male,2014,46260.67,STANDARD
+K Actividades financieras y de seguros,Male,2013,45963.58,STANDARD
+K Actividades financieras y de seguros,Male,2012,47464.8,STANDARD
+K Actividades financieras y de seguros,Male,2011,46858.52,STANDARD
+K Actividades financieras y de seguros,Male,2010,47081.23,STANDARD
+K Actividades financieras y de seguros,Male,2009,48054.65,STANDARD
+K Actividades financieras y de seguros,Male,2008,47725.32,STANDARD
+L Actividades inmobiliarias,All,2024,28854.03,STANDARD
+L Actividades inmobiliarias,All,2023,27443.78,STANDARD
+L Actividades inmobiliarias,All,2022,26172.9,STANDARD
+L Actividades inmobiliarias,All,2021,24835.23,STANDARD
+L Actividades inmobiliarias,All,2020,23354.7,STANDARD
+L Actividades inmobiliarias,All,2019,23333.16,STANDARD
+L Actividades inmobiliarias,All,2018,21249.15,STANDARD
+L Actividades inmobiliarias,All,2017,21299.08,STANDARD
+L Actividades inmobiliarias,All,2016,20899.35,STANDARD
+L Actividades inmobiliarias,All,2015,20540.02,STANDARD
+L Actividades inmobiliarias,All,2014,20619.89,STANDARD
+L Actividades inmobiliarias,All,2013,19156.0,STANDARD
+L Actividades inmobiliarias,All,2012,19806.64,STANDARD
+L Actividades inmobiliarias,All,2011,20349.1,STANDARD
+L Actividades inmobiliarias,All,2010,19879.3,STANDARD
+L Actividades inmobiliarias,All,2009,19770.52,STANDARD
+L Actividades inmobiliarias,All,2008,19533.83,STANDARD
+L Actividades inmobiliarias,Female,2024,26324.26,STANDARD
+L Actividades inmobiliarias,Female,2023,24867.95,STANDARD
+L Actividades inmobiliarias,Female,2022,23538.96,STANDARD
+L Actividades inmobiliarias,Female,2021,21787.72,STANDARD
+L Actividades inmobiliarias,Female,2020,20142.44,STANDARD
+L Actividades inmobiliarias,Female,2019,19981.82,STANDARD
+L Actividades inmobiliarias,Female,2018,18744.33,STANDARD
+L Actividades inmobiliarias,Female,2017,18488.32,STANDARD
+L Actividades inmobiliarias,Female,2016,17809.07,STANDARD
+L Actividades inmobiliarias,Female,2015,17330.11,STANDARD
+L Actividades inmobiliarias,Female,2014,17775.63,STANDARD
+L Actividades inmobiliarias,Female,2013,16700.49,STANDARD
+L Actividades inmobiliarias,Female,2012,17538.33,STANDARD
+L Actividades inmobiliarias,Female,2011,17988.21,STANDARD
+L Actividades inmobiliarias,Female,2010,17089.82,STANDARD
+L Actividades inmobiliarias,Female,2009,17103.63,STANDARD
+L Actividades inmobiliarias,Female,2008,16850.02,STANDARD
+L Actividades inmobiliarias,Male,2024,32499.74,STANDARD
+L Actividades inmobiliarias,Male,2023,31040.51,STANDARD
+L Actividades inmobiliarias,Male,2022,30649.13,STANDARD
+L Actividades inmobiliarias,Male,2021,29120.96,STANDARD
+L Actividades inmobiliarias,Male,2020,28191.02,STANDARD
+L Actividades inmobiliarias,Male,2019,28296.98,STANDARD
+L Actividades inmobiliarias,Male,2018,25083.49,STANDARD
+L Actividades inmobiliarias,Male,2017,25392.77,STANDARD
+L Actividades inmobiliarias,Male,2016,25172.74,STANDARD
+L Actividades inmobiliarias,Male,2015,25763.32,STANDARD
+L Actividades inmobiliarias,Male,2014,24909.19,STANDARD
+L Actividades inmobiliarias,Male,2013,22821.1,STANDARD
+L Actividades inmobiliarias,Male,2012,23419.14,STANDARD
+L Actividades inmobiliarias,Male,2011,24150.05,STANDARD
+L Actividades inmobiliarias,Male,2010,23993.28,STANDARD
+L Actividades inmobiliarias,Male,2009,24134.65,STANDARD
+L Actividades inmobiliarias,Male,2008,23815.81,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2024,35165.11,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2023,32547.76,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2022,30947.87,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2021,29926.53,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2020,28918.19,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2019,28150.21,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2018,28058.48,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2017,27450.26,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2016,26520.32,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2015,26347.37,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2014,26275.51,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2013,25472.07,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2012,25098.86,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2011,25350.42,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2010,25531.08,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2009,25516.94,STANDARD
+"M Actividades profesionales, científicas y técnicas",All,2008,24733.75,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2024,31047.52,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2023,28661.79,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2022,26804.95,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2021,25741.8,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2020,24433.23,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2019,23592.72,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2018,23409.52,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2017,22708.98,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2016,21942.88,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2015,21980.57,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2014,21964.47,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2013,21226.6,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2012,20753.36,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2011,21157.99,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2010,21309.65,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2009,20598.86,STANDARD
+"M Actividades profesionales, científicas y técnicas",Female,2008,19829.67,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2024,40070.08,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2023,37139.77,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2022,36259.18,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2021,34926.19,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2020,34161.9,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2019,33541.11,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2018,33778.27,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2017,33020.51,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2016,31967.2,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2015,31586.27,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2014,31673.25,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2013,30643.51,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2012,30381.47,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2011,30460.83,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2010,30649.18,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2009,31325.34,STANDARD
+"M Actividades profesionales, científicas y técnicas",Male,2008,30329.05,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2024,21096.87,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2023,19891.91,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2022,18995.66,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2021,18118.66,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2020,17808.53,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2019,17107.54,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2018,17176.75,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2017,16519.76,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2016,16139.11,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2015,15948.63,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2014,15766.08,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2013,15809.74,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2012,16130.55,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2011,16199.14,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2010,15682.32,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2009,15855.38,STANDARD
+N Actividades administrativas y servicios auxiliares,All,2008,15818.18,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2024,17611.54,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2023,16766.78,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2022,16391.55,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2021,15248.42,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2020,14835.74,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2019,14322.39,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2018,14101.23,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2017,13604.08,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2016,13309.47,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2015,13085.14,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2014,12922.01,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2013,13028.72,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2012,13273.88,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2011,13246.21,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2010,12864.94,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2009,13056.08,STANDARD
+N Actividades administrativas y servicios auxiliares,Female,2008,13303.46,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2024,25450.66,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2023,23799.31,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2022,22360.55,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2021,21648.58,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2020,21522.75,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2019,20661.14,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2018,20793.89,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2017,20174.91,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2016,19749.55,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2015,19823.51,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2014,19623.29,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2013,19466.1,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2012,19875.18,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2011,19762.5,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2010,19705.22,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2009,19132.9,STANDARD
+N Actividades administrativas y servicios auxiliares,Male,2008,18666.16,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2024,37517.88,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2023,36383.99,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2022,34036.02,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2021,34010.01,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2020,32581.96,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2019,31090.95,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2018,29824.04,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2017,29015.05,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2016,29134.91,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2015,28559.79,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2014,27568.54,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2013,27707.13,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2012,26878.73,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2011,27816.09,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2010,28001.68,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2009,27590.9,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",All,2008,26927.57,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2024,35694.12,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2023,34584.95,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2022,32272.17,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2021,32137.79,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2020,31268.62,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2019,29992.17,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2018,28095.08,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2017,27391.38,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2016,27547.36,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2015,27305.84,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2014,26267.91,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2013,25583.73,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2012,25092.34,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2011,25850.93,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2010,26224.16,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2009,25830.1,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Female,2008,24860.38,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2024,39489.64,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2023,38237.83,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2022,35813.05,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2021,35908.23,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2020,33931.79,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2019,32213.06,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2018,31469.33,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2017,30581.96,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2016,30712.29,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2015,29827.97,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2014,28772.03,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2013,29827.25,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2012,28632.29,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2011,29877.61,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2010,29872.45,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2009,29382.33,STANDARD
+"O Administración Pública y defensa, Seguridad Social obligatoria",Male,2008,29023.9,STANDARD
+P Educación,All,2024,32210.11,STANDARD
+P Educación,All,2023,30913.75,STANDARD
+P Educación,All,2022,29263.89,STANDARD
+P Educación,All,2021,28272.76,STANDARD
+P Educación,All,2020,27076.32,STANDARD
+P Educación,All,2019,25913.06,STANDARD
+P Educación,All,2018,23679.17,STANDARD
+P Educación,All,2017,23559.77,STANDARD
+P Educación,All,2016,22289.73,STANDARD
+P Educación,All,2015,21667.33,STANDARD
+P Educación,All,2014,20925.83,STANDARD
+P Educación,All,2013,21946.95,STANDARD
+P Educación,All,2012,21596.16,STANDARD
+P Educación,All,2011,21564.58,STANDARD
+P Educación,All,2010,21751.87,STANDARD
+P Educación,All,2009,21703.1,STANDARD
+P Educación,All,2008,20883.28,STANDARD
+P Educación,Female,2024,31350.59,STANDARD
+P Educación,Female,2023,30342.13,STANDARD
+P Educación,Female,2022,28258.5,STANDARD
+P Educación,Female,2021,27453.63,STANDARD
+P Educación,Female,2020,26349.55,STANDARD
+P Educación,Female,2019,25220.98,STANDARD
+P Educación,Female,2018,23225.84,STANDARD
+P Educación,Female,2017,22784.01,STANDARD
+P Educación,Female,2016,21622.53,STANDARD
+P Educación,Female,2015,20981.61,STANDARD
+P Educación,Female,2014,20347.91,STANDARD
+P Educación,Female,2013,20974.85,STANDARD
+P Educación,Female,2012,20700.46,STANDARD
+P Educación,Female,2011,20797.76,STANDARD
+P Educación,Female,2010,20872.37,STANDARD
+P Educación,Female,2009,21459.46,STANDARD
+P Educación,Female,2008,20591.85,STANDARD
+P Educación,Male,2024,33953.98,STANDARD
+P Educación,Male,2023,32129.3,STANDARD
+P Educación,Male,2022,31290.07,STANDARD
+P Educación,Male,2021,29804.04,STANDARD
+P Educación,Male,2020,28469.49,STANDARD
+P Educación,Male,2019,27292.76,STANDARD
+P Educación,Male,2018,24532.37,STANDARD
+P Educación,Male,2017,25093.05,STANDARD
+P Educación,Male,2016,23662.96,STANDARD
+P Educación,Male,2015,23143.33,STANDARD
+P Educación,Male,2014,22079.28,STANDARD
+P Educación,Male,2013,23890.76,STANDARD
+P Educación,Male,2012,23477.45,STANDARD
+P Educación,Male,2011,23271.51,STANDARD
+P Educación,Male,2010,23453.74,STANDARD
+P Educación,Male,2009,22237.76,STANDARD
+P Educación,Male,2008,21489.54,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2024,32224.93,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2023,31211.67,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2022,30381.25,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2021,28891.41,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2020,28313.74,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2019,27557.2,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2018,26851.1,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2017,26076.47,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2016,25955.32,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2015,25823.88,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2014,24826.42,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2013,24804.42,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2012,25103.59,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2011,26058.28,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2010,26331.24,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2009,25622.97,STANDARD
+Q Actividades sanitarias y de servicios sociales,All,2008,24837.68,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2024,30197.1,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2023,29198.31,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2022,28312.57,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2021,26403.18,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2020,25957.39,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2019,25432.12,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2018,24599.63,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2017,23839.44,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2016,23655.12,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2015,23889.48,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2014,22864.48,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2013,22691.89,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2012,22843.58,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2011,23893.28,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2010,24173.67,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2009,23850.5,STANDARD
+Q Actividades sanitarias y de servicios sociales,Female,2008,23088.89,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2024,39246.0,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2023,38317.12,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2022,37097.58,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2021,37270.15,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2020,36248.27,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2019,34771.18,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2018,34173.79,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2017,33735.05,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2016,33723.1,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2015,32830.89,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2014,30865.19,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2013,32175.94,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2012,32786.85,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2011,33198.3,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2010,33556.49,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2009,31757.12,STANDARD
+Q Actividades sanitarias y de servicios sociales,Male,2008,30503.04,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2024,20383.16,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2023,20634.29,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2022,19360.67,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2021,18380.69,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2020,18638.95,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2019,18088.1,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2018,18517.55,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2017,17703.25,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2016,17525.18,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2015,17375.02,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2014,16912.45,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2013,18101.83,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2012,17222.25,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2011,18106.28,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2010,18044.67,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2009,16857.96,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",All,2008,16763.31,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2024,18551.36,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2023,18846.49,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2022,17268.37,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2021,16753.59,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2020,16822.41,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2019,16253.15,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2018,16365.6,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2017,15526.43,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2016,15209.43,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2015,14741.49,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2014,13824.19,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2013,15960.79,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2012,14784.54,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2011,15840.54,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2010,15131.16,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2009,15058.31,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Female,2008,14538.66,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2024,21884.96,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2023,21941.85,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2022,20892.08,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2021,19600.5,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2020,19934.49,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2019,19402.36,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2018,20139.56,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2017,19406.65,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2016,19367.34,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2015,19571.39,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2014,19512.34,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2013,19938.5,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2012,19139.23,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2011,19872.84,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2010,20345.08,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2009,18371.52,STANDARD
+"R Actividades artísticas, recreativas y de entretenimiento",Male,2008,18667.22,STANDARD
+S Otros servicios,All,2024,20951.43,STANDARD
+S Otros servicios,All,2023,19751.59,STANDARD
+S Otros servicios,All,2022,18269.96,STANDARD
+S Otros servicios,All,2021,18220.77,STANDARD
+S Otros servicios,All,2020,17468.15,STANDARD
+S Otros servicios,All,2019,17066.82,STANDARD
+S Otros servicios,All,2018,16374.23,STANDARD
+S Otros servicios,All,2017,16202.92,STANDARD
+S Otros servicios,All,2016,15782.15,STANDARD
+S Otros servicios,All,2015,16033.97,STANDARD
+S Otros servicios,All,2014,16225.41,STANDARD
+S Otros servicios,All,2013,16734.95,STANDARD
+S Otros servicios,All,2012,16918.36,STANDARD
+S Otros servicios,All,2011,17035.17,STANDARD
+S Otros servicios,All,2010,16544.57,STANDARD
+S Otros servicios,All,2009,15868.73,STANDARD
+S Otros servicios,All,2008,15412.44,STANDARD
+S Otros servicios,Female,2024,18913.05,STANDARD
+S Otros servicios,Female,2023,17807.08,STANDARD
+S Otros servicios,Female,2022,16590.01,STANDARD
+S Otros servicios,Female,2021,16367.77,STANDARD
+S Otros servicios,Female,2020,15319.56,STANDARD
+S Otros servicios,Female,2019,14952.83,STANDARD
+S Otros servicios,Female,2018,14266.89,STANDARD
+S Otros servicios,Female,2017,14000.99,STANDARD
+S Otros servicios,Female,2016,13687.57,STANDARD
+S Otros servicios,Female,2015,13772.86,STANDARD
+S Otros servicios,Female,2014,13960.86,STANDARD
+S Otros servicios,Female,2013,14190.29,STANDARD
+S Otros servicios,Female,2012,14254.29,STANDARD
+S Otros servicios,Female,2011,14315.37,STANDARD
+S Otros servicios,Female,2010,14040.56,STANDARD
+S Otros servicios,Female,2009,13721.92,STANDARD
+S Otros servicios,Female,2008,13066.14,STANDARD
+S Otros servicios,Male,2024,24903.68,STANDARD
+S Otros servicios,Male,2023,23507.51,STANDARD
+S Otros servicios,Male,2022,22151.54,STANDARD
+S Otros servicios,Male,2021,21823.47,STANDARD
+S Otros servicios,Male,2020,21780.54,STANDARD
+S Otros servicios,Male,2019,21425.62,STANDARD
+S Otros servicios,Male,2018,20798.04,STANDARD
+S Otros servicios,Male,2017,20752.34,STANDARD
+S Otros servicios,Male,2016,20195.94,STANDARD
+S Otros servicios,Male,2015,20781.89,STANDARD
+S Otros servicios,Male,2014,21003.6,STANDARD
+S Otros servicios,Male,2013,21893.63,STANDARD
+S Otros servicios,Male,2012,22308.37,STANDARD
+S Otros servicios,Male,2011,22304.83,STANDARD
+S Otros servicios,Male,2010,21759.21,STANDARD
+S Otros servicios,Male,2009,20085.94,STANDARD
+S Otros servicios,Male,2008,19826.09,STANDARD

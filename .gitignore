@@ -1,0 +1,40 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Database backups
+*.dump
+*.backup
+
+# Testing and cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

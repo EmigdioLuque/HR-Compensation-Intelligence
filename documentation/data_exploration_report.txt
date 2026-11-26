@@ -1,0 +1,200 @@
+======================================================================
+HR COMPENSATION INTELLIGENCE
+DATA EXPLORATION REPORT
+======================================================================
+
+======================================================================
+DATASET: Labour Costs
+FILE: 6032.csv
+======================================================================
+
+1. DATASET DIMENSIONS
+Rows: 16,872
+Columns: 4
+
+2. COLUMN NAMES
+['Secciones de la CNAE-09', 'Componentes del coste', 'Periodo', 'Total']
+
+3. DATA TYPES
+Secciones de la CNAE-09    object
+Componentes del coste      object
+Periodo                    object
+Total                      object
+dtype: object
+
+4. MISSING VALUES
+Secciones de la CNAE-09    0
+Componentes del coste      0
+Periodo                    0
+Total                      0
+dtype: int64
+
+5. DUPLICATE RECORDS
+0
+
+6. SAMPLE DATA
+                                                                                                                          Secciones de la CNAE-09 Componentes del coste Periodo    Total
+B_S Industria, construcción y servicios (excepto actividades de los hogares como empleadores y de organizaciones y organismos extraterritoriales)   Coste laboral total  2026T2 3.388,15
+B_S Industria, construcción y servicios (excepto actividades de los hogares como empleadores y de organizaciones y organismos extraterritoriales)   Coste laboral total  2026T1 3.278,01
+B_S Industria, construcción y servicios (excepto actividades de los hogares como empleadores y de organizaciones y organismos extraterritoriales)   Coste laboral total  2025T4 3.382,67
+B_S Industria, construcción y servicios (excepto actividades de los hogares como empleadores y de organizaciones y organismos extraterritoriales)   Coste laboral total  2025T3 3.111,76
+B_S Industria, construcción y servicios (excepto actividades de los hogares como empleadores y de organizaciones y organismos extraterritoriales)   Coste laboral total  2025T2 3.256,54
+
+======================================================================
+DATASET: Salary by Economic Activity
+FILE: 28185.csv
+======================================================================
+
+1. DATASET DIMENSIONS
+Rows: 969
+Columns: 4
+
+2. COLUMN NAMES
+['Secciones de la CNAE 2009', 'Sexo', 'Periodo', 'Total']
+
+3. DATA TYPES
+Secciones de la CNAE 2009    object
+Sexo                         object
+Periodo                       int64
+Total                        object
+dtype: object
+
+4. MISSING VALUES
+Secciones de la CNAE 2009    0
+Sexo                         0
+Periodo                      0
+Total                        0
+dtype: int64
+
+5. DUPLICATE RECORDS
+0
+
+6. SAMPLE DATA
+Secciones de la CNAE 2009        Sexo  Periodo     Total
+  B_S Todas las secciones Ambos sexos     2024 29.540,26
+  B_S Todas las secciones Ambos sexos     2023 28.049,94
+  B_S Todas las secciones Ambos sexos     2022 26.948,87
+  B_S Todas las secciones Ambos sexos     2021 25.896,82
+  B_S Todas las secciones Ambos sexos     2020 25.165,51
+
+======================================================================
+DATASET: Salary by Occupation
+FILE: 28186.csv
+======================================================================
+
+1. DATASET DIMENSIONS
+Rows: 918
+Columns: 4
+
+2. COLUMN NAMES
+['Grupos principales de la CNO-11', 'Sexo', 'Periodo', 'Total']
+
+3. DATA TYPES
+Grupos principales de la CNO-11    object
+Sexo                               object
+Periodo                             int64
+Total                              object
+dtype: object
+
+4. MISSING VALUES
+Grupos principales de la CNO-11     0
+Sexo                                0
+Periodo                             0
+Total                              62
+dtype: int64
+
+5. DUPLICATE RECORDS
+0
+
+6. SAMPLE DATA
+Grupos principales de la CNO-11        Sexo  Periodo     Total
+          Todas las ocupaciones Ambos sexos     2024 29.540,26
+          Todas las ocupaciones Ambos sexos     2023 28.049,94
+          Todas las ocupaciones Ambos sexos     2022 26.948,87
+          Todas las ocupaciones Ambos sexos     2021 25.896,82
+          Todas las ocupaciones Ambos sexos     2020 25.165,51
+
+======================================================================
+DATASET: Regional Salary by Sector
+FILE: 28192.csv
+======================================================================
+
+1. DATASET DIMENSIONS
+Rows: 3,672
+Columns: 5
+
+2. COLUMN NAMES
+['Comunidades autónomas', 'Sectores de actividad', 'Sexo', 'Periodo', 'Total']
+
+3. DATA TYPES
+Comunidades autónomas    object
+Sectores de actividad    object
+Sexo                     object
+Periodo                   int64
+Total                    object
+dtype: object
+
+4. MISSING VALUES
+Comunidades autónomas      0
+Sectores de actividad      0
+Sexo                       0
+Periodo                    0
+Total                    196
+dtype: int64
+
+5. DUPLICATE RECORDS
+0
+
+6. SAMPLE DATA
+Comunidades autónomas Sectores de actividad        Sexo  Periodo     Total
+       Total Nacional    Todos los sectores Ambos sexos     2024 29.540,26
+       Total Nacional    Todos los sectores Ambos sexos     2023 28.049,94
+       Total Nacional    Todos los sectores Ambos sexos     2022 26.948,87
+       Total Nacional    Todos los sectores Ambos sexos     2021 25.896,82
+       Total Nacional    Todos los sectores Ambos sexos     2020 25.165,51
+
+======================================================================
+DATASET: Regional Salary by Occupation
+FILE: 28193.csv
+======================================================================
+
+1. DATASET DIMENSIONS
+Rows: 3,672
+Columns: 5
+
+2. COLUMN NAMES
+['Comunidades autónomas', 'Ocupación', 'Sexo', 'Periodo', 'Total']
+
+3. DATA TYPES
+Comunidades autónomas    object
+Ocupación                object
+Sexo                     object
+Periodo                   int64
+Total                    object
+dtype: object
+
+4. MISSING VALUES
+Comunidades autónomas    0
+Ocupación                0
+Sexo                     0
+Periodo                  0
+Total                    0
+dtype: int64
+
+5. DUPLICATE RECORDS
+0
+
+6. SAMPLE DATA
+Comunidades autónomas             Ocupación        Sexo  Periodo     Total
+       Total Nacional Todas las ocupaciones Ambos sexos     2024 29.540,26
+       Total Nacional Todas las ocupaciones Ambos sexos     2023 28.049,94
+       Total Nacional Todas las ocupaciones Ambos sexos     2022 26.948,87
+       Total Nacional Todas las ocupaciones Ambos sexos     2021 25.896,82
+       Total Nacional Todas las ocupaciones Ambos sexos     2020 25.165,51
+
+======================================================================
+EXPLORATION SUMMARY
+======================================================================
+Datasets configured: 5
+Total records loaded: 26,103
+======================================================================
