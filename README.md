@@ -480,45 +480,81 @@ without requiring a live database connection.
 
 ### Prerequisites
 
-- Python
-- PostgreSQL
+- Python 3.11
 - Git
-- Configured PostgreSQL database
+- PostgreSQL (optional for CSV mode)
 
 ### Clone the Repository
 
-    git clone https://github.com/EmigdioLuque/HR-Compensation-Intelligence.git
-
-    cd HR-Compensation-Intelligence
+```bash
+git clone https://github.com/EmigdioLuque/HR-Compensation-Intelligence.git
+cd HR-Compensation-Intelligence
+```
 
 ### Create a Virtual Environment
 
-    python3 -m venv .venv
-
-    source .venv/bin/activate
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
 
 ### Install Dependencies
 
-Install the Python dependencies required by the application.
+```bash
+pip install -r requirements.txt
+```
 
-### Database Configuration
+### Option A — CSV Mode
 
-Configure the PostgreSQL connection using local
-environment variables.
+The default execution mode uses the analytical snapshots
+stored in the data/analytics/ directory.
 
-Execute the data preparation and SQL scripts in their
-required dependency order to initialise the staging,
-warehouse and analytics schemas.
+No PostgreSQL installation or database credentials are required.
+
+```bash
+DATA_MODE=csv python -m streamlit run dashboard/app.py
+```
+
+### Option B — PostgreSQL Mode
+
+This mode connects directly to the PostgreSQL analytical
+views and requires a configured local database.
+
+Create a local environment configuration:
+
+```bash
+cp .env.example .env
+```
+
+Configure the database credentials in the .env file.
+
+Execute the Python data preparation scripts and SQL
+initialisation scripts in their required dependency order
+to build the staging, warehouse and analytics schemas.
+
+Launch the application:
+
+```bash
+DATA_MODE=postgresql python -m streamlit run dashboard/app.py
+```
 
 Database credentials must never be committed to
 the public repository.
 
-### Launch the Application
-
-    python -m streamlit run dashboard/app.py
+### Access the Application
 
 Open the local address displayed by Streamlit
 to access the analytical platform.
+
+### Public Deployment
+
+The public application is hosted on Streamlit Community
+Cloud using analytical snapshots generated from PostgreSQL.
+
+This approach provides public access without requiring
+an externally hosted database server.
+
+[Launch the public dashboard](https://hr-compensation-intelligence.streamlit.app/)
 
 ---
 
