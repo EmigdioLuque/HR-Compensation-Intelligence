@@ -17,11 +17,20 @@ to support evidence-based compensation and workforce decisions.
 
 ## Live Application
 
-**Interactive Dashboard — Deployment in progress**
+[![Launch Dashboard](https://img.shields.io/badge/Launch_Live_Dashboard-722F46?style=for-the-badge&logo=streamlit&logoColor=white)](https://hr-compensation-intelligence.streamlit.app/)
 
-Explore the Spanish labour market through eight interactive
-analytical modules, historical salary benchmarks and workforce
-cost simulations.
+**[Explore HR Compensation Intelligence](https://hr-compensation-intelligence.streamlit.app/)**
+
+The platform is publicly available through Streamlit Community
+Cloud, providing access to eight interactive analytical modules,
+historical salary benchmarks and workforce cost simulations.
+
+No installation or database configuration is required to explore
+the public dashboard.
+
+The deployed application uses analytical data snapshots exported
+from PostgreSQL, while the local architecture supports direct
+database connectivity.
 
 ---
 
